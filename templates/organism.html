@@ -1,0 +1,125 @@
+<!--
+                                                          :::      ::::::::
+     organism.html                                      :+:      :+:    :+:
+                                                      +:+ +:+         +:+
+     By: hdezier <hdezier@student.42.fr>            +#+  +:+       +#+
+                                                  +#+#+#+#+#+   +#+
+     Created: 2016/11/18 16:02:42 by hdezier           #+#    #+#
+     Updated: 2016/12/07 17:40:51 by hdezier          ###   ########.fr
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Organismes</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <link href="/static/css/semantic.min.css" rel="stylesheet">
+  <link href="/static/css/common.css" rel="stylesheet">
+	<link rel="icon" type="image/png" href="/static/img/NF.png">
+</head>
+<body class="body-bottom">
+  {{template "header" .UserInfo}}
+  <div class="pusher">
+	    <div class="ui top segment">
+	    	<div class="ui top label container big colorturquoise centered">
+				{{.Data.Name}}
+	    	  <div class="ui rating disable" data-rating={{.Data.GlobalRating}} data-max-rating="5"></div>
+	    	</div>
+	    </div>
+      <div class="ui segment grid">
+      <div class="ui ten wide column">
+        <table class="ui black table celled striped">
+          <thead>
+            <tr><th colspan="3">
+              {{.Data.CorporateName}}
+            </th>
+          </tr></thead>
+          <tbody>
+            <tr>
+              <td class="right aligned collapsing">
+                Adresse
+              </td>
+              <td id="adress">{{.Data.Contact.Adress.Street}} <br> {{.Data.Contact.Adress.Zip}} {{.Data.Contact.Adress.Locality}}
+              </td>
+            </tr>
+            <tr>
+              <td class="right aligned collapsing">
+                Numero de telephone
+              </td>
+              <td>
+              {{.Data.Contact.Tel}}
+              </td>
+            </tr>
+            <tr>
+              <td class="right aligned collapsing">
+                Site internet
+              </td>
+              <td>
+              {{.Data.Contact.Website}}
+              </td>
+            </tr>
+            <tr>
+              <td class="right aligned collapsing">
+                Mail
+              </td>
+              <td>
+              {{.Data.Contact.Mail}}
+              </td>
+            </tr>
+            <tr>
+              <td class="right aligned collapsing">
+                Siret
+              </td>
+              <td>{{.Data.Siret}}</td>
+            </tr>
+            <tr>
+              <td class="right aligned collapsing">
+                fields
+              </td>
+              <td>
+                {{ range $key, $value := .Data.Fields }}
+                  <div class="ui image label">{{$key}}</div>
+                {{ end }}
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div id="map" class="ui six wide column">
+      </div>
+      </div>
+	    <div class="ui segment" id="commentscontainer">
+        <div class="ui segment" id="response-info"></div>
+	      {{template "comments"}}
+	    </div>
+      {{if (and .Logged (not .AlreadyCommented)) }}
+      <div class="ui segment" id="newcommentcontainer">
+        {{template "newcommentorganism"}}
+      </div>
+      {{end}}
+      </div>
+    </div>
+    {{template "footer"}}
+  </div>
+</body>
+{{template "scripts"}}
+<script type="text/javascript" src="/static/js/list.js"></script>
+<script type="text/javascript" src="/static/js/render.js"></script>
+<script type="text/javascript" src="/static/js/url.js"></script>
+<script type="text/javascript" src="/static/js/gmaps.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDic50ciJOPIZ05TViE1E7NyiHEtkVWcxo&callback=initMap&libraries=places"async defer></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$('.ui.rating').rating();
+    $('.ui.rating').rating('setting', 'clearable', true)
+    $('.ui.rating.disable').rating('disable');
+    $('#showScroll').click(function () {
+      ShowHideAndScroll('post-comment', 'newcommentcontainer')
+    })
+    $('#show-details-comment').click(ShowHideCommentDetails)
+		init_list("list-comments", "/api/organism/" + getUrlID() + "/comments", renderCommentOrganism, renderCommentOrganismPagination)
+		refresh("list-comments", {page: 1, limit:25, sortOrder:null})
+	})
+</script></html>

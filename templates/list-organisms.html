@@ -1,0 +1,35 @@
+<!--
+                                                          :::      ::::::::
+     list-organisms.html                                :+:      :+:    :+:
+                                                      +:+ +:+         +:+
+     By: drabahi <drabahi@student.42.fr>            +#+  +:+       +#+
+                                                  +#+#+#+#+#+   +#+
+     Created: 2016/11/14 16:27:09 by hdezier           #+#    #+#
+     Updated: 2016/11/22 19:22:33 by drabahi          ###   ########.fr
+-->
+
+{{define "list-organisms"}}
+<div class="row ui grid">
+	<div class="three wide column">
+		<div class="ui selection dropdown nelem">
+		  <input name="gender" type="hidden">
+		  <i class="dropdown icon"></i>
+		  <div class="default text">Voir</div>
+		  <div class="menu">
+		    <div class="item" data-value="10">10</div>
+		    <div class="item" data-value="25">25</div>
+		    <div class="item" data-value="50">50</div>
+		    <div class="item" data-value="100">100</div>
+		  </div>
+		</div>
+	</div>
+	<div class="ten wide column">
+		<h2 class="ui header centered">Organismes</h2>
+		<div id="list-organisms"></div>
+	</div>
+	<div class="three wide column"></div>
+	<div class="ui centered horizontal eight column">
+		<div class ="ui pagination menu" id="list-organisms-pagination"></div>
+	</div>
+</div>
+{{end}}

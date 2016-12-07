@@ -1,0 +1,70 @@
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+
+.body-bottom {
+  min-height: 100%;
+  margin-bottom: -41px;
+  position: relative;
+}
+
+.headerfix {
+  display: inline-block;
+  vertical-align:top;
+  margin: 0px 0px 0px 0px !important;
+  padding: 10px 0px 5px 10px !important;
+  background-color: black;
+}
+
+.footerfix{
+  margin: 0px 0px 0px 0px !important;
+  padding: 10px 0px 10px 0px !important;
+  position: absolute;
+  bottom: 0 !important;
+  background-color: black;
+}
+
+.colorturquoise{
+  color:#36a9b6 !important;
+}
+
+.colorgrey{
+  color:#515151 !important;
+}
+
+@media only screen and (max-width: 767px) {
+  .sousheader {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin-top:150px !important;
+  }
+}
+
+/*@media (min-height: 320px) {
+  .ui.footer.form-page {  Increased specificity for SO snippet priority
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+}*/
+
+
+.avatarcom{
+  height: 56px !important;
+  width: 56px !important;
+}
+
+/*
+Fix comments rendering
+*/
+.ui.grid + .grid {
+    margin-top: 0rem;
+}

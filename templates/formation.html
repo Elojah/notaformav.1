@@ -1,0 +1,159 @@
+
+<!--
+                                                          :::      ::::::::
+     formation.html                                     :+:      :+:    :+:
+                                                      +:+ +:+         +:+
+     By: hdezier <hdezier@student.42.fr>            +#+  +:+       +#+
+                                                  +#+#+#+#+#+   +#+
+     Created: 2016/11/17 13:41:40 by hdezier           #+#    #+#
+     Updated: 2016/11/23 15:03:22 by hdezier          ###   ########.fr
+ -->
+
+ <!DOCTYPE html>
+ <html>
+ <head>
+ 	<title>Formation</title>
+ 	<meta charset="utf-8">
+ 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+ 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+ 	<link href="/static/css/semantic.min.css" rel="stylesheet">
+ 	<link href="/static/css/common.css" rel="stylesheet">
+ 	<link rel="icon" type="image/png" href="/static/img/NF.png">
+ </head>
+ <body class="body-bottom">
+ 	{{template "header" .UserInfo}}
+ 	<div class="pusher">
+ 		<div class="ui segments container">
+ 			<div class="ui top basic segment">
+ 				<div class="ui top label container big eight column floated left colorturquoise">
+ 					{{.Data.Name}}
+ 					<div class="ui rating disable" data-rating={{.Data.GlobalRating}} data-max-rating="5"></div>
+ 				</div>
+ 				<div class="ui top">
+ 					<div class="ui top attached tabular menu">
+ 						<a class="item active" data-tab="objprog">Objectif et programme</a>
+ 						<a class="item" data-tab="moda">Modalité</a>
+ 						<a class="item" data-tab="acces">Accessibilité</a>
+ 						<a class="item" data-tab="orga">Organisme</a>
+ 					</div>
+ 					<div class="ui bottom attached tab segment active" data-tab="objprog">
+ 						<div class="ui text segment black">
+ 							<h5 class="ui top attached block header">Objectifs :</h5>
+ 							{{.Data.Objectives}}
+ 						</div>
+ 						<div class="ui text segment black">
+ 							<h5 class="ui top attached block header">Programme :</h5>
+ 							{{ range $key, $value := .Data.Programme }}
+ 							<li> {{ $value }}</li>
+ 							{{ end }}
+ 						</div>
+ 					</div>
+ 					<div class="ui bottom attached tab segment" data-tab="moda">
+ 						<div class="ui text segment black">
+ 							<h5 class="ui top attached block header">Validation :</h5>
+ 							{{ range $key, $value := .Data.Validation }}
+ 							{{ $value }}
+ 							{{ end }}
+ 						</div>
+ 						<div class="ui text segment black">
+ 							<h5 class="ui top attached block header">Type :</h5>
+ 							{{ range $key, $value := .Data.Type }}
+ 							{{ $value }}
+ 							{{ end }}
+ 						</div>
+ 						<div class="ui text segment black">
+ 							<h5 class="ui top attached block header">Niveau de sortie :</h5>
+ 							{{.Data.OutputLevel}}
+ 						</div>
+ 						<div class="ui text segment black">
+ 							<h5 class="ui top attached block header">Modalités pédagogiques :</h5>
+ 							{{.Data.PedagogicalTerms}}
+ 						</div>
+ 						<div class="ui text segment black">
+ 							<h5 class="ui top attached block header">Durée :</h5>
+ 							{{ range $key, $value := .Data.Duration }}
+ 							{{ $value }}
+ 							{{ end }}
+ 						</div>
+ 						<div class="ui text segment black">
+ 							<h5 class="ui top attached block header">Type de cours :</h5>
+ 							{{ range $key, $value := .Data.WorkStudyTerms }}
+ 							{{ $value }}
+ 							{{ end }}
+ 						</div>
+ 					</div>
+ 					<div class="ui bottom attached tab segment" data-tab="acces">
+ 						<div class="ui text segment black">
+ 							<h5 class="ui top attached block header">Finance :</h5>
+ 							Finance par le service public: {{if .Data.PublicServiceContract}}
+ 							Oui
+ 							{{else}}
+ 							Non
+ 							{{end}}
+ 							{{ range $key, $value := .Data.Financers }}
+ 							{{ $value }}
+ 							{{ end }}
+ 						</div>
+ 						<div class="ui text segment black">
+ 							<h5 class="ui top attached block header">Acces public :</h5>
+ 							{{ range $key, $value := .Data.PublicAccess }}
+ 							{{ $value }}
+ 							{{ end }}
+ 						</div>
+ 						<div class="ui text segment black">
+ 							<h5 class="ui top attached block header">Admission :</h5>
+ 							{{ range $key, $value := .Data.AdmissionTerm }}
+ 							{{ $value }}
+ 							{{ end }}
+ 						</div>
+ 						<div class="ui text segment black">
+ 							<h5 class="ui top attached block header">Niveau d'entrée :</h5>
+ 							{{.Data.EntryLevel}}
+ 						</div>
+ 						<div class="ui text segment black">
+ 							<h5 class="ui top attached block header">Pré-requis :</h5>
+ 							{{ range $key, $value := .Data.Prerequisite }}
+ 							{{ $value }}
+ 							{{ end }}
+ 						</div>
+ 					</div>
+ 					<div class="ui bottom attached tab segment" data-tab="orga">
+ 						<div class="ui text segment black">
+ 							<h5 class="ui top attached block header">Organisme</h5>
+ 							<a href="/organism/{{.Data.ParentId}}">Organisme parent</a>
+ 						</div>
+ 					</div>
+ 				</div>
+ 			</div>
+ 		</div>
+ 		<div class="ui segment" id="commentscontainer">
+ 			<div class="ui segment" id="response-info"></div>
+ 			{{template "comments"}}
+ 		</div>
+ 		{{if (and .Logged (not .AlreadyCommented)) }}
+ 		<div class="ui segment" id="newcommentcontainer">
+ 			{{template "newcommentformation"}}
+ 		</div>
+ 		{{end}}
+ 	</div>
+ <!-- </div> -->
+ <div>
+ 	{{template "footer"}}
+ </div>
+</body>
+{{template "scripts"}}
+<script type="text/javascript" src="/static/js/list.js"></script>
+<script type="text/javascript" src="/static/js/render.js"></script>
+<script type="text/javascript" src="/static/js/url.js"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$('#showScroll').click(function () {
+			ShowHideAndScroll('post-comment', 'newcommentcontainer')
+		})
+		init_list("list-comments", "/api/formation/" + getUrlID() + "/comments", renderCommentFormation, renderCommentFormationPagination)
+		refresh("list-comments", {page: 1, limit:25, sortOrder:null})
+	})
+	$('.menu .item')
+	.tab();
+</script>
+</html>

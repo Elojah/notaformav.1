@@ -1,0 +1,1769 @@
+[
+    {
+        "id": "form1de42",
+        "parentid": "heu..chaipas",
+        "name": "42 - Formation développeur informatique",
+        "objectives": "- Maitrise des langages de programmation (C/C++/PHP). - Maitrise des systèmes de gestion de base de données. - Compétences managériales et travail en équipe. - Concevoir des solutions web et/ou logiciel. - S'informer et se former de façon continue sur les nouveautés technologiques.",
+        "programme": [
+            "Durant la formation nous vous ferons aborder 3 langages de programmation, le C, le C++ et le PHP et enfin nous vous proposerons un set de spécialisations autour de thèmes comme le web mobile, admin sys, programmation objet. Le déroulé type d'un cycle pour un langage consiste à débuter par une piscine (2 à 4 semaines) d'introduction sur un langage, puis une série de projets a réaliser afin de valider votre niveau dans ce langage, à l'issue de quoi vous serez autorisés à accéder au langage suivant."
+        ],
+        "validation": [
+            "Attestation d'acquis ou de compétences",
+            "Certification informatique",
+            "Attestation de suivi de présence"
+        ],
+        "type": [
+            "Perfectionnement",
+            "élargissement des compétences"
+        ],
+        "outputlevel": "sans niveau spécifique",
+        "romecode": [
+            "M1802",
+            "M1803",
+            "M1805",
+            "M1806"
+        ],
+        "pedagogicalterms": "Parcours personnalisable : Pédagogique",
+        "duration": [
+            "2226 heures en centre",
+            "483 jours"
+        ],
+        "workstudyterms": [
+            "Cours du jour : 1526 h - Cours le week-end : 700 h"
+        ],
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+            "Public sans emploi"
+        ],
+        "admissionterm": [
+            "Entretien"
+        ],
+        "entrylevel": "niveau I (supérieur à la maîtrise))",
+        "prerequisite": [
+            "Aucun"
+        ],
+        "location": {
+            "adress": {
+                "street": "96 boulevard Bessières",
+                "zip": "75017",
+                "locality": "Paris"
+            },
+            "tel": "06 76 59 02 79",
+            "fax": "",
+            "website": "http://www.42.fr",
+            "mail": "adm@42.fr",
+            "name": "",
+            "Accès handicapés": "locaux accessibles aux handicapes"
+        },
+        "contact": {
+            "adress": {
+                "street": "",
+                "zip": "",
+                "locality": ""
+            },
+            "tel": "06 76 59 02 79",
+            "fax": "",
+            "website": "http://www.42.fr",
+            "mail": "adm@42.fr",
+            "name": "M. Nicolas SADIRAC"
+        },
+        "eligibilityemployee": [
+            {
+                "name": "",
+                "code": "",
+                "startperiodvalidity": "",
+                "endperiodvalidity": "",
+                "region": "",
+                "professionalbranch": [
+                    {
+                        "nafcode": "25.11Z"
+                    },
+                    {
+                        "nafcode": "90.04Z"
+                    }
+                ]
+            }
+        ],
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+            {
+                "startperiodvalidity": "02/11/2016",
+                "endperiodvalidity": "28/02/2018",
+                "adress": {
+                    "street": "96 boulevard Bessières",
+                    "zip": "75017",
+                    "locality": "Paris"
+                },
+                "recruitmentstate": "ouvert",
+                "terms": "entrées/sorties à dates fixes"
+            }
+        ],
+        "lastupdate": "",
+        "ref": ""
+    },
+    {
+        "id": "form2de42",
+        "parentid": "",
+        "name": "42 Préparation aux métiers du numérique",
+        "objectives": "Former les développeurs de demain. Créer ou modifier des outils logiciels et des applications mobiles. Encadrer des équipes externes ou internes, suivre l'avancement et le bon déroulement des travaux, contrôler la qualité des livrables dans le respect des délais et des couts définis. S'informer et se former de façon continue sur les nouveautés technologiques. Permettre à l'information (téléphonique, mail, documentation informatique, BDD...) de circuler, d'être sauvegardée, d'être sécurisée, d'être accessible.",
+        "programme": [
+            "- Algorithme.",
+            "- Languages de programmation.",
+            "- Sécurité.",
+            "- Réseaux."
+        ],
+        "validation": [
+            "Attestation d'acquis ou de compétences",
+            "Attestation de suivi de présence"
+        ],
+        "type": [
+            "Perfectionnement"
+        ],
+        "outputlevel": "sans niveau spécifique",
+        "romecode": [
+            "M1802",
+            "M1803",
+            "M1805",
+            "M1806"
+        ],
+        "pedagogicalterms": "Parcours personnalisable : Pédagogique",
+        "duration": [
+            "3362 heures en centre, 600 heures en entreprise",
+            "950 jours"
+        ],
+        "workstudyterms": [
+            "Cours du jour : 2550 h - Cours le week-end : 812 h - Entreprise : 600 h"
+        ],
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+            "Tout Public",
+            "18-30 ans."
+        ],
+        "admissionterm": [
+            "Test",
+            "Concours"
+        ],
+        "entrylevel": "Sans niveau spécifique",
+        "prerequisite": [
+            "Aucun sous réserve de réussite aux épreuves de sélection."
+        ],
+        "location": {
+            "adress": {
+                "street": "96 boulevard Bessières",
+                "zip": "75017",
+                "locality": "Paris"
+            },
+            "tel": "06 76 59 02 79",
+            "fax": "",
+            "website": "http://www.42.fr",
+            "mail": "adm@42.fr",
+            "name": "",
+            "Accès handicapés": "locaux accessibles aux handicapes"
+        },
+        "contact": {
+            "adress": {
+                "street": "",
+                "zip": "",
+                "locality": ""
+            },
+            "tel": "06 76 59 02 79",
+            "fax": "",
+            "website": "http://www.42.fr",
+            "mail": "adm@42.fr",
+            "name": "M. Nicolas SADIRAC"
+        },
+        "eligibilityemployee": [
+            {
+                "name": "",
+                "code": "",
+                "startperiodvalidity": "",
+                "endperiodvalidity": "",
+                "region": "",
+                "professionalbranch": []
+            }
+        ],
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+            {
+                "startperiodvalidity": "23/11/2015",
+                "endperiodvalidity": "30/06/2018",
+                "adress": {
+                    "street": "96 boulevard Bessières",
+                    "zip": "75017",
+                    "locality": "Paris"
+                },
+                "recruitmentstate": "fermé",
+                "terms": "Dispositif de formation en entrées et sorties permanentes"
+            }
+        ],
+        "lastupdate": "",
+        "ref": ""
+    },
+    {
+        "id": "fdpcMo5iIIC",
+        "parentid": "cICnxMD0kTO",
+        "name": "FPC Assistant(e) de vie aux familles - Offre n° 16257",
+        "objectives": "A l'issue de la formation, le/la stagiaire sera capable de :- Relayer les parents dans la prise en charge de leurs enfants à leur domicile- Accompagner la personne dans les actes essentiels du quotidien- Entretenir le logement et le linge d'un particulier",
+        "programme": [
+            "La formation se compose de 3 modules complétés par 3 périodes en entreprise",
+            "Période d'intégration. Accueil, présentation des objectifs de la formation, connaissance de lenvironnement professionnel et adaptation du parcours de formation (1 semaine)",
+            "Module 1. Accompagner les personnes dans les actes essentiels du quotidien : techniques et gestes professionnels dans l'aide à la toilette, à l'habillage, aux déplacements et à l'alimentation - publics et pathologies - prévention des risques, situations d'urgence et/ou mise en place dun relais - contribution à l'autonomie physique, intellectuelle et sociale de la personne - organisation avec la personne des actes à accomplir - relation professionnelle avec la personne et son entourage - respect du cadre d'intervention de l'assistant de vie aux familles (ADVF) (6 semaines)",
+            "Période en entreprise (3 semaines)",
+            "Module 2. Relayer les parents dans la prise en charge de leurs enfants à leur domicile : techniques et gestes professionnels appropriés aux enfants lors des couchers et levers, de la toilette, de l'habillage et des repas - prévention des risques et sécurité des enfants - accompagnement des apprentissages de base des enfants - organisation de l'intervention avec un ou plusieurs enfants - communication et relais des parents en respectant le cadre d'intervention de lADVF (3 semaines)",
+            "Période en entreprise (3  semaines)",
+            "Module 3. Assister les personnes dans l'entretien de leur cadre de vie et la préparation de leur repas : prévention des risques domestiques et sécurité au travail - entretien du cadre de vie (logement, linge) - préparation des repas, réalisation des courses - posture professionnelle - respect de l'intimité, des goûts et des habitudes de la personne- organisation avec la personne des tâches domestiques- relation professionnelle lors des interventions en respectant le cadre d'intervention de l'ADVF (4 semaines)",
+            "Période en entreprise (3 semaines)",
+            "Les aspects liés au développement durable sont traités tout au long de la formation",
+            "Session de validation (1 semaine)"
+        ],
+        "validation": [
+            "Titre ou diplôme homologué"
+        ],
+        "type": [
+            "Certification"
+        ],
+        "outputlevel": "niveau V (CAP, BEP, CFPA du premier degré)",
+        "romecode": [
+            "K1302"
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+            "244 heures en centre",
+            "175 heures en entreprise"
+        ],
+        "workstudyterms": [
+            "La formation ne se déroule pas en alternance"
+        ],
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+            "Demandeur d'emploi",
+            "Demandeurs d'emploi dont le projet est validé par l'équipe professionnelle de Pôle Emploi"
+        ],
+        "admissionterm": null,
+        "entrylevel": "sans niveau spécifique",
+        "prerequisite": [
+            "La maîtrise des savoirs de base (lire, écrire, compter) est nécessaire"
+        ],
+        "location": {
+            "adress": {
+                "street": "Rue de l'Ecluse",
+                "zip": "",
+                "locality": "68200 Mulhouse"
+            },
+            "tel": "3936",
+            "fax": "",
+            "website": "http://www.afpa.fr",
+            "mail": "laura.rieffle@afpa.fr",
+            "name": ""
+        },
+        "contact": {
+            "adress": {
+                "street": "",
+                "zip": "",
+                "locality": ""
+            },
+            "tel": "3936",
+            "fax": "",
+            "website": "http://www.afpa.fr",
+            "mail": "laura.rieffle@afpa.fr",
+            "name": "Accueil CFPA COLMAR"
+        },
+        "eligibilityemployee": [
+            {
+                "name": "",
+                "code": "137094",
+                "startperiodvalidity": "05/01/2015",
+                "endperiodvalidity": "31/12/2016",
+                "region": "Région : Alsace",
+                "professionalbranch": [
+                    {
+                        "nafcode": ""
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "157704",
+                "startperiodvalidity": "03/07/2015",
+                "endperiodvalidity": "31/12/2017",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "96.09Z"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "172244",
+                "startperiodvalidity": "05/02/2016",
+                "endperiodvalidity": "31/12/2016",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "96.03Z"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "174078",
+                "startperiodvalidity": "03/03/2016",
+                "endperiodvalidity": "31/12/2016",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "78.20Z"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "155286",
+                "startperiodvalidity": "14/10/2015",
+                "endperiodvalidity": "31/12/2018",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "88.99B"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "154293",
+                "startperiodvalidity": "01/10/2015",
+                "endperiodvalidity": "30/09/2017",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "87.30B"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "141618",
+                "startperiodvalidity": "03/06/2015",
+                "endperiodvalidity": "31/12/2016",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "94.99Z"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "132702",
+                "startperiodvalidity": "17/03/2015",
+                "endperiodvalidity": "31/12/2017",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "73.12Z"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "162892",
+                "startperiodvalidity": "10/12/2015",
+                "endperiodvalidity": "31/12/2017",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "96.09Z"
+                    }
+                ]
+            }
+        ],
+        "eligibilityjobseeker": [
+            {
+                "name": "",
+                "code": "17708",
+                "startperiodvalidity": "05/01/2015",
+                "endperiodvalidity": "31/12/2016",
+                "region": "Région : Alsace",
+                "professionalbranch": [
+                    {
+                        "nafcode": ""
+                    }
+                ]
+            }
+        ],
+        "eligibilityall": null,
+        "sessions": [
+            {
+                "startperiodvalidity": "14/11/2016",
+                "endperiodvalidity": "14/02/2017",
+                "adress": {
+                    "street": "67080 Strasbourg cedex",
+                    "zip": "",
+                    "locality": "20 Place des Halles"
+                },
+                "recruitmentstate": "",
+                "terms": ""
+            }
+        ],
+        "lastupdate": "",
+        "ref": ""
+    },
+    {
+        "id": "i1q12OA2pq4",
+        "parentid": "cICnxMD0kTO",
+        "name": "FPC AFEM (assemblage fabrication ensembles métalliques) Offres 15065 15066 15073",
+        "objectives": "Permettre à des demandeurs d'emploi des territoires excentrés des grandes agglomérations de bénéficier d'une offre de formation adaptée aux besoins de développement de leurs compétences pour une réinsertion professionnelle sur des métiers à forts potentiels d'emploi",
+        "programme": [
+            "Accueil et découverte du métier et de la formation",
+            "Fabriquer manuellement des pièces ou des sous-ensembles industriels de série",
+            "Période en entreprise",
+            "Fabriquer à l'aide de machines simples des pièces ou sous-ensembles industriels de série",
+            "Session de validation"
+        ],
+        "validation": [
+            "Titre ou diplôme homologué"
+        ],
+        "type": [
+            "Certification"
+        ],
+        "outputlevel": "niveau V (CAP, BEP, CFPA du premier degré)",
+        "romecode": [
+            "F1502",
+            "H2503",
+            "H2504",
+            "H2902",
+            "H2906"
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+            "665 heures en centre",
+            "70 heures en entreprise"
+        ],
+        "workstudyterms": [
+            "La formation ne se déroule pas en alternance"
+        ],
+        "publicservicecontract": false,
+        "financers": [
+            "Collectivité territoriale - Conseil régional"
+        ],
+        "publicaccess": [
+            "Demandeur d'emploi",
+            "voir possibilités de financement"
+        ],
+        "admissionterm": null,
+        "entrylevel": "sans niveau spécifique",
+        "prerequisite": [
+            "Evaluation + entretien"
+        ],
+        "location": {
+            "adress": {
+                "street": "24 rue du Maire Geiger",
+                "zip": "",
+                "locality": "67250 Soultz-sous-Forêts"
+            },
+            "tel": "3936",
+            "fax": "",
+            "website": "http://www.afpa.fr",
+            "mail": "marie-josee.wolf@afpa.fr",
+            "name": ""
+        },
+        "contact": {
+            "adress": {
+                "street": "",
+                "zip": "",
+                "locality": ""
+            },
+            "tel": "3936",
+            "fax": "",
+            "website": "http://www.afpa.fr",
+            "mail": "marie-josee.wolf@afpa.fr",
+            "name": "Accueil CFPA STRASBOURG"
+        },
+        "eligibilityemployee": [
+            {
+                "name": "",
+                "code": "13234",
+                "startperiodvalidity": "01/01/2015",
+                "endperiodvalidity": "31/12/2016",
+                "region": "Région : Alsace",
+                "professionalbranch": [
+                    {
+                        "nafcode": ""
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "18333",
+                "startperiodvalidity": "01/01/2015",
+                "endperiodvalidity": "31/12/2016",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "78.20Z"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "184968",
+                "startperiodvalidity": "11/08/2016",
+                "endperiodvalidity": "01/01/2019",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "52.23Z"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "2760",
+                "startperiodvalidity": "20/11/2014",
+                "endperiodvalidity": "31/12/2018",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "95.29Z"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "19460",
+                "startperiodvalidity": "01/01/2015",
+                "endperiodvalidity": "31/12/2016",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "50.10Z"
+                    },
+                    {
+                        "nafcode": "50.20Z"
+                    }
+                ]
+            }
+        ],
+        "eligibilityjobseeker": [
+            {
+                "name": "",
+                "code": "148986",
+                "startperiodvalidity": "05/01/2015",
+                "endperiodvalidity": "31/12/2016",
+                "region": "Région : Alsace",
+                "professionalbranch": [
+                    {
+                        "nafcode": ""
+                    }
+                ]
+            }
+        ],
+        "eligibilityall": null,
+        "sessions": [
+            {
+                "startperiodvalidity": "30/01/2017",
+                "endperiodvalidity": "04/07/2017",
+                "adress": {
+                    "street": "67080 Strasbourg cedex",
+                    "zip": "",
+                    "locality": "20 Place des Halles"
+                },
+                "recruitmentstate": "",
+                "terms": "entrées/sorties à dates fixes"
+            }
+        ],
+        "lastupdate": "",
+        "ref": ""
+    },
+    {
+        "id": "WUaNj10pUIS",
+        "parentid": "cICnxMD0kTO",
+        "name": "FPC Agent d'entretien du bâtiment - Offre 15347 15355",
+        "objectives": "L'agent d'entretien du batiment exécute les réparations courantes qui ne demandent pas l'intervention d'une entreprise spécialisée. Il assure également la veille et le contrôle des différentes installations",
+        "programme": [
+            "La formation se compose de 4 modules, complétés par 2 périodes en entreprise",
+            "Période d'intégration. Accueil, présentation des objectifs de formation, connaissance de l'environnement professionnel, sensibilisation au développement durable, adaptation du parcours de formation (1 semaine)",
+            "Module 1. Réaliser les travaux d'entretien et d'aménagement sur l'enveloppe intérieure d'un bâtiment : réalisation d'un plafond en plaques sur ossature métallique suspendue -réalisation des cloisons et des doublages en produits de plâtre sec - construction d'une maçonnerie non porteuse en aggloméré de ciment - pose et équipement des menuiseries standard - assemblage et fixation des éléments de mobilier (7 semaines)",
+            "Module 2. Réaliser les travaux d'entretien et d'aménagement sur une installation électrique domestique : réalisation d'une installation électrique domestique monophasée - mise aux normes d'une installation électrique existante - pose des systèmes automatisés pour contrôle des accès - réalisation du diagnostic d'un dysfonctionnement sur une installation électrique (7 semaines)",
+            "Période en entreprise (2 semaines)",
+            "Module 3. Réaliser les travaux d'entretien et d'aménagement sur une installation sanitaire : création d'un réseau d'évacuation eaux usées et eaux vannes et d'un réseau domestique d'alimentation en eau - montage et raccordement des appareils sanitaires - réalisation du diagnostic d'un dysfonctionnement sur un réseau sanitaire (7 semaines)",
+            "Module 4. Réaliser les travaux d'entretien et d'aménagement avec des produits de finition : pose à la colle du carrelage et de la faïence - pose d'un revêtement de sol souple, d'un parquet flottant et des éléments menuisés de finition - préparation et peinture de tout type de support - pose du papier peint et des revêtements muraux (7 semaines)",
+            "Période en entreprise (2 semaines)",
+            "Session de validation (1 semaine)"
+        ],
+        "validation": [
+            "Titre ou diplôme homologué"
+        ],
+        "type": [
+            "Certification"
+        ],
+        "outputlevel": "niveau V (CAP, BEP, CFPA du premier degré)",
+        "romecode": [
+            "I1203"
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+            "1050 heures en centre",
+            "140 heures en entreprise"
+        ],
+        "workstudyterms": [
+            "La formation ne se déroule pas en alternance"
+        ],
+        "publicservicecontract": false,
+        "financers": [
+            "Bénéficiaire de l'action",
+            "Collectivité territoriale - Conseil régional"
+        ],
+        "publicaccess": [
+            "Demandeur d'emploi",
+            "Tout public",
+            "Habileté manuelle et gestuelle, pas ou peu d'antécédents respiratoires ni allergiques, capacités d'initiatives et de responsabilités, sens de la sécurité, qualités relationnelles"
+        ],
+        "admissionterm": null,
+        "entrylevel": "niveau VI (illettrisme, analphabétisme)",
+        "prerequisite": [
+            "Tests et entretiens"
+        ],
+        "location": {
+            "adress": {
+                "street": "Rue des Corps de Garde",
+                "zip": "",
+                "locality": "67100 Strasbourg"
+            },
+            "tel": "3936",
+            "fax": "",
+            "website": "http://www.afpa.fr",
+            "mail": "marie-josee.wolf@afpa.fr",
+            "name": ""
+        },
+        "contact": {
+            "adress": {
+                "street": "",
+                "zip": "",
+                "locality": ""
+            },
+            "tel": "3936",
+            "fax": "",
+            "website": "http://www.afpa.fr",
+            "mail": "marie-josee.wolf@afpa.fr",
+            "name": "Accueil afpa Strasbourg"
+        },
+        "eligibilityemployee": [
+            {
+                "name": "",
+                "code": "187438",
+                "startperiodvalidity": "03/11/2016",
+                "endperiodvalidity": "31/12/2017",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "96.09Z"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "185038",
+                "startperiodvalidity": "11/08/2016",
+                "endperiodvalidity": "01/01/2019",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "52.23Z"
+                    }
+                ]
+            }
+        ],
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+            {
+                "startperiodvalidity": "14/11/2016",
+                "endperiodvalidity": "18/07/2017",
+                "adress": {
+                    "street": "67080 Strasbourg cedex",
+                    "zip": "",
+                    "locality": "20 Place des Halles"
+                },
+                "recruitmentstate": "",
+                "terms": "entrées/sorties à dates fixes"
+            }
+        ],
+        "lastupdate": "",
+        "ref": ""
+    },
+    {
+        "id": "Jf8nywtKbws",
+        "parentid": "cICnxMD0kTO",
+        "name": "FPC Ajusteur fraiseur franco-allemand",
+        "objectives": "Professionnalisation de candidats dans les métiers de l'ajustage et fraisage des demandeurs d'emploi parlant l'allemand dans une perspective de recherche d'emploi en Allemagne",
+        "programme": [
+            "Sas accueil",
+            "Module 1 : fraisage sur machines à commande numérique",
+            "Module 2 : ajustage sur fraiseuse à commande numérique",
+            "Module 3 : allemand technique, communication interculturelle, TRE",
+            "Période en entreprise en Allemagne"
+        ],
+        "validation": [
+            "Attestation de Suivi ou de Présence"
+        ],
+        "type": null,
+        "outputlevel": "sans niveau spécifique",
+        "romecode": [
+            "H2901",
+            "H2903"
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+            "455 heures en centre",
+            "120 heures en entreprise"
+        ],
+        "workstudyterms": [
+            "La formation ne se déroule pas en alternance"
+        ],
+        "publicservicecontract": false,
+        "financers": [
+            "Pôle emploi"
+        ],
+        "publicaccess": [
+            "Demandeur d'emploi"
+        ],
+        "admissionterm": null,
+        "entrylevel": "sans niveau spécifique",
+        "prerequisite": [
+            "Fraiseurs, ajusteurs avec expérience ou candidats ayant suivi une formation d'ajusteur, fraiseur",
+            "Niveau A2 (CECRL) en allemand"
+        ],
+        "location": {
+            "adress": {
+                "street": "Rue de l'Ecluse",
+                "zip": "",
+                "locality": "68200 Mulhouse"
+            },
+            "tel": "3936",
+            "fax": "",
+            "website": "http://www.afpa.fr",
+            "mail": "accueil.mulhouse@afpa.fr",
+            "name": ""
+        },
+        "contact": {
+            "adress": {
+                "street": "",
+                "zip": "",
+                "locality": ""
+            },
+            "tel": "3936",
+            "fax": "",
+            "website": "http://www.afpa.fr",
+            "mail": "accueil.mulhouse@afpa.fr",
+            "name": "accueil afpa Mulhouse"
+        },
+        "eligibilityemployee": null,
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+            {
+                "startperiodvalidity": "19/12/2016",
+                "endperiodvalidity": "20/04/2017",
+                "adress": {
+                    "street": "67080 Strasbourg cedex",
+                    "zip": "",
+                    "locality": "20 Place des Halles"
+                },
+                "recruitmentstate": "",
+                "terms": "entrées/sorties à dates fixes"
+            }
+        ],
+        "lastupdate": "",
+        "ref": ""
+    },
+    {
+        "id": "oYCvzN11hdK",
+        "parentid": "cICnxMD0kTO",
+        "name": "FPC Améliorer votre méthode de diagnostic Maintenance industrielle - Offres n° 15270 - 15271",
+        "objectives": "Savoir appliquer une méthodologie de diagnostic pluri-technologique. Développer une analyse à froid",
+        "programme": [
+            "Théorie",
+            "La méthodologie de diagnostic (les enjeux, lanalyse de lexistant, les caractéristiques des nouveaux moyens)",
+            "Lanalyse fonctionnelle, la modélisation",
+            "Les différentes étapes du diagnostic (faits, localisation, hypothèses, tests) et formalisation sur le support danalyse",
+            "Les phases de réparations et actions correctives",
+            "Le pilotage dune intervention",
+            "Pratique",
+            "Analyser à chaud (études de cas et aide au dépannage sur pannes intermittentes)",
+            "Analyser à froid (interprétation de la durée, de la cause racine et propositions damélioration)"
+        ],
+        "validation": [
+            "Attestation de Suivi ou de Présence"
+        ],
+        "type": null,
+        "outputlevel": "sans niveau spécifique",
+        "romecode": null,
+        "pedagogicalterms": "",
+        "duration": [
+            "21 heures en centre"
+        ],
+        "workstudyterms": [
+            "La formation ne se déroule pas en alternance"
+        ],
+        "publicservicecontract": false,
+        "financers": [
+            "Bénéficiaire de l'action"
+        ],
+        "publicaccess": [
+            "Tout public",
+            "Voir possibilités de financement.Public visé :Personnel dintervention en maintenance, fiabilistes, techniciens en méthode-maintenance-production"
+        ],
+        "admissionterm": null,
+        "entrylevel": "sans niveau spécifique",
+        "prerequisite": [
+            "Pour suivre cette formation, il est nécessaire davoir les connaissances élémentaires des technologies utilisées",
+            "en maintenance industrielle (électricité, mécanique, pneumatique, hydraulique, automatismes)"
+        ],
+        "location": {
+            "adress": {
+                "street": "Rue de l'Ecluse",
+                "zip": "",
+                "locality": "68200 Mulhouse"
+            },
+            "tel": "3936",
+            "fax": "",
+            "website": "http://www.afpa.fr",
+            "mail": "accueil.mulhouse@afpa.fr",
+            "name": ""
+        },
+        "contact": {
+            "adress": {
+                "street": "",
+                "zip": "",
+                "locality": ""
+            },
+            "tel": "3936",
+            "fax": "",
+            "website": "http://www.afpa.fr",
+            "mail": "accueil.mulhouse@afpa.fr",
+            "name": "www.afpa.fr"
+        },
+        "eligibilityemployee": null,
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+            {
+                "startperiodvalidity": "22/11/2016",
+                "endperiodvalidity": "24/11/2016",
+                "adress": {
+                    "street": "67080 Strasbourg cedex",
+                    "zip": "",
+                    "locality": "20 Place des Halles"
+                },
+                "recruitmentstate": "",
+                "terms": ""
+            }
+        ],
+        "lastupdate": "",
+        "ref": ""
+    },
+    {
+        "id": "prGsC4BcD6c",
+        "parentid": "cICnxMD0kTO",
+        "name": "FPC Assistant Gestionnaire de paie - Offre 15574",
+        "objectives": "Obtenir le CCP 1 du titre professionnel Gestionnaire de paie pour rebondir à l'emploi ou poursuivre en contrat de professionnalisation",
+        "programme": [
+            "Module",
+            "Réaliser une paie de base",
+            "Collecte et contrôle des paramètres et des variables de la paie des salariés - traitement, contrôle et validation dun bulletin de paie (4 semaines)"
+        ],
+        "validation": [
+            "Unité Capitalisable"
+        ],
+        "type": null,
+        "outputlevel": "sans niveau spécifique",
+        "romecode": [
+            "M1203",
+            "M1501"
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+            "140 heures en centre"
+        ],
+        "workstudyterms": [
+            "La formation ne se déroule pas en alternance"
+        ],
+        "publicservicecontract": false,
+        "financers": [
+            "Bénéficiaire de l'action"
+        ],
+        "publicaccess": [
+            "Tout public",
+            "Voir possibilités de financement"
+        ],
+        "admissionterm": null,
+        "entrylevel": "sans niveau spécifique",
+        "prerequisite": [
+            "Classe de terminale ou équivalent et expérience professionnelle denviron un an (connaissance de lentreprise de tout secteur : bâtiment, industrie, services)"
+        ],
+        "location": {
+            "adress": {
+                "street": "Rue des Corps de Garde",
+                "zip": "",
+                "locality": "67100 Strasbourg"
+            },
+            "tel": "3936",
+            "fax": "",
+            "website": "http://www.afpa.fr",
+            "mail": "marie-josee.wolf@afpa.fr",
+            "name": ""
+        },
+        "contact": {
+            "adress": {
+                "street": "",
+                "zip": "",
+                "locality": ""
+            },
+            "tel": "3936",
+            "fax": "",
+            "website": "http://www.afpa.fr",
+            "mail": "marie-josee.wolf@afpa.fr",
+            "name": "www.afpa.fr"
+        },
+        "eligibilityemployee": null,
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+            {
+                "startperiodvalidity": "28/11/2016",
+                "endperiodvalidity": "23/12/2016",
+                "adress": {
+                    "street": "67080 Strasbourg cedex",
+                    "zip": "",
+                    "locality": "20 Place des Halles"
+                },
+                "recruitmentstate": "",
+                "terms": "entrées/sorties à dates fixes"
+            }
+        ],
+        "lastupdate": "",
+        "ref": ""
+    },
+    {
+        "id": "ND9Hik9TDxF",
+        "parentid": "cICnxMD0kTO",
+        "name": "FPC Assistant(e) de vie aux familles - Offre 16269",
+        "objectives": "A l'issue de la formation, le/la stagiaire sera capable de :- relayer les parents dans la prise en charge de leurs enfants à leur domicile- accompagner la personne dans les actes essentiels du quotidien- entretenir le logement et le linge d'un particulier",
+        "programme": [
+            "Séquence intégration en formation et en emploi",
+            "Module : entretenir le logement et le linge d'un particulier",
+            "Module : accompagner les personnes dans les actes essentiels du quotidien",
+            "Période en entreprise",
+            "Module :  Relayer les parents dans la prise en charge de leurs enfants à leur domicile",
+            "Période en entreprise",
+            "Module : techniques de recherche d'emploi et de recherche de stage",
+            "Module : retour d'expérience et mise en situation",
+            "Certification",
+            "Bilan"
+        ],
+        "validation": [
+            "Titre ou diplôme homologué"
+        ],
+        "type": [
+            "Certification"
+        ],
+        "outputlevel": "niveau V (CAP, BEP, CFPA du premier degré)",
+        "romecode": [
+            "K1302"
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+            "249 heures en centre",
+            "105 heures en entreprise"
+        ],
+        "workstudyterms": [
+            "La formation ne se déroule pas en alternance"
+        ],
+        "publicservicecontract": false,
+        "financers": [
+            "Pôle emploi"
+        ],
+        "publicaccess": [
+            "Tout public",
+            "Demandeurs d'emploi dont le projet est validé par l'équipe professionnelle de Pôle Emploi"
+        ],
+        "admissionterm": null,
+        "entrylevel": "sans niveau spécifique",
+        "prerequisite": [
+            "savoirs de base en cohérence avec le projet de formation",
+            "sens de l'organisation, autonomie, aptitude à la prise de décision, sens du contact, sens du service, bonne présentation"
+        ],
+        "location": {
+            "adress": {
+                "street": "Rue de l'Ecluse",
+                "zip": "",
+                "locality": "68200 Mulhouse"
+            },
+            "tel": "3936",
+            "fax": "",
+            "website": "http://www.afpa.fr",
+            "mail": "accueil.mulhouse@afpa.fr",
+            "name": ""
+        },
+        "contact": {
+            "adress": {
+                "street": "",
+                "zip": "",
+                "locality": ""
+            },
+            "tel": "3936",
+            "fax": "",
+            "website": "http://www.afpa.fr",
+            "mail": "accueil.mulhouse@afpa.fr",
+            "name": "Accueil CFPA MULHOUSE"
+        },
+        "eligibilityemployee": [
+            {
+                "name": "",
+                "code": "137094",
+                "startperiodvalidity": "05/01/2015",
+                "endperiodvalidity": "31/12/2016",
+                "region": "Région : Alsace",
+                "professionalbranch": [
+                    {
+                        "nafcode": ""
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "157704",
+                "startperiodvalidity": "03/07/2015",
+                "endperiodvalidity": "31/12/2017",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "96.09Z"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "172244",
+                "startperiodvalidity": "05/02/2016",
+                "endperiodvalidity": "31/12/2016",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "96.03Z"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "174078",
+                "startperiodvalidity": "03/03/2016",
+                "endperiodvalidity": "31/12/2016",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "78.20Z"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "155286",
+                "startperiodvalidity": "14/10/2015",
+                "endperiodvalidity": "31/12/2018",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "88.99B"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "154293",
+                "startperiodvalidity": "01/10/2015",
+                "endperiodvalidity": "30/09/2017",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "87.30B"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "141618",
+                "startperiodvalidity": "03/06/2015",
+                "endperiodvalidity": "31/12/2016",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "94.99Z"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "132702",
+                "startperiodvalidity": "17/03/2015",
+                "endperiodvalidity": "31/12/2017",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "73.12Z"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "162892",
+                "startperiodvalidity": "10/12/2015",
+                "endperiodvalidity": "31/12/2017",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "96.09Z"
+                    }
+                ]
+            }
+        ],
+        "eligibilityjobseeker": [
+            {
+                "name": "",
+                "code": "17708",
+                "startperiodvalidity": "05/01/2015",
+                "endperiodvalidity": "31/12/2016",
+                "region": "Région : Alsace",
+                "professionalbranch": [
+                    {
+                        "nafcode": ""
+                    }
+                ]
+            }
+        ],
+        "eligibilityall": null,
+        "sessions": [
+            {
+                "startperiodvalidity": "15/02/2017",
+                "endperiodvalidity": "28/04/2017",
+                "adress": {
+                    "street": "67080 Strasbourg cedex",
+                    "zip": "",
+                    "locality": "20 Place des Halles"
+                },
+                "recruitmentstate": "",
+                "terms": ""
+            }
+        ],
+        "lastupdate": "",
+        "ref": ""
+    },
+    {
+        "id": "ai3u7X0LE40",
+        "parentid": "kD7BkbI1lVr",
+        "name": "Titre professionnel développeur(euse) logiciel",
+        "objectives": "Le (la) développeur(se) logiciel peut travailler en tant que salarié(e) d'une entreprise, ou pour un client de la société de services qui l'emploie. Ses activités diffèrent selon la taille de l'entreprise. En PME, il (elle) peut mener seul(e) le développement d'un projet. Dans une grande structure, il (elle) travaille en équipe sous la conduite d'un chef de projet. Il (elle) applique les normes de qualité logicielle de son entreprise ou de son prestataire de services.Il (elle) s'adapte rapidement aux évolutions technologiques du secteur informatique. La réalisation du projet dont il (elle) a la charge nécessite de sa part organisation et gestion du temps.Assurant sa mission dans des entreprises et des contextes professionnels divers, il (elle) est mobile géographiquement et s'adapte aux nouveaux environnements de travail.Il (elle) fait preuve de capacités relationnelles avec des interlocuteurs tels que la maîtrise d'ouvrage, les utilisateurs, le chef de projet, les experts techniques et les autres développeurs",
+        "programme": [
+            "Non renseigne"
+        ],
+        "validation": [
+            "Non renseigne"
+        ],
+        "type": [
+            "Certification"
+        ],
+        "outputlevel": "niveau III (BTS, DUT)",
+        "romecode": [
+            "M1805"
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+            "400 heures en centre"
+        ],
+        "workstudyterms": [
+            "0h en entreprise 400h en centre"
+        ],
+        "publicservicecontract": false,
+        "financers": [
+            "OPACIF",
+            "OPCA",
+            "Bénéficiaire de l'action",
+            "Entreprise"
+        ],
+        "publicaccess": [
+            "Agent de la fonction publique",
+            "Demandeur d'emploi",
+            "Salarié",
+            "Tout public"
+        ],
+        "admissionterm": null,
+        "entrylevel": "niveau IV (BP, BT, baccalauréat professionnel ou technologique)",
+        "prerequisite": [
+            "Profil requisnbsp;: Ecirc;tre du niveau baccalaureacute;at, de preacute;feacute;rencenbsp;scientifique ou technologique",
+            "Pratique courante recommandeacute;e de l'ordinateur, des smartphones et tablettes tactiles ainsi que de leurs outils (outils des systegrave;mes drsquo;exploitation, bureautique et internet)",
+            "Compreacute;hension de l'anglais agrave; lrsquo;eacute;crit (comprendre des textes courts)"
+        ],
+        "location": {
+            "adress": {
+                "street": "37 Bis Quai de Versailles",
+                "zip": "",
+                "locality": "44200 Nantes"
+            },
+            "tel": "",
+            "fax": "",
+            "website": "",
+            "mail": "",
+            "name": ""
+        },
+        "contact": {
+            "adress": {
+                "street": "",
+                "zip": "",
+                "locality": ""
+            },
+            "tel": "01 46 06 45 14",
+            "fax": "",
+            "website": "",
+            "mail": "contact@3wa.fr",
+            "name": "Se renseigner aupres de l'organisme"
+        },
+        "eligibilityemployee": [
+            {
+                "name": "",
+                "code": "1942",
+                "startperiodvalidity": "01/01/2015",
+                "endperiodvalidity": "01/01/2018",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "47.71Z"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "17780",
+                "startperiodvalidity": "02/01/2015",
+                "endperiodvalidity": "31/12/2016",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "47.52B"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "2502",
+                "startperiodvalidity": "01/01/2015",
+                "endperiodvalidity": "31/12/2016",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "70.10Z"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "184935",
+                "startperiodvalidity": "11/08/2016",
+                "endperiodvalidity": "01/01/2019",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "52.23Z"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "19487",
+                "startperiodvalidity": "01/01/2015",
+                "endperiodvalidity": "31/12/2016",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "50.10Z"
+                    },
+                    {
+                        "nafcode": "50.20Z"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "138850",
+                "startperiodvalidity": "21/04/2015",
+                "endperiodvalidity": "20/04/2018",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "52.22Z"
+                    },
+                    {
+                        "nafcode": "52.24A"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "15843",
+                "startperiodvalidity": "01/01/2015",
+                "endperiodvalidity": "31/03/2017",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "90.04Z"
+                    }
+                ]
+            }
+        ],
+        "eligibilityjobseeker": [
+            {
+                "name": "",
+                "code": "8938",
+                "startperiodvalidity": "01/01/2015",
+                "endperiodvalidity": "31/12/2016",
+                "region": "Région : Pays de la Loire",
+                "professionalbranch": [
+                    {
+                        "nafcode": ""
+                    }
+                ]
+            }
+        ],
+        "eligibilityall": [
+            {
+                "name": "",
+                "code": "2549",
+                "startperiodvalidity": "01/01/2015",
+                "endperiodvalidity": "31/12/2016",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": ""
+                    }
+                ]
+            }
+        ],
+        "sessions": [
+            {
+                "startperiodvalidity": "29/12/2016",
+                "endperiodvalidity": "24/03/2017",
+                "adress": {
+                    "street": "44200 Nantes",
+                    "zip": "",
+                    "locality": "37 Bis Quai de Versailles"
+                },
+                "recruitmentstate": "",
+                "terms": "Dispositif de formation en entrées et sorties permanentes"
+            }
+        ],
+        "lastupdate": "",
+        "ref": ""
+    },
+    {
+        "id": "LDSQjPBnPRq",
+        "parentid": "kD7BkbI1lVr",
+        "name": "Titre professionnel développeur(euse) logiciel",
+        "objectives": "Le (la) développeur(se) logiciel peut travailler en tant que salarié(e) d'une entreprise, ou pour un client de la société de services qui l'emploie. Ses activités diffèrent selon la taille de l'entreprise. En PME, il (elle) peut mener seul(e) le développement d'un projet. Dans une grande structure, il (elle) travaille en équipe sous la conduite d'un chef de projet. Il (elle) applique les normes de qualité logicielle de son entreprise ou de son prestataire de services.Il (elle) s'adapte rapidement aux évolutions technologiques du secteur informatique. La réalisation du projet dont il (elle) a la charge nécessite de sa part organisation et gestion du temps.Assurant sa mission dans des entreprises et des contextes professionnels divers, il (elle) est mobile géographiquement et s'adapte aux nouveaux environnements de travail.Il (elle) fait preuve de capacités relationnelles avec des interlocuteurs tels que la maîtrise d'ouvrage, les utilisateurs, le chef de projet, les experts techniques et les autres développeurs",
+        "programme": [
+            "Développer une application client-serveur",
+            "Développer une application web"
+        ],
+        "validation": [
+            "Titre Professionnel"
+        ],
+        "type": [
+            "Perfectionnement, élargissement des compétences"
+        ],
+        "outputlevel": "niveau III (BTS, DUT)",
+        "romecode": [
+            "M1805"
+        ],
+        "pedagogicalterms": "",
+        "duration": null,
+        "workstudyterms": null,
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+            "Tout public"
+        ],
+        "admissionterm": [
+            "Sur entretien"
+        ],
+        "entrylevel": "",
+        "prerequisite": null,
+        "location": {
+            "adress": {
+                "street": "37 rue Guibal",
+                "zip": "13003 Marseille 3e",
+                "locality": "Pôle Média Belle de Mai"
+            },
+            "tel": "01 40 58 19 72",
+            "fax": "",
+            "website": "https://3wa.fr",
+            "mail": "contact@3wa.fr",
+            "name": ""
+        },
+        "contact": {
+            "adress": {
+                "street": "",
+                "zip": "",
+                "locality": ""
+            },
+            "tel": "01 40 58 19 72",
+            "fax": "",
+            "website": "https://3wa.fr",
+            "mail": "contact@3wa.fr",
+            "name": "Monsieur  Xavier  Bonte"
+        },
+        "eligibilityemployee": [
+            {
+                "name": "",
+                "code": "1942",
+                "startperiodvalidity": "01/01/2015",
+                "endperiodvalidity": "01/01/2018",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "47.51Z"
+                    },
+                    {
+                        "nafcode": "47.53Z"
+                    },
+                    {
+                        "nafcode": "47.71Z"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "17780",
+                "startperiodvalidity": "02/01/2015",
+                "endperiodvalidity": "31/12/2016",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "47.52B"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "2502",
+                "startperiodvalidity": "01/01/2015",
+                "endperiodvalidity": "31/12/2016",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "70.10Z"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "184935",
+                "startperiodvalidity": "11/08/2016",
+                "endperiodvalidity": "01/01/2019",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "52.23Z"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "19487",
+                "startperiodvalidity": "01/01/2015",
+                "endperiodvalidity": "31/12/2016",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "50.10Z"
+                    },
+                    {
+                        "nafcode": "50.20Z"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "138850",
+                "startperiodvalidity": "21/04/2015",
+                "endperiodvalidity": "20/04/2018",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "52.22Z"
+                    },
+                    {
+                        "nafcode": "52.24A"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "15843",
+                "startperiodvalidity": "01/01/2015",
+                "endperiodvalidity": "31/03/2017",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "90.04Z"
+                    }
+                ]
+            }
+        ],
+        "eligibilityjobseeker": [
+            {
+                "name": "",
+                "code": "15636",
+                "startperiodvalidity": "18/12/2014",
+                "endperiodvalidity": "31/12/2016",
+                "region": "Région : Provence",
+                "professionalbranch": [
+                    {
+                        "nafcode": ""
+                    }
+                ]
+            }
+        ],
+        "eligibilityall": [
+            {
+                "name": "",
+                "code": "2549",
+                "startperiodvalidity": "01/01/2015",
+                "endperiodvalidity": "31/12/2016",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": ""
+                    }
+                ]
+            }
+        ],
+        "sessions": [
+            {
+                "startperiodvalidity": "01/01/2017",
+                "endperiodvalidity": "30/03/2017",
+                "adress": {
+                    "street": "Pôle Média Belle de Mai",
+                    "zip": "13003 Marseille 3e",
+                    "locality": "37 rue Guibal"
+                },
+                "recruitmentstate": "",
+                "terms": "entrées/sorties à dates fixes"
+            }
+        ],
+        "lastupdate": "",
+        "ref": ""
+    },
+    {
+        "id": "MofmIR0e6bg",
+        "parentid": "kD7BkbI1lVr",
+        "name": "Titre professionnel développeur(euse) logiciel - CCP 1 : développer une application client-serveur",
+        "objectives": "Le (la) développeur(se) logiciel peut travailler en tant que salarié(e) d'une entreprise, ou pour un client de la société de services qui l'emploie. Ses activités diffèrent selon la taille de l'entreprise. En PME, il (elle) peut mener seul(e) le développement d'un projet. Dans une grande structure, il (elle) travaille en équipe sous la conduite d'un chef de projet. Il (elle) applique les normes de qualité logicielle de son entreprise ou de son prestataire de services.Il (elle) s'adapte rapidement aux évolutions technologiques du secteur informatique. La réalisation du projet dont il (elle) a la charge nécessite de sa part organisation et gestion du temps.Assurant sa mission dans des entreprises et des contextes professionnels divers, il (elle) est mobile géographiquement et s'adapte aux nouveaux environnements de travail.Il (elle) fait preuve de capacités relationnelles avec des interlocuteurs tels que la maîtrise d'ouvrage, les utilisateurs, le chef de projet, les experts techniques et les autres développeurs",
+        "programme": [
+            "Développer une application client-serveur",
+            "Développer une application web"
+        ],
+        "validation": [
+            "Titre Professionnel"
+        ],
+        "type": [
+            "Perfectionnement, élargissement des compétences"
+        ],
+        "outputlevel": "niveau III (BTS, DUT)",
+        "romecode": [
+            "M1805"
+        ],
+        "pedagogicalterms": "",
+        "duration": null,
+        "workstudyterms": null,
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+            "Tout public"
+        ],
+        "admissionterm": [
+            "Sur entretien"
+        ],
+        "entrylevel": "",
+        "prerequisite": null,
+        "location": {
+            "adress": {
+                "street": "37 rue Guibal",
+                "zip": "13003 Marseille 3e",
+                "locality": "Pôle Média Belle de Mai"
+            },
+            "tel": "01 40 58 19 72",
+            "fax": "",
+            "website": "https://3wa.fr",
+            "mail": "contact@3wa.fr",
+            "name": ""
+        },
+        "contact": {
+            "adress": {
+                "street": "",
+                "zip": "",
+                "locality": ""
+            },
+            "tel": "01 40 58 19 72",
+            "fax": "",
+            "website": "https://3wa.fr",
+            "mail": "contact@3wa.fr",
+            "name": "Monsieur  Xavier  Bonte"
+        },
+        "eligibilityemployee": [
+            {
+                "name": "",
+                "code": "1942",
+                "startperiodvalidity": "01/01/2015",
+                "endperiodvalidity": "01/01/2018",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "47.51Z"
+                    },
+                    {
+                        "nafcode": "47.53Z"
+                    },
+                    {
+                        "nafcode": "47.71Z"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "17780",
+                "startperiodvalidity": "02/01/2015",
+                "endperiodvalidity": "31/12/2016",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "47.52B"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "2502",
+                "startperiodvalidity": "01/01/2015",
+                "endperiodvalidity": "31/12/2016",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "70.10Z"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "184935",
+                "startperiodvalidity": "11/08/2016",
+                "endperiodvalidity": "01/01/2019",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "52.23Z"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "19487",
+                "startperiodvalidity": "01/01/2015",
+                "endperiodvalidity": "31/12/2016",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "50.10Z"
+                    },
+                    {
+                        "nafcode": "50.20Z"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "138850",
+                "startperiodvalidity": "21/04/2015",
+                "endperiodvalidity": "20/04/2018",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "52.22Z"
+                    },
+                    {
+                        "nafcode": "52.24A"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "code": "15843",
+                "startperiodvalidity": "01/01/2015",
+                "endperiodvalidity": "31/03/2017",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": "90.04Z"
+                    }
+                ]
+            }
+        ],
+        "eligibilityjobseeker": [
+            {
+                "name": "",
+                "code": "15636",
+                "startperiodvalidity": "18/12/2014",
+                "endperiodvalidity": "31/12/2016",
+                "region": "Région : Provence",
+                "professionalbranch": [
+                    {
+                        "nafcode": ""
+                    }
+                ]
+            }
+        ],
+        "eligibilityall": [
+            {
+                "name": "",
+                "code": "2549",
+                "startperiodvalidity": "01/01/2015",
+                "endperiodvalidity": "31/12/2016",
+                "region": "Toutes les régions",
+                "professionalbranch": [
+                    {
+                        "nafcode": ""
+                    }
+                ]
+            }
+        ],
+        "sessions": [
+            {
+                "startperiodvalidity": "",
+                "endperiodvalidity": "",
+                "adress": {
+                    "street": "Pôle Média Belle de Mai",
+                    "zip": "13003 Marseille 3e",
+                    "locality": "37 rue Guibal"
+                },
+                "recruitmentstate": "",
+                "terms": "entrées/sorties à dates fixes"
+            }
+        ],
+        "lastupdate": "",
+        "ref": ""
+    }
+]

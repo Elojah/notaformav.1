@@ -1,0 +1,6085 @@
+[
+  {
+    "name": "3WA",
+    "corporatename": "3W Academy",
+    "contact": {
+      "street": "3 Quai Kléber c/o Regus, Tour Sébastopol",
+      "zip": "67000",
+      "locality": "Strasbourg",
+      "tel": " 0140581972",
+      "fax": "",
+      "website": "http://3wa.fr",
+      "mail": "contact@3wa.fr",
+      "name": ""
+    },
+    "siret": " 75404770200024",
+    "registrationnumber": "11754910875",
+    "fields": {
+      "Arts": [
+        "Création site internet",
+        "Intégration web"
+      ],
+      "Information, communication": [
+        "Langage PHP"
+      ]
+    },
+    "formations": [
+      {
+        "name": "FPC Développeur Intégrateur web",
+        "objectives": "La 3W Academy forme des développeurs-intégrateurs web pour un accès direct à l'emploi. A lissue des 3 mois, les étudiants doivent être en mesure de travailler en équipe avec des webdesigners et des chefs de projet afin de réaliser des sites Internet modernes, fonctionnels et solides",
+        "programme": [
+          "Intégration web (112 heures), créer des sites responsive, création de 7 sites en partant de maquettes, HTML5, CSS",
+          "Développement web (288 heures), créer des sites dynamiques, création de 10 applications web, Javascript, PHP"
+        ],
+        "validation": [
+          "Titre ou diplôme homologué"
+        ],
+        "type": [
+          "Certification"
+        ],
+        "outputlevel": "niveau III (BTS, DUT)",
+        "intendedoccupations": [
+          {
+            "romcode": "E1104",
+            "entitle": "Conception de contenus multimédias"
+          },
+          {
+            "romcode": "M1805",
+            "entitle": "Études et développement informatique"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+          "400 heures en centre"
+        ],
+        "workstudyterms": [
+          "La formation ne se déroule pas en alternance"
+        ],
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+          "Tout public"
+        ],
+        "admissionterm": null,
+        "entrylevel": "niveau IV (BP, BT, baccalauréat professionnel ou technologique)",
+        "prerequisite": [
+          "Aucune connaissance préalable de la programmation n'est requise mais une mise à niveau préalable peut être requise après entretien avec le candidat"
+        ],
+        "location": {
+          "street": "8 Rue du Faubourg de Saverne",
+          "zip": "",
+          "locality": "67000 Strasbourg",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "http://3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "http://3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": "Claire Viguier"
+        },
+        "eligibilityemployee": [
+          {
+            "name": "",
+            "code": "180564",
+            "startperiodvalidity": "13/06/2016",
+            "endperiodvalidity": "31/03/2017",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "25.11Z"
+              },
+              {
+                "nafcode": "43.32C"
+              },
+              {
+                "nafcode": "58.12Z"
+              },
+              {
+                "nafcode": "58.21Z"
+              },
+              {
+                "nafcode": "58.29A"
+              },
+              {
+                "nafcode": "58.29B"
+              },
+              {
+                "nafcode": "58.29C"
+              },
+              {
+                "nafcode": "62.01Z"
+              },
+              {
+                "nafcode": "62.02A"
+              },
+              {
+                "nafcode": "62.02B"
+              },
+              {
+                "nafcode": "62.03Z"
+              },
+              {
+                "nafcode": "62.09Z"
+              },
+              {
+                "nafcode": "63.11Z"
+              },
+              {
+                "nafcode": "63.12Z"
+              },
+              {
+                "nafcode": "68.20B"
+              },
+              {
+                "nafcode": "68.32A"
+              },
+              {
+                "nafcode": "70.21Z"
+              },
+              {
+                "nafcode": "70.22Z"
+              },
+              {
+                "nafcode": "71.12B"
+              },
+              {
+                "nafcode": "71.20B"
+              },
+              {
+                "nafcode": "73.20Z"
+              },
+              {
+                "nafcode": "74.30Z"
+              },
+              {
+                "nafcode": "74.90B"
+              },
+              {
+                "nafcode": "78.10Z"
+              },
+              {
+                "nafcode": "78.30Z"
+              },
+              {
+                "nafcode": "82.30Z"
+              },
+              {
+                "nafcode": "90.04Z"
+              }
+            ]
+          }
+        ],
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+          {
+            "startperiodvalidity": "03/10/2016",
+            "endperiodvalidity": "30/12/2016",
+            "adress": {
+              "street": "67000 Strasbourg",
+              "zip": "",
+              "locality": "3 Quai Kléber c/o Regus, Tour Sébastopol"
+            },
+            "recruitmentstate": "",
+            "terms": "Dispositif de formation en entrées et sorties permanentes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      },
+      {
+        "name": "FPC Développeur Intégrateur web",
+        "objectives": "La 3W Academy forme des développeurs-intégrateurs web pour un accès direct à l'emploi. A lissue des 3 mois, les étudiants doivent être en mesure de travailler en équipe avec des webdesigners et des chefs de projet afin de réaliser des sites Internet modernes, fonctionnels et solides",
+        "programme": [
+          "Intégration web (112 heures), créer des sites responsive, création de 7 sites en partant de maquettes, HTML5, CSS",
+          "Développement web (288 heures), créer des sites dynamiques, création de 10 applications web, Javascript, PHP"
+        ],
+        "validation": [
+          "Titre ou diplôme homologué"
+        ],
+        "type": [
+          "Certification"
+        ],
+        "outputlevel": "niveau III (BTS, DUT)",
+        "intendedoccupations": [
+          {
+            "romcode": "E1104",
+            "entitle": "Conception de contenus multimédias"
+          },
+          {
+            "romcode": "M1805",
+            "entitle": "Études et développement informatique"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+          "400 heures en centre"
+        ],
+        "workstudyterms": [
+          "La formation ne se déroule pas en alternance"
+        ],
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+          "Tout public"
+        ],
+        "admissionterm": null,
+        "entrylevel": "niveau IV (BP, BT, baccalauréat professionnel ou technologique)",
+        "prerequisite": [
+          "Aucune connaissance préalable de la programmation n'est requise mais une mise à niveau préalable peut être requise après entretien avec le candidat"
+        ],
+        "location": {
+          "street": "8 Rue du Faubourg de Saverne",
+          "zip": "",
+          "locality": "67000 Strasbourg",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "http://3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "http://3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": "Claire Viguier"
+        },
+        "eligibilityemployee": [
+          {
+            "name": "",
+            "code": "180564",
+            "startperiodvalidity": "13/06/2016",
+            "endperiodvalidity": "31/03/2017",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "25.11Z"
+              },
+              {
+                "nafcode": "43.32C"
+              },
+              {
+                "nafcode": "58.12Z"
+              },
+              {
+                "nafcode": "58.21Z"
+              },
+              {
+                "nafcode": "58.29A"
+              },
+              {
+                "nafcode": "58.29B"
+              },
+              {
+                "nafcode": "58.29C"
+              },
+              {
+                "nafcode": "62.01Z"
+              },
+              {
+                "nafcode": "62.02A"
+              },
+              {
+                "nafcode": "62.02B"
+              },
+              {
+                "nafcode": "62.03Z"
+              },
+              {
+                "nafcode": "62.09Z"
+              },
+              {
+                "nafcode": "63.11Z"
+              },
+              {
+                "nafcode": "63.12Z"
+              },
+              {
+                "nafcode": "68.20B"
+              },
+              {
+                "nafcode": "68.32A"
+              },
+              {
+                "nafcode": "70.21Z"
+              },
+              {
+                "nafcode": "70.22Z"
+              },
+              {
+                "nafcode": "71.12B"
+              },
+              {
+                "nafcode": "71.20B"
+              },
+              {
+                "nafcode": "73.20Z"
+              },
+              {
+                "nafcode": "74.30Z"
+              },
+              {
+                "nafcode": "74.90B"
+              },
+              {
+                "nafcode": "78.10Z"
+              },
+              {
+                "nafcode": "78.30Z"
+              },
+              {
+                "nafcode": "82.30Z"
+              },
+              {
+                "nafcode": "90.04Z"
+              }
+            ]
+          }
+        ],
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+          {
+            "startperiodvalidity": "02/01/2017",
+            "endperiodvalidity": "31/03/2017",
+            "adress": {
+              "street": "67000 Strasbourg",
+              "zip": "",
+              "locality": "3 Quai Kléber c/o Regus, Tour Sébastopol"
+            },
+            "recruitmentstate": "",
+            "terms": "Dispositif de formation en entrées et sorties permanentes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      },
+      {
+        "name": "FPC Développeur Intégrateur web",
+        "objectives": "La 3W Academy forme des développeurs-intégrateurs web pour un accès direct à l'emploi. A lissue des 3 mois, les étudiants doivent être en mesure de travailler en équipe avec des webdesigners et des chefs de projet afin de réaliser des sites Internet modernes, fonctionnels et solides",
+        "programme": [
+          "Intégration web (56 heures), créer des sites responsive, création de 2 sites en partant de maquettes, HTML5, CSS",
+          "Développement web (144 heures), créer des sites dynamiques, création de 2 applications web, Javascript, PHP"
+        ],
+        "validation": [
+          "Certificat de l'école ou titre privé"
+        ],
+        "type": null,
+        "outputlevel": "niveau III (BTS, DUT)",
+        "intendedoccupations": [
+          {
+            "romcode": "M1805",
+            "entitle": "Études et développement informatique"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+          "200 heures en centre"
+        ],
+        "workstudyterms": [
+          "La formation ne se déroule pas en alternance"
+        ],
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+          "Tout public"
+        ],
+        "admissionterm": null,
+        "entrylevel": "niveau IV (BP, BT, baccalauréat professionnel ou technologique)",
+        "prerequisite": [
+          "Aucune connaissance préalable de la programmation n'est requise mais une mise à niveau préalable peut être requise après entretien avec le candidat"
+        ],
+        "location": {
+          "street": "8 Rue du Faubourg de Saverne",
+          "zip": "",
+          "locality": "67000 Strasbourg",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "http://3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "http://3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": "Sébastien Morel"
+        },
+        "eligibilityemployee": null,
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+          {
+            "startperiodvalidity": "02/01/2017",
+            "endperiodvalidity": "31/03/2017",
+            "adress": {
+              "street": "67000 Strasbourg",
+              "zip": "",
+              "locality": "3 Quai Kléber c/o Regus, Tour Sébastopol"
+            },
+            "recruitmentstate": "",
+            "terms": "entrées/sorties à dates fixes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      },
+      {
+        "name": "Développeur d'application mobile - spécialisation iOS",
+        "objectives": "Développer des applications iOS. Connaître les langages de programmation qui décrivent le contenu d'une application mobile, sa mise en forme, l'interaction avec l'utilisateur, l'interrogation et la mise à jour des bases de données sur les serveurs et sur le terminal mobile",
+        "programme": [
+          "Le programme de formation couvre les différentes facettes de l'environnement de travail iOS. Il a été segmenté en 40 modules : un par jour de formation. Chaque jour, un nouveau module est introduit par le professeur. Le reste de la journée est consacré à la pratique, guidé par le professeur",
+          "Les bases du langage Swift",
+          "Programmation Orientée Objet en Swift",
+          "L'environnement de programmation : Xcode",
+          "Migrer un projet en Objective-C",
+          "Les contrôleurs de Vue",
+          "Mise en page avancée",
+          "Persistance des données",
+          "Accès réseau",
+          "Principales API des terminaux",
+          "Construire des applications professionnelles",
+          "Introduction aux autres plateformes",
+          "Publier une application sur l'App Store"
+        ],
+        "validation": [
+          "Attestation d'acquis ou de compétences;Attestation de suivi de présence"
+        ],
+        "type": [
+          "Perfectionnement, élargissement des compétences"
+        ],
+        "outputlevel": "niveau II (licence ou maîtrise universitaire)",
+        "intendedoccupations": [
+          {
+            "romcode": "M1805",
+            "entitle": "Études et développement informatique"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+          "280 heures en centre",
+          "58 jours"
+        ],
+        "workstudyterms": [
+          "Cours du jour : 280 h"
+        ],
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+          "Tout public"
+        ],
+        "admissionterm": [
+          "Test",
+          "Entretien"
+        ],
+        "entrylevel": "niveau III (BTS, DUT)",
+        "prerequisite": [
+          "Maîtrise d'un langage de programmation quel qu'il soit"
+        ],
+        "location": {
+          "street": "3W ACADEMY",
+          "zip": "75018 Paris",
+          "locality": "46 RUE RENE CLAIR",
+          "tel": "01 46 06 45 14",
+          "fax": "",
+          "website": "http://www.3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "",
+          "mail": "claire@3wa.fr",
+          "name": "Mme  Claire  VIGUIER"
+        },
+        "eligibilityemployee": null,
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+          {
+            "startperiodvalidity": "03/04/2017",
+            "endperiodvalidity": "31/05/2017",
+            "adress": {
+              "street": "46 RUE RENE CLAIR",
+              "zip": "75018 Paris",
+              "locality": "3W ACADEMY"
+            },
+            "recruitmentstate": "ouvert",
+            "terms": "entrées/sorties à dates fixes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      },
+      {
+        "name": "Développeur d'application mobile - spécialisation iOS",
+        "objectives": "Développer des applications iOS. Connaître les langages de programmation qui décrivent le contenu d'une application mobile, sa mise en forme, l'interaction avec l'utilisateur, l'interrogation et la mise à jour des bases de données sur les serveurs et sur le terminal mobile",
+        "programme": [
+          "Le programme de formation couvre les différentes facettes de l'environnement de travail iOS. Il a été segmenté en 40 modules : un par jour de formation. Chaque jour, un nouveau module est introduit par le professeur. Le reste de la journée est consacré à la pratique, guidé par le professeur",
+          "Les bases du langage Swift",
+          "Programmation Orientée Objet en Swift",
+          "L'environnement de programmation : Xcode",
+          "Migrer un projet en Objective-C",
+          "Les contrôleurs de Vue",
+          "Mise en page avancée",
+          "Persistance des données",
+          "Accès réseau",
+          "Principales API des terminaux",
+          "Construire des applications professionnelles",
+          "Introduction aux autres plateformes",
+          "Publier une application sur l'App Store"
+        ],
+        "validation": [
+          "Attestation d'acquis ou de compétences;Attestation de suivi de présence"
+        ],
+        "type": [
+          "Perfectionnement, élargissement des compétences"
+        ],
+        "outputlevel": "niveau II (licence ou maîtrise universitaire)",
+        "intendedoccupations": [
+          {
+            "romcode": "M1805",
+            "entitle": "Études et développement informatique"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+          "280 heures en centre",
+          "58 jours"
+        ],
+        "workstudyterms": [
+          "Cours du jour : 280 h"
+        ],
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+          "Tout public"
+        ],
+        "admissionterm": [
+          "Test",
+          "Entretien"
+        ],
+        "entrylevel": "niveau III (BTS, DUT)",
+        "prerequisite": [
+          "Maîtrise d'un langage de programmation quel qu'il soit"
+        ],
+        "location": {
+          "street": "3W ACADEMY",
+          "zip": "75018 Paris",
+          "locality": "46 RUE RENE CLAIR",
+          "tel": "01 46 06 45 14",
+          "fax": "",
+          "website": "http://www.3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "",
+          "mail": "claire@3wa.fr",
+          "name": "Mme  Claire  VIGUIER"
+        },
+        "eligibilityemployee": null,
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+          {
+            "startperiodvalidity": "01/02/2017",
+            "endperiodvalidity": "31/03/2017",
+            "adress": {
+              "street": "46 RUE RENE CLAIR",
+              "zip": "75018 Paris",
+              "locality": "3W ACADEMY"
+            },
+            "recruitmentstate": "ouvert",
+            "terms": "entrées/sorties à dates fixes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      },
+      {
+        "name": "Développeur d'application mobile - spécialisation iOS",
+        "objectives": "Développer des applications iOS. Connaître les langages de programmation qui décrivent le contenu d'une application mobile, sa mise en forme, l'interaction avec l'utilisateur, l'interrogation et la mise à jour des bases de données sur les serveurs et sur le terminal mobile",
+        "programme": [
+          "Le programme de formation couvre les différentes facettes de l'environnement de travail iOS. Il a été segmenté en 40 modules : un par jour de formation. Chaque jour, un nouveau module est introduit par le professeur. Le reste de la journée est consacré à la pratique, guidé par le professeur",
+          "Les bases du langage Swift",
+          "Programmation Orientée Objet en Swift",
+          "L'environnement de programmation : Xcode",
+          "Migrer un projet en Objective-C",
+          "Les contrôleurs de Vue",
+          "Mise en page avancée",
+          "Persistance des données",
+          "Accès réseau",
+          "Principales API des terminaux",
+          "Construire des applications professionnelles",
+          "Introduction aux autres plateformes",
+          "Publier une application sur l'App Store"
+        ],
+        "validation": [
+          "Attestation d'acquis ou de compétences;Attestation de suivi de présence"
+        ],
+        "type": [
+          "Perfectionnement, élargissement des compétences"
+        ],
+        "outputlevel": "niveau II (licence ou maîtrise universitaire)",
+        "intendedoccupations": [
+          {
+            "romcode": "M1805",
+            "entitle": "Études et développement informatique"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+          "280 heures en centre",
+          "62 jours"
+        ],
+        "workstudyterms": [
+          "Cours du jour : 280 h"
+        ],
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+          "Tout public"
+        ],
+        "admissionterm": [
+          "Test",
+          "Entretien"
+        ],
+        "entrylevel": "niveau III (BTS, DUT)",
+        "prerequisite": [
+          "Maîtrise d'un langage de programmation quel qu'il soit"
+        ],
+        "location": {
+          "street": "3W ACADEMY",
+          "zip": "75018 Paris",
+          "locality": "46 RUE RENE CLAIR",
+          "tel": "01 46 06 45 14",
+          "fax": "",
+          "website": "http://www.3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "",
+          "mail": "claire@3wa.fr",
+          "name": "Mme  Claire  VIGUIER"
+        },
+        "eligibilityemployee": null,
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+          {
+            "startperiodvalidity": "01/12/2016",
+            "endperiodvalidity": "01/02/2017",
+            "adress": {
+              "street": "46 RUE RENE CLAIR",
+              "zip": "75018 Paris",
+              "locality": "3W ACADEMY"
+            },
+            "recruitmentstate": "ouvert",
+            "terms": "entrées/sorties à dates fixes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      },
+      {
+        "name": "Développeur intégrateur en réalisation d'applications web",
+        "objectives": "Développer des sites internet dynamiques. Connaître les langages de programmation qui décrivent le contenu d'un site, sa mise en forme, l'interaction avec l'utilisateur, l'interrogation et la mise à jour des bases de données sur les serveurs",
+        "programme": [
+          "Le programme de formation couvre les 5 technologies HTML, CSS, PHP, MYSQL et JAVASCRIPT. Il a été segmenté en 60 modules : un par jour de formation. Chaque jour, un nouveau module est introduit à l'aide d'une courte vidéo de 10-15 minutes. S'ensuit une séance de questions-réponses avec le professeur. Le reste de la journée est consacré à la pratique : exercices, expérimentation et projet personnel"
+        ],
+        "validation": [
+          "Développeur intégrateur en réalisation d'applications web;Attestation d'acquis ou de compétences;Attestation de suivi de présence"
+        ],
+        "type": [
+          "Certification"
+        ],
+        "outputlevel": "niveau III (BTS, DUT)",
+        "intendedoccupations": [
+          {
+            "romcode": "M1805",
+            "entitle": "Études et développement informatique"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+          "200 heures en centre",
+          "44 jours"
+        ],
+        "workstudyterms": [
+          "Cours du jour : 200 h"
+        ],
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+          "Tout public"
+        ],
+        "admissionterm": [
+          "Test",
+          "Entretien"
+        ],
+        "entrylevel": "niveau IV (BP, BT, baccalauréat professionnel ou technologique)",
+        "prerequisite": [
+          "Utilisation de l'internet"
+        ],
+        "location": {
+          "street": "3W ACADEMY",
+          "zip": "75018 Paris",
+          "locality": "46 RUE RENE CLAIR",
+          "tel": "01 46 06 45 14",
+          "fax": "",
+          "website": "http://www.3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "",
+          "mail": "claire@3wa.fr",
+          "name": "Mme  Claire  VIGUIER"
+        },
+        "eligibilityemployee": [
+          {
+            "name": "",
+            "code": "180564",
+            "startperiodvalidity": "13/06/2016",
+            "endperiodvalidity": "31/03/2017",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "25.11Z"
+              },
+              {
+                "nafcode": "43.32C"
+              },
+              {
+                "nafcode": "58.12Z"
+              },
+              {
+                "nafcode": "58.21Z"
+              },
+              {
+                "nafcode": "58.29A"
+              },
+              {
+                "nafcode": "58.29B"
+              },
+              {
+                "nafcode": "58.29C"
+              },
+              {
+                "nafcode": "62.01Z"
+              },
+              {
+                "nafcode": "62.02A"
+              },
+              {
+                "nafcode": "62.02B"
+              },
+              {
+                "nafcode": "62.03Z"
+              },
+              {
+                "nafcode": "62.09Z"
+              },
+              {
+                "nafcode": "63.11Z"
+              },
+              {
+                "nafcode": "63.12Z"
+              },
+              {
+                "nafcode": "68.20B"
+              },
+              {
+                "nafcode": "68.32A"
+              },
+              {
+                "nafcode": "70.21Z"
+              },
+              {
+                "nafcode": "70.22Z"
+              },
+              {
+                "nafcode": "71.12B"
+              },
+              {
+                "nafcode": "71.20B"
+              },
+              {
+                "nafcode": "73.20Z"
+              },
+              {
+                "nafcode": "74.30Z"
+              },
+              {
+                "nafcode": "74.90B"
+              },
+              {
+                "nafcode": "78.10Z"
+              },
+              {
+                "nafcode": "78.30Z"
+              },
+              {
+                "nafcode": "82.30Z"
+              },
+              {
+                "nafcode": "90.04Z"
+              }
+            ]
+          }
+        ],
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+          {
+            "startperiodvalidity": "17/10/2016",
+            "endperiodvalidity": "30/11/2016",
+            "adress": {
+              "street": "46 RUE RENE CLAIR",
+              "zip": "75018 Paris",
+              "locality": "3W ACADEMY"
+            },
+            "recruitmentstate": "ouvert",
+            "terms": "entrées/sorties à dates fixes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      },
+      {
+        "name": "Développeur intégrateur en réalisation d'applications web",
+        "objectives": "Développer des sites internet dynamiques. Connaître les langages de programmation qui décrivent le contenu d'un site, sa mise en forme, l'interaction avec l'utilisateur, l'interrogation et la mise à jour des bases de données sur les serveurs",
+        "programme": [
+          "Le programme de formation couvre les 5 technologies HTML, CSS, PHP, MYSQL et JAVASCRIPT. Il a été segmenté en 60 modules : un par jour de formation. Chaque jour, un nouveau module est introduit à l'aide d'une courte vidéo de 10-15 minutes. S'ensuit une séance de questions-réponses avec le professeur. Le reste de la journée est consacré à la pratique : exercices, expérimentation et projet personnel"
+        ],
+        "validation": [
+          "Développeur intégrateur en réalisation d'applications web;Attestation d'acquis ou de compétences;Attestation de suivi de présence"
+        ],
+        "type": [
+          "Certification"
+        ],
+        "outputlevel": "niveau III (BTS, DUT)",
+        "intendedoccupations": [
+          {
+            "romcode": "M1805",
+            "entitle": "Études et développement informatique"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+          "200 heures en centre",
+          "48 jours"
+        ],
+        "workstudyterms": [
+          "Cours du jour : 200 h"
+        ],
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+          "Tout public"
+        ],
+        "admissionterm": [
+          "Test",
+          "Entretien"
+        ],
+        "entrylevel": "niveau IV (BP, BT, baccalauréat professionnel ou technologique)",
+        "prerequisite": [
+          "Utilisation de l'internet"
+        ],
+        "location": {
+          "street": "3W ACADEMY",
+          "zip": "75018 Paris",
+          "locality": "46 RUE RENE CLAIR",
+          "tel": "01 46 06 45 14",
+          "fax": "",
+          "website": "http://www.3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "",
+          "mail": "claire@3wa.fr",
+          "name": "Mme  Claire  VIGUIER"
+        },
+        "eligibilityemployee": [
+          {
+            "name": "",
+            "code": "180564",
+            "startperiodvalidity": "13/06/2016",
+            "endperiodvalidity": "31/03/2017",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "25.11Z"
+              },
+              {
+                "nafcode": "43.32C"
+              },
+              {
+                "nafcode": "58.12Z"
+              },
+              {
+                "nafcode": "58.21Z"
+              },
+              {
+                "nafcode": "58.29A"
+              },
+              {
+                "nafcode": "58.29B"
+              },
+              {
+                "nafcode": "58.29C"
+              },
+              {
+                "nafcode": "62.01Z"
+              },
+              {
+                "nafcode": "62.02A"
+              },
+              {
+                "nafcode": "62.02B"
+              },
+              {
+                "nafcode": "62.03Z"
+              },
+              {
+                "nafcode": "62.09Z"
+              },
+              {
+                "nafcode": "63.11Z"
+              },
+              {
+                "nafcode": "63.12Z"
+              },
+              {
+                "nafcode": "68.20B"
+              },
+              {
+                "nafcode": "68.32A"
+              },
+              {
+                "nafcode": "70.21Z"
+              },
+              {
+                "nafcode": "70.22Z"
+              },
+              {
+                "nafcode": "71.12B"
+              },
+              {
+                "nafcode": "71.20B"
+              },
+              {
+                "nafcode": "73.20Z"
+              },
+              {
+                "nafcode": "74.30Z"
+              },
+              {
+                "nafcode": "74.90B"
+              },
+              {
+                "nafcode": "78.10Z"
+              },
+              {
+                "nafcode": "78.30Z"
+              },
+              {
+                "nafcode": "82.30Z"
+              },
+              {
+                "nafcode": "90.04Z"
+              }
+            ]
+          }
+        ],
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+          {
+            "startperiodvalidity": "12/09/2016",
+            "endperiodvalidity": "30/10/2016",
+            "adress": {
+              "street": "46 RUE RENE CLAIR",
+              "zip": "75018 Paris",
+              "locality": "3W ACADEMY"
+            },
+            "recruitmentstate": "ouvert",
+            "terms": "entrées/sorties à dates fixes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      },
+      {
+        "name": "Développeur intégrateur en réalisation d'applications web",
+        "objectives": "Développer des sites internet dynamiques. Connaître les langages de programmation qui décrivent le contenu d'un site, sa mise en forme, l'interaction avec l'utilisateur, l'interrogation et la mise à jour des bases de données sur les serveurs",
+        "programme": [
+          "Le programme de formation couvre les 5 technologies HTML, CSS, PHP, MYSQL et JAVASCRIPT. Il a été segmenté en 60 modules : un par jour de formation. Chaque jour, un nouveau module est introduit à l'aide d'une courte vidéo de 10-15 minutes. S'ensuit une séance de questions-réponses avec le professeur. Le reste de la journée est consacré à la pratique : exercices, expérimentation et projet personnel"
+        ],
+        "validation": [
+          "Développeur intégrateur en réalisation d'applications web;Attestation d'acquis ou de compétences;Attestation de suivi de présence"
+        ],
+        "type": [
+          "Certification"
+        ],
+        "outputlevel": "niveau III (BTS, DUT)",
+        "intendedoccupations": [
+          {
+            "romcode": "M1805",
+            "entitle": "Études et développement informatique"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+          "400 heures en centre",
+          "89 jours"
+        ],
+        "workstudyterms": [
+          "Cours du jour : 400 h"
+        ],
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+          "Tout public"
+        ],
+        "admissionterm": [
+          "Test",
+          "Entretien"
+        ],
+        "entrylevel": "niveau IV (BP, BT, baccalauréat professionnel ou technologique)",
+        "prerequisite": [
+          "Utilisation de l'internet"
+        ],
+        "location": {
+          "street": "3W ACADEMY",
+          "zip": "75018 Paris",
+          "locality": "46 RUE RENE CLAIR",
+          "tel": "01 46 06 45 14",
+          "fax": "",
+          "website": "http://www.3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "",
+          "mail": "claire@3wa.fr",
+          "name": "Mme  Claire  VIGUIER"
+        },
+        "eligibilityemployee": [
+          {
+            "name": "",
+            "code": "180564",
+            "startperiodvalidity": "13/06/2016",
+            "endperiodvalidity": "31/03/2017",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "25.11Z"
+              },
+              {
+                "nafcode": "43.32C"
+              },
+              {
+                "nafcode": "58.12Z"
+              },
+              {
+                "nafcode": "58.21Z"
+              },
+              {
+                "nafcode": "58.29A"
+              },
+              {
+                "nafcode": "58.29B"
+              },
+              {
+                "nafcode": "58.29C"
+              },
+              {
+                "nafcode": "62.01Z"
+              },
+              {
+                "nafcode": "62.02A"
+              },
+              {
+                "nafcode": "62.02B"
+              },
+              {
+                "nafcode": "62.03Z"
+              },
+              {
+                "nafcode": "62.09Z"
+              },
+              {
+                "nafcode": "63.11Z"
+              },
+              {
+                "nafcode": "63.12Z"
+              },
+              {
+                "nafcode": "68.20B"
+              },
+              {
+                "nafcode": "68.32A"
+              },
+              {
+                "nafcode": "70.21Z"
+              },
+              {
+                "nafcode": "70.22Z"
+              },
+              {
+                "nafcode": "71.12B"
+              },
+              {
+                "nafcode": "71.20B"
+              },
+              {
+                "nafcode": "73.20Z"
+              },
+              {
+                "nafcode": "74.30Z"
+              },
+              {
+                "nafcode": "74.90B"
+              },
+              {
+                "nafcode": "78.10Z"
+              },
+              {
+                "nafcode": "78.30Z"
+              },
+              {
+                "nafcode": "82.30Z"
+              },
+              {
+                "nafcode": "90.04Z"
+              }
+            ]
+          }
+        ],
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+          {
+            "startperiodvalidity": "01/12/2016",
+            "endperiodvalidity": "28/02/2017",
+            "adress": {
+              "street": "46 RUE RENE CLAIR",
+              "zip": "75018 Paris",
+              "locality": "3W ACADEMY"
+            },
+            "recruitmentstate": "ouvert",
+            "terms": "entrées/sorties à dates fixes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      },
+      {
+        "name": "Développeur intégrateur en réalisation d'applications web",
+        "objectives": "Développer des sites internet dynamiques. Connaître les langages de programmation qui décrivent le contenu d'un site, sa mise en forme, l'interaction avec l'utilisateur, l'interrogation et la mise à jour des bases de données sur les serveurs",
+        "programme": [
+          "Le programme de formation couvre les 5 technologies HTML, CSS, PHP, MYSQL et JAVASCRIPT. Il a été segmenté en 60 modules : un par jour de formation. Chaque jour, un nouveau module est introduit à l'aide d'une courte vidéo de 10-15 minutes. S'ensuit une séance de questions-réponses avec le professeur. Le reste de la journée est consacré à la pratique : exercices, expérimentation et projet personnel"
+        ],
+        "validation": [
+          "Développeur intégrateur en réalisation d'applications web;Attestation d'acquis ou de compétences;Attestation de suivi de présence"
+        ],
+        "type": [
+          "Certification"
+        ],
+        "outputlevel": "niveau III (BTS, DUT)",
+        "intendedoccupations": [
+          {
+            "romcode": "M1805",
+            "entitle": "Études et développement informatique"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+          "400 heures en centre",
+          "84 jours"
+        ],
+        "workstudyterms": [
+          "Cours du jour : 400 h"
+        ],
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+          "Tout public"
+        ],
+        "admissionterm": [
+          "Test",
+          "Entretien"
+        ],
+        "entrylevel": "niveau IV (BP, BT, baccalauréat professionnel ou technologique)",
+        "prerequisite": [
+          "Utilisation de l'internet"
+        ],
+        "location": {
+          "street": "3W ACADEMY",
+          "zip": "75018 Paris",
+          "locality": "46 RUE RENE CLAIR",
+          "tel": "01 46 06 45 14",
+          "fax": "",
+          "website": "http://www.3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "",
+          "mail": "claire@3wa.fr",
+          "name": "Mme  Claire  VIGUIER"
+        },
+        "eligibilityemployee": [
+          {
+            "name": "",
+            "code": "180564",
+            "startperiodvalidity": "13/06/2016",
+            "endperiodvalidity": "31/03/2017",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "25.11Z"
+              },
+              {
+                "nafcode": "43.32C"
+              },
+              {
+                "nafcode": "58.12Z"
+              },
+              {
+                "nafcode": "58.21Z"
+              },
+              {
+                "nafcode": "58.29A"
+              },
+              {
+                "nafcode": "58.29B"
+              },
+              {
+                "nafcode": "58.29C"
+              },
+              {
+                "nafcode": "62.01Z"
+              },
+              {
+                "nafcode": "62.02A"
+              },
+              {
+                "nafcode": "62.02B"
+              },
+              {
+                "nafcode": "62.03Z"
+              },
+              {
+                "nafcode": "62.09Z"
+              },
+              {
+                "nafcode": "63.11Z"
+              },
+              {
+                "nafcode": "63.12Z"
+              },
+              {
+                "nafcode": "68.20B"
+              },
+              {
+                "nafcode": "68.32A"
+              },
+              {
+                "nafcode": "70.21Z"
+              },
+              {
+                "nafcode": "70.22Z"
+              },
+              {
+                "nafcode": "71.12B"
+              },
+              {
+                "nafcode": "71.20B"
+              },
+              {
+                "nafcode": "73.20Z"
+              },
+              {
+                "nafcode": "74.30Z"
+              },
+              {
+                "nafcode": "74.90B"
+              },
+              {
+                "nafcode": "78.10Z"
+              },
+              {
+                "nafcode": "78.30Z"
+              },
+              {
+                "nafcode": "82.30Z"
+              },
+              {
+                "nafcode": "90.04Z"
+              }
+            ]
+          }
+        ],
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+          {
+            "startperiodvalidity": "12/09/2016",
+            "endperiodvalidity": "05/12/2016",
+            "adress": {
+              "street": "46 RUE RENE CLAIR",
+              "zip": "75018 Paris",
+              "locality": "3W ACADEMY"
+            },
+            "recruitmentstate": "ouvert",
+            "terms": "entrées/sorties à dates fixes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      },
+      {
+        "name": "Développeur intégrateur en réalisation d'applications web",
+        "objectives": "Développer des sites internet dynamiques. Connaître les langages de programmation qui décrivent le contenu d'un site, sa mise en forme, l'interaction avec l'utilisateur, l'interrogation et la mise à jour des bases de données sur les serveurs",
+        "programme": [
+          "Le programme de formation couvre les 5 technologies HTML, CSS, PHP, MYSQL et JAVASCRIPT. Il a été segmenté en 60 modules : un par jour de formation. Chaque jour, un nouveau module est introduit à l'aide d'une courte vidéo de 10-15 minutes. S'ensuit une séance de questions-réponses avec le professeur. Le reste de la journée est consacré à la pratique : exercices, expérimentation et projet personnel"
+        ],
+        "validation": [
+          "Développeur intégrateur en réalisation d'applications web;Attestation d'acquis ou de compétences;Attestation de suivi de présence"
+        ],
+        "type": [
+          "Certification"
+        ],
+        "outputlevel": "niveau III (BTS, DUT)",
+        "intendedoccupations": [
+          {
+            "romcode": "M1805",
+            "entitle": "Études et développement informatique"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+          "400 heures en centre",
+          "82 jours"
+        ],
+        "workstudyterms": [
+          "Cours du jour : 400 h"
+        ],
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+          "Tout public"
+        ],
+        "admissionterm": [
+          "Test",
+          "Entretien"
+        ],
+        "entrylevel": "niveau IV (BP, BT, baccalauréat professionnel ou technologique)",
+        "prerequisite": [
+          "Utilisation de l'internet"
+        ],
+        "location": {
+          "street": "3W ACADEMY",
+          "zip": "75018 Paris",
+          "locality": "46 RUE RENE CLAIR",
+          "tel": "01 46 06 45 14",
+          "fax": "",
+          "website": "http://www.3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "",
+          "mail": "claire@3wa.fr",
+          "name": "Mme  Claire  VIGUIER"
+        },
+        "eligibilityemployee": [
+          {
+            "name": "",
+            "code": "180564",
+            "startperiodvalidity": "13/06/2016",
+            "endperiodvalidity": "31/03/2017",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "25.11Z"
+              },
+              {
+                "nafcode": "43.32C"
+              },
+              {
+                "nafcode": "58.12Z"
+              },
+              {
+                "nafcode": "58.21Z"
+              },
+              {
+                "nafcode": "58.29A"
+              },
+              {
+                "nafcode": "58.29B"
+              },
+              {
+                "nafcode": "58.29C"
+              },
+              {
+                "nafcode": "62.01Z"
+              },
+              {
+                "nafcode": "62.02A"
+              },
+              {
+                "nafcode": "62.02B"
+              },
+              {
+                "nafcode": "62.03Z"
+              },
+              {
+                "nafcode": "62.09Z"
+              },
+              {
+                "nafcode": "63.11Z"
+              },
+              {
+                "nafcode": "63.12Z"
+              },
+              {
+                "nafcode": "68.20B"
+              },
+              {
+                "nafcode": "68.32A"
+              },
+              {
+                "nafcode": "70.21Z"
+              },
+              {
+                "nafcode": "70.22Z"
+              },
+              {
+                "nafcode": "71.12B"
+              },
+              {
+                "nafcode": "71.20B"
+              },
+              {
+                "nafcode": "73.20Z"
+              },
+              {
+                "nafcode": "74.30Z"
+              },
+              {
+                "nafcode": "74.90B"
+              },
+              {
+                "nafcode": "78.10Z"
+              },
+              {
+                "nafcode": "78.30Z"
+              },
+              {
+                "nafcode": "82.30Z"
+              },
+              {
+                "nafcode": "90.04Z"
+              }
+            ]
+          }
+        ],
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+          {
+            "startperiodvalidity": "17/10/2016",
+            "endperiodvalidity": "07/01/2017",
+            "adress": {
+              "street": "46 RUE RENE CLAIR",
+              "zip": "75018 Paris",
+              "locality": "3W ACADEMY"
+            },
+            "recruitmentstate": "ouvert",
+            "terms": "entrées/sorties à dates fixes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      },
+      {
+        "name": "Développeur intégrateur en réalisation d'applications web",
+        "objectives": "Développer des sites internet dynamiques. Connaître les langages de programmation qui décrivent le contenu d'un site, sa mise en forme, l'interaction avec l'utilisateur, l'interrogation et la mise à jour des bases de données sur les serveurs",
+        "programme": [
+          "Le programme de formation couvre les 5 technologies HTML, CSS, PHP, MYSQL et JAVASCRIPT. Il a été segmenté en 60 modules : un par jour de formation. Chaque jour, un nouveau module est introduit à l'aide d'une courte vidéo de 10-15 minutes. S'ensuit une séance de questions-réponses avec le professeur. Le reste de la journée est consacré à la pratique : exercices, expérimentation et projet personnel"
+        ],
+        "validation": [
+          "Développeur intégrateur en réalisation d'applications web;Attestation d'acquis ou de compétences;Attestation de suivi de présence"
+        ],
+        "type": [
+          "Certification"
+        ],
+        "outputlevel": "niveau III (BTS, DUT)",
+        "intendedoccupations": [
+          {
+            "romcode": "M1805",
+            "entitle": "Études et développement informatique"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+          "200 heures en centre",
+          "46 jours"
+        ],
+        "workstudyterms": [
+          "Cours du jour : 200 h"
+        ],
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+          "Tout public"
+        ],
+        "admissionterm": [
+          "Test",
+          "Entretien"
+        ],
+        "entrylevel": "niveau IV (BP, BT, baccalauréat professionnel ou technologique)",
+        "prerequisite": [
+          "Utilisation de l'internet"
+        ],
+        "location": {
+          "street": "3W ACADEMY",
+          "zip": "75018 Paris",
+          "locality": "46 RUE RENE CLAIR",
+          "tel": "01 46 06 45 14",
+          "fax": "",
+          "website": "http://www.3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "",
+          "mail": "claire@3wa.fr",
+          "name": "Mme  Claire  VIGUIER"
+        },
+        "eligibilityemployee": [
+          {
+            "name": "",
+            "code": "180564",
+            "startperiodvalidity": "13/06/2016",
+            "endperiodvalidity": "31/03/2017",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "25.11Z"
+              },
+              {
+                "nafcode": "43.32C"
+              },
+              {
+                "nafcode": "58.12Z"
+              },
+              {
+                "nafcode": "58.21Z"
+              },
+              {
+                "nafcode": "58.29A"
+              },
+              {
+                "nafcode": "58.29B"
+              },
+              {
+                "nafcode": "58.29C"
+              },
+              {
+                "nafcode": "62.01Z"
+              },
+              {
+                "nafcode": "62.02A"
+              },
+              {
+                "nafcode": "62.02B"
+              },
+              {
+                "nafcode": "62.03Z"
+              },
+              {
+                "nafcode": "62.09Z"
+              },
+              {
+                "nafcode": "63.11Z"
+              },
+              {
+                "nafcode": "63.12Z"
+              },
+              {
+                "nafcode": "68.20B"
+              },
+              {
+                "nafcode": "68.32A"
+              },
+              {
+                "nafcode": "70.21Z"
+              },
+              {
+                "nafcode": "70.22Z"
+              },
+              {
+                "nafcode": "71.12B"
+              },
+              {
+                "nafcode": "71.20B"
+              },
+              {
+                "nafcode": "73.20Z"
+              },
+              {
+                "nafcode": "74.30Z"
+              },
+              {
+                "nafcode": "74.90B"
+              },
+              {
+                "nafcode": "78.10Z"
+              },
+              {
+                "nafcode": "78.30Z"
+              },
+              {
+                "nafcode": "82.30Z"
+              },
+              {
+                "nafcode": "90.04Z"
+              }
+            ]
+          }
+        ],
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+          {
+            "startperiodvalidity": "14/11/2016",
+            "endperiodvalidity": "30/12/2016",
+            "adress": {
+              "street": "46 RUE RENE CLAIR",
+              "zip": "75018 Paris",
+              "locality": "3W ACADEMY"
+            },
+            "recruitmentstate": "ouvert",
+            "terms": "entrées/sorties à dates fixes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      },
+      {
+        "name": "Développeur intégrateur en réalisation d'applications web",
+        "objectives": "Développer des sites internet dynamiques. Connaître les langages de programmation qui décrivent le contenu d'un site, sa mise en forme, l'interaction avec l'utilisateur, l'interrogation et la mise à jour des bases de données sur les serveurs",
+        "programme": [
+          "Le programme de formation couvre les 5 technologies HTML, CSS, PHP, MYSQL et JAVASCRIPT. Il a été segmenté en 60 modules : un par jour de formation. Chaque jour, un nouveau module est introduit à l'aide d'une courte vidéo de 10-15 minutes. S'ensuit une séance de questions-réponses avec le professeur. Le reste de la journée est consacré à la pratique : exercices, expérimentation et projet personnel"
+        ],
+        "validation": [
+          "Développeur intégrateur en réalisation d'applications web;Attestation d'acquis ou de compétences;Attestation de suivi de présence"
+        ],
+        "type": [
+          "Certification"
+        ],
+        "outputlevel": "niveau III (BTS, DUT)",
+        "intendedoccupations": [
+          {
+            "romcode": "M1805",
+            "entitle": "Études et développement informatique"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+          "400 heures en centre",
+          "88 jours"
+        ],
+        "workstudyterms": [
+          "Cours du jour : 400 h"
+        ],
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+          "Tout public"
+        ],
+        "admissionterm": [
+          "Test",
+          "Entretien"
+        ],
+        "entrylevel": "niveau IV (BP, BT, baccalauréat professionnel ou technologique)",
+        "prerequisite": [
+          "Utilisation de l'internet"
+        ],
+        "location": {
+          "street": "3W ACADEMY",
+          "zip": "75018 Paris",
+          "locality": "46 RUE RENE CLAIR",
+          "tel": "01 46 06 45 14",
+          "fax": "",
+          "website": "http://www.3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "",
+          "mail": "claire@3wa.fr",
+          "name": "Mme  Claire  VIGUIER"
+        },
+        "eligibilityemployee": [
+          {
+            "name": "",
+            "code": "180564",
+            "startperiodvalidity": "13/06/2016",
+            "endperiodvalidity": "31/03/2017",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "25.11Z"
+              },
+              {
+                "nafcode": "43.32C"
+              },
+              {
+                "nafcode": "58.12Z"
+              },
+              {
+                "nafcode": "58.21Z"
+              },
+              {
+                "nafcode": "58.29A"
+              },
+              {
+                "nafcode": "58.29B"
+              },
+              {
+                "nafcode": "58.29C"
+              },
+              {
+                "nafcode": "62.01Z"
+              },
+              {
+                "nafcode": "62.02A"
+              },
+              {
+                "nafcode": "62.02B"
+              },
+              {
+                "nafcode": "62.03Z"
+              },
+              {
+                "nafcode": "62.09Z"
+              },
+              {
+                "nafcode": "63.11Z"
+              },
+              {
+                "nafcode": "63.12Z"
+              },
+              {
+                "nafcode": "68.20B"
+              },
+              {
+                "nafcode": "68.32A"
+              },
+              {
+                "nafcode": "70.21Z"
+              },
+              {
+                "nafcode": "70.22Z"
+              },
+              {
+                "nafcode": "71.12B"
+              },
+              {
+                "nafcode": "71.20B"
+              },
+              {
+                "nafcode": "73.20Z"
+              },
+              {
+                "nafcode": "74.30Z"
+              },
+              {
+                "nafcode": "74.90B"
+              },
+              {
+                "nafcode": "78.10Z"
+              },
+              {
+                "nafcode": "78.30Z"
+              },
+              {
+                "nafcode": "82.30Z"
+              },
+              {
+                "nafcode": "90.04Z"
+              }
+            ]
+          }
+        ],
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+          {
+            "startperiodvalidity": "14/11/2016",
+            "endperiodvalidity": "10/02/2017",
+            "adress": {
+              "street": "46 RUE RENE CLAIR",
+              "zip": "75018 Paris",
+              "locality": "3W ACADEMY"
+            },
+            "recruitmentstate": "ouvert",
+            "terms": "entrées/sorties à dates fixes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      },
+      {
+        "name": "Développeur intégrateur en réalisation d'applications web",
+        "objectives": "Développer des sites internet dynamiques. Connaître les langages de programmation qui décrivent le contenu d'un site, sa mise en forme, l'interaction avec l'utilisateur, l'interrogation et la mise à jour des bases de données sur les serveurs",
+        "programme": [
+          "Le programme de formation couvre les 5 technologies HTML, CSS, PHP, MYSQL et JAVASCRIPT. Il a été segmenté en 60 modules : un par jour de formation. Chaque jour, un nouveau module est introduit à l'aide d'une courte vidéo de 10-15 minutes. S'ensuit une séance de questions-réponses avec le professeur. Le reste de la journée est consacré à la pratique : exercices, expérimentation et projet personnel"
+        ],
+        "validation": [
+          "Développeur intégrateur en réalisation d'applications web;Attestation d'acquis ou de compétences;Attestation de suivi de présence"
+        ],
+        "type": [
+          "Certification"
+        ],
+        "outputlevel": "niveau III (BTS, DUT)",
+        "intendedoccupations": [
+          {
+            "romcode": "M1805",
+            "entitle": "Études et développement informatique"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+          "400 heures en centre",
+          "90 jours"
+        ],
+        "workstudyterms": [
+          "Cours du jour : 400 h"
+        ],
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+          "Tout public"
+        ],
+        "admissionterm": [
+          "Test",
+          "Entretien"
+        ],
+        "entrylevel": "niveau IV (BP, BT, baccalauréat professionnel ou technologique)",
+        "prerequisite": [
+          "Utilisation de l'internet"
+        ],
+        "location": {
+          "street": "3W ACADEMY",
+          "zip": "75018 Paris",
+          "locality": "46 RUE RENE CLAIR",
+          "tel": "01 46 06 45 14",
+          "fax": "",
+          "website": "http://www.3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "",
+          "mail": "claire@3wa.fr",
+          "name": "Mme  Claire  VIGUIER"
+        },
+        "eligibilityemployee": [
+          {
+            "name": "",
+            "code": "180564",
+            "startperiodvalidity": "13/06/2016",
+            "endperiodvalidity": "31/03/2017",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "25.11Z"
+              },
+              {
+                "nafcode": "43.32C"
+              },
+              {
+                "nafcode": "58.12Z"
+              },
+              {
+                "nafcode": "58.21Z"
+              },
+              {
+                "nafcode": "58.29A"
+              },
+              {
+                "nafcode": "58.29B"
+              },
+              {
+                "nafcode": "58.29C"
+              },
+              {
+                "nafcode": "62.01Z"
+              },
+              {
+                "nafcode": "62.02A"
+              },
+              {
+                "nafcode": "62.02B"
+              },
+              {
+                "nafcode": "62.03Z"
+              },
+              {
+                "nafcode": "62.09Z"
+              },
+              {
+                "nafcode": "63.11Z"
+              },
+              {
+                "nafcode": "63.12Z"
+              },
+              {
+                "nafcode": "68.20B"
+              },
+              {
+                "nafcode": "68.32A"
+              },
+              {
+                "nafcode": "70.21Z"
+              },
+              {
+                "nafcode": "70.22Z"
+              },
+              {
+                "nafcode": "71.12B"
+              },
+              {
+                "nafcode": "71.20B"
+              },
+              {
+                "nafcode": "73.20Z"
+              },
+              {
+                "nafcode": "74.30Z"
+              },
+              {
+                "nafcode": "74.90B"
+              },
+              {
+                "nafcode": "78.10Z"
+              },
+              {
+                "nafcode": "78.30Z"
+              },
+              {
+                "nafcode": "82.30Z"
+              },
+              {
+                "nafcode": "90.04Z"
+              }
+            ]
+          }
+        ],
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+          {
+            "startperiodvalidity": "12/12/2016",
+            "endperiodvalidity": "12/03/2017",
+            "adress": {
+              "street": "46 RUE RENE CLAIR",
+              "zip": "75018 Paris",
+              "locality": "3W ACADEMY"
+            },
+            "recruitmentstate": "ouvert",
+            "terms": "entrées/sorties à dates fixes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      },
+      {
+        "name": "Développeur intégrateur en réalisation d'applications web",
+        "objectives": "Développer des sites internet dynamiques. Connaître les langages de programmation qui décrivent le contenu d'un site, sa mise en forme, l'interaction avec l'utilisateur, l'interrogation et la mise à jour des bases de données sur les serveurs",
+        "programme": [
+          "Le programme de formation couvre les 5 technologies HTML, CSS, PHP, MYSQL et JAVASCRIPT. Il a été segmenté en 60 modules : un par jour de formation. Chaque jour, un nouveau module est introduit à l'aide d'une courte vidéo de 10-15 minutes. S'ensuit une séance de questions-réponses avec le professeur. Le reste de la journée est consacré à la pratique : exercices, expérimentation et projet personnel"
+        ],
+        "validation": [
+          "Développeur intégrateur en réalisation d'applications web;Attestation d'acquis ou de compétences;Attestation de suivi de présence"
+        ],
+        "type": [
+          "Certification"
+        ],
+        "outputlevel": "niveau III (BTS, DUT)",
+        "intendedoccupations": [
+          {
+            "romcode": "M1805",
+            "entitle": "Études et développement informatique"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+          "200 heures en centre",
+          "50 jours"
+        ],
+        "workstudyterms": [
+          "Cours du jour : 200 h"
+        ],
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+          "Tout public"
+        ],
+        "admissionterm": [
+          "Test",
+          "Entretien"
+        ],
+        "entrylevel": "niveau IV (BP, BT, baccalauréat professionnel ou technologique)",
+        "prerequisite": [
+          "Utilisation de l'internet"
+        ],
+        "location": {
+          "street": "3W ACADEMY",
+          "zip": "75018 Paris",
+          "locality": "46 RUE RENE CLAIR",
+          "tel": "01 46 06 45 14",
+          "fax": "",
+          "website": "http://www.3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "",
+          "mail": "claire@3wa.fr",
+          "name": "Mme  Claire  VIGUIER"
+        },
+        "eligibilityemployee": [
+          {
+            "name": "",
+            "code": "180564",
+            "startperiodvalidity": "13/06/2016",
+            "endperiodvalidity": "31/03/2017",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "25.11Z"
+              },
+              {
+                "nafcode": "43.32C"
+              },
+              {
+                "nafcode": "58.12Z"
+              },
+              {
+                "nafcode": "58.21Z"
+              },
+              {
+                "nafcode": "58.29A"
+              },
+              {
+                "nafcode": "58.29B"
+              },
+              {
+                "nafcode": "58.29C"
+              },
+              {
+                "nafcode": "62.01Z"
+              },
+              {
+                "nafcode": "62.02A"
+              },
+              {
+                "nafcode": "62.02B"
+              },
+              {
+                "nafcode": "62.03Z"
+              },
+              {
+                "nafcode": "62.09Z"
+              },
+              {
+                "nafcode": "63.11Z"
+              },
+              {
+                "nafcode": "63.12Z"
+              },
+              {
+                "nafcode": "68.20B"
+              },
+              {
+                "nafcode": "68.32A"
+              },
+              {
+                "nafcode": "70.21Z"
+              },
+              {
+                "nafcode": "70.22Z"
+              },
+              {
+                "nafcode": "71.12B"
+              },
+              {
+                "nafcode": "71.20B"
+              },
+              {
+                "nafcode": "73.20Z"
+              },
+              {
+                "nafcode": "74.30Z"
+              },
+              {
+                "nafcode": "74.90B"
+              },
+              {
+                "nafcode": "78.10Z"
+              },
+              {
+                "nafcode": "78.30Z"
+              },
+              {
+                "nafcode": "82.30Z"
+              },
+              {
+                "nafcode": "90.04Z"
+              }
+            ]
+          }
+        ],
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+          {
+            "startperiodvalidity": "12/12/2016",
+            "endperiodvalidity": "31/01/2017",
+            "adress": {
+              "street": "46 RUE RENE CLAIR",
+              "zip": "75018 Paris",
+              "locality": "3W ACADEMY"
+            },
+            "recruitmentstate": "ouvert",
+            "terms": "entrées/sorties à dates fixes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      },
+      {
+        "name": "Développeur intégrateur en réalisation d'applications web",
+        "objectives": "Développer des sites internet dynamiques. Connaître les langages de programmation qui décrivent le contenu d'un site, sa mise en forme, l'interaction avec l'utilisateur, l'interrogation et la mise à jour des bases de données sur les serveurs",
+        "programme": [
+          "Le programme de formation couvre les 5 technologies HTML, CSS, PHP, MYSQL et JAVASCRIPT. Il a été segmenté en 60 modules : un par jour de formation. Chaque jour, un nouveau module est introduit à l'aide d'une courte vidéo de 10-15 minutes. S'ensuit une séance de questions-réponses avec le professeur. Le reste de la journée est consacré à la pratique : exercices, expérimentation et projet personnel"
+        ],
+        "validation": [
+          "Développeur intégrateur en réalisation d'applications web;Attestation d'acquis ou de compétences;Attestation de suivi de présence"
+        ],
+        "type": [
+          "Certification"
+        ],
+        "outputlevel": "niveau III (BTS, DUT)",
+        "intendedoccupations": [
+          {
+            "romcode": "M1805",
+            "entitle": "Études et développement informatique"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+          "400 heures en centre",
+          "90 jours"
+        ],
+        "workstudyterms": [
+          "Cours du jour : 400 h"
+        ],
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+          "Tout public"
+        ],
+        "admissionterm": [
+          "Test",
+          "Entretien"
+        ],
+        "entrylevel": "niveau IV (BP, BT, baccalauréat professionnel ou technologique)",
+        "prerequisite": [
+          "Utilisation de l'internet"
+        ],
+        "location": {
+          "street": "3W ACADEMY",
+          "zip": "75018 Paris",
+          "locality": "46 RUE RENE CLAIR",
+          "tel": "01 46 06 45 14",
+          "fax": "",
+          "website": "http://www.3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "",
+          "mail": "claire@3wa.fr",
+          "name": "Mme  Claire  VIGUIER"
+        },
+        "eligibilityemployee": [
+          {
+            "name": "",
+            "code": "180564",
+            "startperiodvalidity": "13/06/2016",
+            "endperiodvalidity": "31/03/2017",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "25.11Z"
+              },
+              {
+                "nafcode": "43.32C"
+              },
+              {
+                "nafcode": "58.12Z"
+              },
+              {
+                "nafcode": "58.21Z"
+              },
+              {
+                "nafcode": "58.29A"
+              },
+              {
+                "nafcode": "58.29B"
+              },
+              {
+                "nafcode": "58.29C"
+              },
+              {
+                "nafcode": "62.01Z"
+              },
+              {
+                "nafcode": "62.02A"
+              },
+              {
+                "nafcode": "62.02B"
+              },
+              {
+                "nafcode": "62.03Z"
+              },
+              {
+                "nafcode": "62.09Z"
+              },
+              {
+                "nafcode": "63.11Z"
+              },
+              {
+                "nafcode": "63.12Z"
+              },
+              {
+                "nafcode": "68.20B"
+              },
+              {
+                "nafcode": "68.32A"
+              },
+              {
+                "nafcode": "70.21Z"
+              },
+              {
+                "nafcode": "70.22Z"
+              },
+              {
+                "nafcode": "71.12B"
+              },
+              {
+                "nafcode": "71.20B"
+              },
+              {
+                "nafcode": "73.20Z"
+              },
+              {
+                "nafcode": "74.30Z"
+              },
+              {
+                "nafcode": "74.90B"
+              },
+              {
+                "nafcode": "78.10Z"
+              },
+              {
+                "nafcode": "78.30Z"
+              },
+              {
+                "nafcode": "82.30Z"
+              },
+              {
+                "nafcode": "90.04Z"
+              }
+            ]
+          }
+        ],
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+          {
+            "startperiodvalidity": "01/09/2016",
+            "endperiodvalidity": "30/11/2016",
+            "adress": {
+              "street": "46 RUE RENE CLAIR",
+              "zip": "75018 Paris",
+              "locality": "3W ACADEMY"
+            },
+            "recruitmentstate": "ouvert",
+            "terms": "entrées/sorties à dates fixes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      },
+      {
+        "name": "Développeur intégrateur en réalisation d'applications web",
+        "objectives": "Développer des sites internet dynamiques. Connaître les langages de programmation qui décrivent le contenu d'un site, sa mise en forme, l'interaction avec l'utilisateur, l'interrogation et la mise à jour des bases de données sur les serveurs",
+        "programme": [
+          "Le programme de formation couvre les 5 technologies HTML, CSS, PHP, MYSQL et JAVASCRIPT. Il a été segmenté en 60 modules : un par jour de formation. Chaque jour, un nouveau module est introduit à l'aide d'une courte vidéo de 10-15 minutes. S'ensuit une séance de questions-réponses avec le professeur. Le reste de la journée est consacré à la pratique : exercices, expérimentation et projet personnel"
+        ],
+        "validation": [
+          "Développeur intégrateur en réalisation d'applications web;Attestation d'acquis ou de compétences;Attestation de suivi de présence"
+        ],
+        "type": [
+          "Certification"
+        ],
+        "outputlevel": "niveau III (BTS, DUT)",
+        "intendedoccupations": [
+          {
+            "romcode": "M1805",
+            "entitle": "Études et développement informatique"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+          "200 heures en centre",
+          "49 jours"
+        ],
+        "workstudyterms": [
+          "Cours du jour : 200 h"
+        ],
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+          "Tout public"
+        ],
+        "admissionterm": [
+          "Test",
+          "Entretien"
+        ],
+        "entrylevel": "niveau IV (BP, BT, baccalauréat professionnel ou technologique)",
+        "prerequisite": [
+          "Utilisation de l'internet"
+        ],
+        "location": {
+          "street": "3W ACADEMY",
+          "zip": "75018 Paris",
+          "locality": "46 RUE RENE CLAIR",
+          "tel": "01 46 06 45 14",
+          "fax": "",
+          "website": "http://www.3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "",
+          "mail": "claire@3wa.fr",
+          "name": "Mme  Claire  VIGUIER"
+        },
+        "eligibilityemployee": [
+          {
+            "name": "",
+            "code": "180564",
+            "startperiodvalidity": "13/06/2016",
+            "endperiodvalidity": "31/03/2017",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "25.11Z"
+              },
+              {
+                "nafcode": "43.32C"
+              },
+              {
+                "nafcode": "58.12Z"
+              },
+              {
+                "nafcode": "58.21Z"
+              },
+              {
+                "nafcode": "58.29A"
+              },
+              {
+                "nafcode": "58.29B"
+              },
+              {
+                "nafcode": "58.29C"
+              },
+              {
+                "nafcode": "62.01Z"
+              },
+              {
+                "nafcode": "62.02A"
+              },
+              {
+                "nafcode": "62.02B"
+              },
+              {
+                "nafcode": "62.03Z"
+              },
+              {
+                "nafcode": "62.09Z"
+              },
+              {
+                "nafcode": "63.11Z"
+              },
+              {
+                "nafcode": "63.12Z"
+              },
+              {
+                "nafcode": "68.20B"
+              },
+              {
+                "nafcode": "68.32A"
+              },
+              {
+                "nafcode": "70.21Z"
+              },
+              {
+                "nafcode": "70.22Z"
+              },
+              {
+                "nafcode": "71.12B"
+              },
+              {
+                "nafcode": "71.20B"
+              },
+              {
+                "nafcode": "73.20Z"
+              },
+              {
+                "nafcode": "74.30Z"
+              },
+              {
+                "nafcode": "74.90B"
+              },
+              {
+                "nafcode": "78.10Z"
+              },
+              {
+                "nafcode": "78.30Z"
+              },
+              {
+                "nafcode": "82.30Z"
+              },
+              {
+                "nafcode": "90.04Z"
+              }
+            ]
+          }
+        ],
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+          {
+            "startperiodvalidity": "01/11/2016",
+            "endperiodvalidity": "20/12/2016",
+            "adress": {
+              "street": "46 RUE RENE CLAIR",
+              "zip": "75018 Paris",
+              "locality": "3W ACADEMY"
+            },
+            "recruitmentstate": "ouvert",
+            "terms": "entrées/sorties à dates fixes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      },
+      {
+        "name": "Développeur intégrateur en réalisation d'applications web",
+        "objectives": "Développer des sites internet dynamiques. Connaître les langages de programmation qui décrivent le contenu d'un site, sa mise en forme, l'interaction avec l'utilisateur, l'interrogation et la mise à jour des bases de données sur les serveurs",
+        "programme": [
+          "Le programme de formation couvre les 5 technologies HTML, CSS, PHP, MYSQL et JAVASCRIPT. Il a été segmenté en 60 modules : un par jour de formation. Chaque jour, un nouveau module est introduit à l'aide d'une courte vidéo de 10-15 minutes. S'ensuit une séance de questions-réponses avec le professeur. Le reste de la journée est consacré à la pratique : exercices, expérimentation et projet personnel"
+        ],
+        "validation": [
+          "Développeur intégrateur en réalisation d'applications web;Attestation d'acquis ou de compétences;Attestation de suivi de présence"
+        ],
+        "type": [
+          "Certification"
+        ],
+        "outputlevel": "niveau III (BTS, DUT)",
+        "intendedoccupations": [
+          {
+            "romcode": "M1805",
+            "entitle": "Études et développement informatique"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+          "400 heures en centre",
+          "90 jours"
+        ],
+        "workstudyterms": [
+          "Cours du jour : 400 h"
+        ],
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+          "Tout public"
+        ],
+        "admissionterm": [
+          "Test",
+          "Entretien"
+        ],
+        "entrylevel": "niveau IV (BP, BT, baccalauréat professionnel ou technologique)",
+        "prerequisite": [
+          "Utilisation de l'internet"
+        ],
+        "location": {
+          "street": "3W ACADEMY",
+          "zip": "75018 Paris",
+          "locality": "46 RUE RENE CLAIR",
+          "tel": "01 46 06 45 14",
+          "fax": "",
+          "website": "http://www.3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "",
+          "mail": "claire@3wa.fr",
+          "name": "Mme  Claire  VIGUIER"
+        },
+        "eligibilityemployee": [
+          {
+            "name": "",
+            "code": "180564",
+            "startperiodvalidity": "13/06/2016",
+            "endperiodvalidity": "31/03/2017",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "25.11Z"
+              },
+              {
+                "nafcode": "43.32C"
+              },
+              {
+                "nafcode": "58.12Z"
+              },
+              {
+                "nafcode": "58.21Z"
+              },
+              {
+                "nafcode": "58.29A"
+              },
+              {
+                "nafcode": "58.29B"
+              },
+              {
+                "nafcode": "58.29C"
+              },
+              {
+                "nafcode": "62.01Z"
+              },
+              {
+                "nafcode": "62.02A"
+              },
+              {
+                "nafcode": "62.02B"
+              },
+              {
+                "nafcode": "62.03Z"
+              },
+              {
+                "nafcode": "62.09Z"
+              },
+              {
+                "nafcode": "63.11Z"
+              },
+              {
+                "nafcode": "63.12Z"
+              },
+              {
+                "nafcode": "68.20B"
+              },
+              {
+                "nafcode": "68.32A"
+              },
+              {
+                "nafcode": "70.21Z"
+              },
+              {
+                "nafcode": "70.22Z"
+              },
+              {
+                "nafcode": "71.12B"
+              },
+              {
+                "nafcode": "71.20B"
+              },
+              {
+                "nafcode": "73.20Z"
+              },
+              {
+                "nafcode": "74.30Z"
+              },
+              {
+                "nafcode": "74.90B"
+              },
+              {
+                "nafcode": "78.10Z"
+              },
+              {
+                "nafcode": "78.30Z"
+              },
+              {
+                "nafcode": "82.30Z"
+              },
+              {
+                "nafcode": "90.04Z"
+              }
+            ]
+          }
+        ],
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+          {
+            "startperiodvalidity": "01/11/2016",
+            "endperiodvalidity": "30/01/2017",
+            "adress": {
+              "street": "46 RUE RENE CLAIR",
+              "zip": "75018 Paris",
+              "locality": "3W ACADEMY"
+            },
+            "recruitmentstate": "ouvert",
+            "terms": "entrées/sorties à dates fixes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      },
+      {
+        "name": "Développeur intégrateur en réalisation d'applications web",
+        "objectives": "Développer des sites internet dynamiques. Connaître les langages de programmation qui décrivent le contenu d'un site, sa mise en forme, l'interaction avec l'utilisateur, l'interrogation et la mise à jour des bases de données sur les serveurs",
+        "programme": [
+          "Le programme de formation couvre les 5 technologies HTML, CSS, PHP, MYSQL et JAVASCRIPT. Il a été segmenté en 60 modules : un par jour de formation. Chaque jour, un nouveau module est introduit à l'aide d'une courte vidéo de 10-15 minutes. S'ensuit une séance de questions-réponses avec le professeur. Le reste de la journée est consacré à la pratique : exercices, expérimentation et projet personnel"
+        ],
+        "validation": [
+          "Développeur intégrateur en réalisation d'applications web;Attestation d'acquis ou de compétences;Attestation de suivi de présence"
+        ],
+        "type": [
+          "Certification"
+        ],
+        "outputlevel": "niveau III (BTS, DUT)",
+        "intendedoccupations": [
+          {
+            "romcode": "M1805",
+            "entitle": "Études et développement informatique"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+          "400 heures en centre",
+          "90 jours"
+        ],
+        "workstudyterms": [
+          "Cours du jour : 400 h"
+        ],
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+          "Tout public"
+        ],
+        "admissionterm": [
+          "Test",
+          "Entretien"
+        ],
+        "entrylevel": "niveau IV (BP, BT, baccalauréat professionnel ou technologique)",
+        "prerequisite": [
+          "Utilisation de l'internet"
+        ],
+        "location": {
+          "street": "3W ACADEMY",
+          "zip": "75018 Paris",
+          "locality": "46 RUE RENE CLAIR",
+          "tel": "01 46 06 45 14",
+          "fax": "",
+          "website": "http://www.3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "",
+          "mail": "claire@3wa.fr",
+          "name": "Mme  Claire  VIGUIER"
+        },
+        "eligibilityemployee": [
+          {
+            "name": "",
+            "code": "180564",
+            "startperiodvalidity": "13/06/2016",
+            "endperiodvalidity": "31/03/2017",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "25.11Z"
+              },
+              {
+                "nafcode": "43.32C"
+              },
+              {
+                "nafcode": "58.12Z"
+              },
+              {
+                "nafcode": "58.21Z"
+              },
+              {
+                "nafcode": "58.29A"
+              },
+              {
+                "nafcode": "58.29B"
+              },
+              {
+                "nafcode": "58.29C"
+              },
+              {
+                "nafcode": "62.01Z"
+              },
+              {
+                "nafcode": "62.02A"
+              },
+              {
+                "nafcode": "62.02B"
+              },
+              {
+                "nafcode": "62.03Z"
+              },
+              {
+                "nafcode": "62.09Z"
+              },
+              {
+                "nafcode": "63.11Z"
+              },
+              {
+                "nafcode": "63.12Z"
+              },
+              {
+                "nafcode": "68.20B"
+              },
+              {
+                "nafcode": "68.32A"
+              },
+              {
+                "nafcode": "70.21Z"
+              },
+              {
+                "nafcode": "70.22Z"
+              },
+              {
+                "nafcode": "71.12B"
+              },
+              {
+                "nafcode": "71.20B"
+              },
+              {
+                "nafcode": "73.20Z"
+              },
+              {
+                "nafcode": "74.30Z"
+              },
+              {
+                "nafcode": "74.90B"
+              },
+              {
+                "nafcode": "78.10Z"
+              },
+              {
+                "nafcode": "78.30Z"
+              },
+              {
+                "nafcode": "82.30Z"
+              },
+              {
+                "nafcode": "90.04Z"
+              }
+            ]
+          }
+        ],
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+          {
+            "startperiodvalidity": "01/10/2016",
+            "endperiodvalidity": "30/12/2016",
+            "adress": {
+              "street": "46 RUE RENE CLAIR",
+              "zip": "75018 Paris",
+              "locality": "3W ACADEMY"
+            },
+            "recruitmentstate": "ouvert",
+            "terms": "entrées/sorties à dates fixes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      },
+      {
+        "name": "Développeur intégrateur en réalisation d'applications web",
+        "objectives": "Développer des sites internet dynamiques. Connaître les langages de programmation qui décrivent le contenu d'un site, sa mise en forme, l'interaction avec l'utilisateur, l'interrogation et la mise à jour des bases de données sur les serveurs",
+        "programme": [
+          "Le programme de formation couvre les 5 technologies HTML, CSS, PHP, MYSQL et JAVASCRIPT. Il a été segmenté en 60 modules : un par jour de formation. Chaque jour, un nouveau module est introduit à l'aide d'une courte vidéo de 10-15 minutes. S'ensuit une séance de questions-réponses avec le professeur. Le reste de la journée est consacré à la pratique : exercices, expérimentation et projet personnel"
+        ],
+        "validation": [
+          "Développeur intégrateur en réalisation d'applications web;Attestation d'acquis ou de compétences;Attestation de suivi de présence"
+        ],
+        "type": [
+          "Certification"
+        ],
+        "outputlevel": "niveau III (BTS, DUT)",
+        "intendedoccupations": [
+          {
+            "romcode": "M1805",
+            "entitle": "Études et développement informatique"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+          "400 heures en centre",
+          "90 jours"
+        ],
+        "workstudyterms": [
+          "Cours du jour : 400 h"
+        ],
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+          "Tout public"
+        ],
+        "admissionterm": [
+          "Test",
+          "Entretien"
+        ],
+        "entrylevel": "niveau IV (BP, BT, baccalauréat professionnel ou technologique)",
+        "prerequisite": [
+          "Utilisation de l'internet"
+        ],
+        "location": {
+          "street": "3W ACADEMY",
+          "zip": "75018 Paris",
+          "locality": "46 RUE RENE CLAIR",
+          "tel": "01 46 06 45 14",
+          "fax": "",
+          "website": "http://www.3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "",
+          "mail": "claire@3wa.fr",
+          "name": "Mme  Claire  VIGUIER"
+        },
+        "eligibilityemployee": [
+          {
+            "name": "",
+            "code": "180564",
+            "startperiodvalidity": "13/06/2016",
+            "endperiodvalidity": "31/03/2017",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "25.11Z"
+              },
+              {
+                "nafcode": "43.32C"
+              },
+              {
+                "nafcode": "58.12Z"
+              },
+              {
+                "nafcode": "58.21Z"
+              },
+              {
+                "nafcode": "58.29A"
+              },
+              {
+                "nafcode": "58.29B"
+              },
+              {
+                "nafcode": "58.29C"
+              },
+              {
+                "nafcode": "62.01Z"
+              },
+              {
+                "nafcode": "62.02A"
+              },
+              {
+                "nafcode": "62.02B"
+              },
+              {
+                "nafcode": "62.03Z"
+              },
+              {
+                "nafcode": "62.09Z"
+              },
+              {
+                "nafcode": "63.11Z"
+              },
+              {
+                "nafcode": "63.12Z"
+              },
+              {
+                "nafcode": "68.20B"
+              },
+              {
+                "nafcode": "68.32A"
+              },
+              {
+                "nafcode": "70.21Z"
+              },
+              {
+                "nafcode": "70.22Z"
+              },
+              {
+                "nafcode": "71.12B"
+              },
+              {
+                "nafcode": "71.20B"
+              },
+              {
+                "nafcode": "73.20Z"
+              },
+              {
+                "nafcode": "74.30Z"
+              },
+              {
+                "nafcode": "74.90B"
+              },
+              {
+                "nafcode": "78.10Z"
+              },
+              {
+                "nafcode": "78.30Z"
+              },
+              {
+                "nafcode": "82.30Z"
+              },
+              {
+                "nafcode": "90.04Z"
+              }
+            ]
+          }
+        ],
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+          {
+            "startperiodvalidity": "01/08/2016",
+            "endperiodvalidity": "30/10/2016",
+            "adress": {
+              "street": "46 RUE RENE CLAIR",
+              "zip": "75018 Paris",
+              "locality": "3W ACADEMY"
+            },
+            "recruitmentstate": "ouvert",
+            "terms": "entrées/sorties à dates fixes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      },
+      {
+        "name": "Développeur intégrateur en réalisation d'applications web",
+        "objectives": "Développer des sites internet dynamiques. Connaître les langages de programmation qui décrivent le contenu d'un site, sa mise en forme, l'interaction avec l'utilisateur, l'interrogation et la mise à jour des bases de données sur les serveurs",
+        "programme": [
+          "Le programme de formation couvre les 5 technologies HTML, CSS, PHP, MYSQL et JAVASCRIPT. Il a été segmenté en 60 modules : un par jour de formation. Chaque jour, un nouveau module est introduit à l'aide d'une courte vidéo de 10-15 minutes. S'ensuit une séance de questions-réponses avec le professeur. Le reste de la journée est consacré à la pratique : exercices, expérimentation et projet personnel"
+        ],
+        "validation": [
+          "Développeur intégrateur en réalisation d'applications web;Attestation d'acquis ou de compétences;Attestation de suivi de présence"
+        ],
+        "type": [
+          "Certification"
+        ],
+        "outputlevel": "niveau III (BTS, DUT)",
+        "intendedoccupations": [
+          {
+            "romcode": "M1805",
+            "entitle": "Études et développement informatique"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+          "200 heures en centre",
+          "50 jours"
+        ],
+        "workstudyterms": [
+          "Cours du jour : 200 h"
+        ],
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+          "Tout public"
+        ],
+        "admissionterm": [
+          "Test",
+          "Entretien"
+        ],
+        "entrylevel": "niveau IV (BP, BT, baccalauréat professionnel ou technologique)",
+        "prerequisite": [
+          "Utilisation de l'internet"
+        ],
+        "location": {
+          "street": "3W ACADEMY",
+          "zip": "75018 Paris",
+          "locality": "46 RUE RENE CLAIR",
+          "tel": "01 46 06 45 14",
+          "fax": "",
+          "website": "http://www.3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "",
+          "mail": "claire@3wa.fr",
+          "name": "Mme  Claire  VIGUIER"
+        },
+        "eligibilityemployee": [
+          {
+            "name": "",
+            "code": "180564",
+            "startperiodvalidity": "13/06/2016",
+            "endperiodvalidity": "31/03/2017",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "25.11Z"
+              },
+              {
+                "nafcode": "43.32C"
+              },
+              {
+                "nafcode": "58.12Z"
+              },
+              {
+                "nafcode": "58.21Z"
+              },
+              {
+                "nafcode": "58.29A"
+              },
+              {
+                "nafcode": "58.29B"
+              },
+              {
+                "nafcode": "58.29C"
+              },
+              {
+                "nafcode": "62.01Z"
+              },
+              {
+                "nafcode": "62.02A"
+              },
+              {
+                "nafcode": "62.02B"
+              },
+              {
+                "nafcode": "62.03Z"
+              },
+              {
+                "nafcode": "62.09Z"
+              },
+              {
+                "nafcode": "63.11Z"
+              },
+              {
+                "nafcode": "63.12Z"
+              },
+              {
+                "nafcode": "68.20B"
+              },
+              {
+                "nafcode": "68.32A"
+              },
+              {
+                "nafcode": "70.21Z"
+              },
+              {
+                "nafcode": "70.22Z"
+              },
+              {
+                "nafcode": "71.12B"
+              },
+              {
+                "nafcode": "71.20B"
+              },
+              {
+                "nafcode": "73.20Z"
+              },
+              {
+                "nafcode": "74.30Z"
+              },
+              {
+                "nafcode": "74.90B"
+              },
+              {
+                "nafcode": "78.10Z"
+              },
+              {
+                "nafcode": "78.30Z"
+              },
+              {
+                "nafcode": "82.30Z"
+              },
+              {
+                "nafcode": "90.04Z"
+              }
+            ]
+          }
+        ],
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+          {
+            "startperiodvalidity": "01/12/2016",
+            "endperiodvalidity": "20/01/2017",
+            "adress": {
+              "street": "46 RUE RENE CLAIR",
+              "zip": "75018 Paris",
+              "locality": "3W ACADEMY"
+            },
+            "recruitmentstate": "ouvert",
+            "terms": "entrées/sorties à dates fixes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      },
+      {
+        "name": "Développeur intégrateur en réalisation d'applications web",
+        "objectives": "Développer des sites internet dynamiques. Connaître les langages de programmation qui décrivent le contenu d'un site, sa mise en forme, l'interaction avec l'utilisateur, l'interrogation et la mise à jour des bases de données sur les serveurs",
+        "programme": [
+          "Le programme de formation couvre les 5 technologies HTML, CSS, PHP, MYSQL et JAVASCRIPT. Il a été segmenté en 60 modules : un par jour de formation. Chaque jour, un nouveau module est introduit à l'aide d'une courte vidéo de 10-15 minutes. S'ensuit une séance de questions-réponses avec le professeur. Le reste de la journée est consacré à la pratique : exercices, expérimentation et projet personnel"
+        ],
+        "validation": [
+          "Développeur intégrateur en réalisation d'applications web;Attestation d'acquis ou de compétences;Attestation de suivi de présence"
+        ],
+        "type": [
+          "Certification"
+        ],
+        "outputlevel": "niveau III (BTS, DUT)",
+        "intendedoccupations": [
+          {
+            "romcode": "M1805",
+            "entitle": "Études et développement informatique"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+          "200 heures en centre",
+          "49 jours"
+        ],
+        "workstudyterms": [
+          "Cours du jour : 200 h"
+        ],
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+          "Tout public"
+        ],
+        "admissionterm": [
+          "Test",
+          "Entretien"
+        ],
+        "entrylevel": "niveau IV (BP, BT, baccalauréat professionnel ou technologique)",
+        "prerequisite": [
+          "Utilisation de l'internet"
+        ],
+        "location": {
+          "street": "3W ACADEMY",
+          "zip": "75018 Paris",
+          "locality": "46 RUE RENE CLAIR",
+          "tel": "01 46 06 45 14",
+          "fax": "",
+          "website": "http://www.3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "",
+          "mail": "claire@3wa.fr",
+          "name": "Mme  Claire  VIGUIER"
+        },
+        "eligibilityemployee": [
+          {
+            "name": "",
+            "code": "180564",
+            "startperiodvalidity": "13/06/2016",
+            "endperiodvalidity": "31/03/2017",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "25.11Z"
+              },
+              {
+                "nafcode": "43.32C"
+              },
+              {
+                "nafcode": "58.12Z"
+              },
+              {
+                "nafcode": "58.21Z"
+              },
+              {
+                "nafcode": "58.29A"
+              },
+              {
+                "nafcode": "58.29B"
+              },
+              {
+                "nafcode": "58.29C"
+              },
+              {
+                "nafcode": "62.01Z"
+              },
+              {
+                "nafcode": "62.02A"
+              },
+              {
+                "nafcode": "62.02B"
+              },
+              {
+                "nafcode": "62.03Z"
+              },
+              {
+                "nafcode": "62.09Z"
+              },
+              {
+                "nafcode": "63.11Z"
+              },
+              {
+                "nafcode": "63.12Z"
+              },
+              {
+                "nafcode": "68.20B"
+              },
+              {
+                "nafcode": "68.32A"
+              },
+              {
+                "nafcode": "70.21Z"
+              },
+              {
+                "nafcode": "70.22Z"
+              },
+              {
+                "nafcode": "71.12B"
+              },
+              {
+                "nafcode": "71.20B"
+              },
+              {
+                "nafcode": "73.20Z"
+              },
+              {
+                "nafcode": "74.30Z"
+              },
+              {
+                "nafcode": "74.90B"
+              },
+              {
+                "nafcode": "78.10Z"
+              },
+              {
+                "nafcode": "78.30Z"
+              },
+              {
+                "nafcode": "82.30Z"
+              },
+              {
+                "nafcode": "90.04Z"
+              }
+            ]
+          }
+        ],
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+          {
+            "startperiodvalidity": "01/09/2016",
+            "endperiodvalidity": "20/10/2016",
+            "adress": {
+              "street": "46 RUE RENE CLAIR",
+              "zip": "75018 Paris",
+              "locality": "3W ACADEMY"
+            },
+            "recruitmentstate": "ouvert",
+            "terms": "entrées/sorties à dates fixes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      },
+      {
+        "name": "Développeur intégrateur en réalisation d'applications web",
+        "objectives": "Développer des sites internet dynamiques. Connaître les langages de programmation qui décrivent le contenu d'un site, sa mise en forme, l'interaction avec l'utilisateur, l'interrogation et la mise à jour des bases de données sur les serveurs",
+        "programme": [
+          "Le programme de formation couvre les 5 technologies HTML, CSS, PHP, MYSQL et JAVASCRIPT. Il a été segmenté en 60 modules : un par jour de formation. Chaque jour, un nouveau module est introduit à l'aide d'une courte vidéo de 10-15 minutes. S'ensuit une séance de questions-réponses avec le professeur. Le reste de la journée est consacré à la pratique : exercices, expérimentation et projet personnel"
+        ],
+        "validation": [
+          "Développeur intégrateur en réalisation d'applications web;Attestation d'acquis ou de compétences;Attestation de suivi de présence"
+        ],
+        "type": [
+          "Certification"
+        ],
+        "outputlevel": "niveau III (BTS, DUT)",
+        "intendedoccupations": [
+          {
+            "romcode": "M1805",
+            "entitle": "Études et développement informatique"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+          "200 heures en centre",
+          "50 jours"
+        ],
+        "workstudyterms": [
+          "Cours du jour : 200 h"
+        ],
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+          "Tout public"
+        ],
+        "admissionterm": [
+          "Test",
+          "Entretien"
+        ],
+        "entrylevel": "niveau IV (BP, BT, baccalauréat professionnel ou technologique)",
+        "prerequisite": [
+          "Utilisation de l'internet"
+        ],
+        "location": {
+          "street": "3W ACADEMY",
+          "zip": "75018 Paris",
+          "locality": "46 RUE RENE CLAIR",
+          "tel": "01 46 06 45 14",
+          "fax": "",
+          "website": "http://www.3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "",
+          "mail": "claire@3wa.fr",
+          "name": "Mme  Claire  VIGUIER"
+        },
+        "eligibilityemployee": [
+          {
+            "name": "",
+            "code": "180564",
+            "startperiodvalidity": "13/06/2016",
+            "endperiodvalidity": "31/03/2017",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "25.11Z"
+              },
+              {
+                "nafcode": "43.32C"
+              },
+              {
+                "nafcode": "58.12Z"
+              },
+              {
+                "nafcode": "58.21Z"
+              },
+              {
+                "nafcode": "58.29A"
+              },
+              {
+                "nafcode": "58.29B"
+              },
+              {
+                "nafcode": "58.29C"
+              },
+              {
+                "nafcode": "62.01Z"
+              },
+              {
+                "nafcode": "62.02A"
+              },
+              {
+                "nafcode": "62.02B"
+              },
+              {
+                "nafcode": "62.03Z"
+              },
+              {
+                "nafcode": "62.09Z"
+              },
+              {
+                "nafcode": "63.11Z"
+              },
+              {
+                "nafcode": "63.12Z"
+              },
+              {
+                "nafcode": "68.20B"
+              },
+              {
+                "nafcode": "68.32A"
+              },
+              {
+                "nafcode": "70.21Z"
+              },
+              {
+                "nafcode": "70.22Z"
+              },
+              {
+                "nafcode": "71.12B"
+              },
+              {
+                "nafcode": "71.20B"
+              },
+              {
+                "nafcode": "73.20Z"
+              },
+              {
+                "nafcode": "74.30Z"
+              },
+              {
+                "nafcode": "74.90B"
+              },
+              {
+                "nafcode": "78.10Z"
+              },
+              {
+                "nafcode": "78.30Z"
+              },
+              {
+                "nafcode": "82.30Z"
+              },
+              {
+                "nafcode": "90.04Z"
+              }
+            ]
+          }
+        ],
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+          {
+            "startperiodvalidity": "01/10/2016",
+            "endperiodvalidity": "20/11/2016",
+            "adress": {
+              "street": "46 RUE RENE CLAIR",
+              "zip": "75018 Paris",
+              "locality": "3W ACADEMY"
+            },
+            "recruitmentstate": "ouvert",
+            "terms": "entrées/sorties à dates fixes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      },
+      {
+        "name": "Développeur Web - spécialisation Symfony",
+        "objectives": "Se former au métier de développeur intégrateur web.Vous serez capables de développer des sites internet dynamiques. Vous connaîtrez les langages de programmation qui décrivent le contenu d'un site, sa mise en forme, l'interaction avec l'utilisateur, l'interrogation et la mise à jour des bases de données sur les serveurs.Vous pourrez postuler à l'issue de la formation à des postes de développeur junior",
+        "programme": [
+          "Le programme de formation couvre les différentes facettes de l'environnement de travail Symfony. Il a été segmenté en 20 modules : un par jour de formation. Chaque jour, un nouveau module est introduit par le professeur. Le reste de la journée est consacré à la pratique, guidé par le professeur"
+        ],
+        "validation": [
+          "Attestation d'acquis ou de compétences;Attestation de suivi de présence"
+        ],
+        "type": [
+          "Perfectionnement, élargissement des compétences"
+        ],
+        "outputlevel": "sans niveau spécifique",
+        "intendedoccupations": [
+          {
+            "romcode": "M1805",
+            "entitle": "Études et développement informatique"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+          "140 heures en centre",
+          "30 jours"
+        ],
+        "workstudyterms": [
+          "Cours du jour : 140 h"
+        ],
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+          "Tout public"
+        ],
+        "admissionterm": [
+          "Test",
+          "Entretien"
+        ],
+        "entrylevel": "niveau III (BTS, DUT)",
+        "prerequisite": [
+          "Maîtrise du développement en langage PHP (POO et MVC obligatoires)"
+        ],
+        "location": {
+          "street": "3W ACADEMY",
+          "zip": "75018 Paris",
+          "locality": "46 RUE RENE CLAIR",
+          "tel": "01 46 06 45 14",
+          "fax": "",
+          "website": "http://www.3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "",
+          "mail": "claire@3wa.fr",
+          "name": "Mme  Claire  VIGUIER"
+        },
+        "eligibilityemployee": null,
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+          {
+            "startperiodvalidity": "01/01/2017",
+            "endperiodvalidity": "31/01/2017",
+            "adress": {
+              "street": "46 RUE RENE CLAIR",
+              "zip": "75018 Paris",
+              "locality": "3W ACADEMY"
+            },
+            "recruitmentstate": "ouvert",
+            "terms": "entrées/sorties à dates fixes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      },
+      {
+        "name": "Développeur Web - spécialisation Symfony",
+        "objectives": "Se former au métier de développeur intégrateur web.Vous serez capables de développer des sites internet dynamiques. Vous connaîtrez les langages de programmation qui décrivent le contenu d'un site, sa mise en forme, l'interaction avec l'utilisateur, l'interrogation et la mise à jour des bases de données sur les serveurs.Vous pourrez postuler à l'issue de la formation à des postes de développeur junior",
+        "programme": [
+          "Le programme de formation couvre les différentes facettes de l'environnement de travail Symfony. Il a été segmenté en 20 modules : un par jour de formation. Chaque jour, un nouveau module est introduit par le professeur. Le reste de la journée est consacré à la pratique, guidé par le professeur"
+        ],
+        "validation": [
+          "Attestation d'acquis ou de compétences;Attestation de suivi de présence"
+        ],
+        "type": [
+          "Perfectionnement, élargissement des compétences"
+        ],
+        "outputlevel": "sans niveau spécifique",
+        "intendedoccupations": [
+          {
+            "romcode": "M1805",
+            "entitle": "Études et développement informatique"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+          "140 heures en centre",
+          "30 jours"
+        ],
+        "workstudyterms": [
+          "Cours du jour : 140 h"
+        ],
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+          "Tout public"
+        ],
+        "admissionterm": [
+          "Test",
+          "Entretien"
+        ],
+        "entrylevel": "niveau III (BTS, DUT)",
+        "prerequisite": [
+          "Maîtrise du développement en langage PHP (POO et MVC obligatoires)"
+        ],
+        "location": {
+          "street": "3W ACADEMY",
+          "zip": "75018 Paris",
+          "locality": "46 RUE RENE CLAIR",
+          "tel": "01 46 06 45 14",
+          "fax": "",
+          "website": "http://www.3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "",
+          "mail": "claire@3wa.fr",
+          "name": "Mme  Claire  VIGUIER"
+        },
+        "eligibilityemployee": null,
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+          {
+            "startperiodvalidity": "01/10/2016",
+            "endperiodvalidity": "31/10/2016",
+            "adress": {
+              "street": "46 RUE RENE CLAIR",
+              "zip": "75018 Paris",
+              "locality": "3W ACADEMY"
+            },
+            "recruitmentstate": "ouvert",
+            "terms": "entrées/sorties à dates fixes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      },
+      {
+        "name": "Développeur intégrateur en réalisation d'applications web",
+        "objectives": "Les capacités attestées :traduire en langage web un projet d'application web élaboré par des graphistesmettre en œuvre des langages HTML, CSS, JavaScript, PHP, MySQLappliquer avec maîtrise du Responsive Web Designintégrer des contenus (textes, images, sons, vidéos)appliquer des normes W3Cmettre en œuvre des règles de l'accessibilité et du référencementorganiser et gérer une base de données",
+        "programme": [
+          "Non renseigne"
+        ],
+        "validation": [
+          "Non renseigne"
+        ],
+        "type": [
+          "Certification"
+        ],
+        "outputlevel": "niveau III (BTS, DUT)",
+        "intendedoccupations": [
+          {
+            "romcode": "E1101",
+            "entitle": "Animation de site multimédia"
+          },
+          {
+            "romcode": "E1104",
+            "entitle": "Conception de contenus multimédias"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+          "400 heures en centre"
+        ],
+        "workstudyterms": [
+          "0h en entreprise 400h en centre"
+        ],
+        "publicservicecontract": false,
+        "financers": [
+          "OPACIF",
+          "OPCA",
+          "Bénéficiaire de l'action",
+          "Entreprise"
+        ],
+        "publicaccess": [
+          "Agent de la fonction publique",
+          "Demandeur d'emploi",
+          "Salarié",
+          "Tout public"
+        ],
+        "admissionterm": null,
+        "entrylevel": "niveau IV (BP, BT, baccalauréat professionnel ou technologique)",
+        "prerequisite": [
+          "Aucune connaissance preacute;alable en programmation n'est exigeacute;e",
+          "Il peut ecirc;tre recommandeacute; de faire une autoformation d'un mois avant de rejoindre le cursus"
+        ],
+        "location": {
+          "street": "37 Bis Quai de Versailles",
+          "zip": "",
+          "locality": "44200 Nantes",
+          "tel": "",
+          "fax": "",
+          "website": "",
+          "mail": "",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "01 46 06 45 14",
+          "fax": "",
+          "website": "",
+          "mail": "contact@3wa.fr",
+          "name": "Se renseigner aupres de l'organisme"
+        },
+        "eligibilityemployee": [
+          {
+            "name": "",
+            "code": "180564",
+            "startperiodvalidity": "13/06/2016",
+            "endperiodvalidity": "31/03/2017",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "25.11Z"
+              },
+              {
+                "nafcode": "43.32C"
+              },
+              {
+                "nafcode": "58.12Z"
+              },
+              {
+                "nafcode": "58.21Z"
+              },
+              {
+                "nafcode": "58.29A"
+              },
+              {
+                "nafcode": "58.29B"
+              },
+              {
+                "nafcode": "58.29C"
+              },
+              {
+                "nafcode": "62.01Z"
+              },
+              {
+                "nafcode": "62.02A"
+              },
+              {
+                "nafcode": "62.02B"
+              },
+              {
+                "nafcode": "62.03Z"
+              },
+              {
+                "nafcode": "62.09Z"
+              },
+              {
+                "nafcode": "63.11Z"
+              },
+              {
+                "nafcode": "63.12Z"
+              },
+              {
+                "nafcode": "68.20B"
+              },
+              {
+                "nafcode": "68.32A"
+              },
+              {
+                "nafcode": "70.21Z"
+              },
+              {
+                "nafcode": "70.22Z"
+              },
+              {
+                "nafcode": "71.12B"
+              },
+              {
+                "nafcode": "71.20B"
+              },
+              {
+                "nafcode": "73.20Z"
+              },
+              {
+                "nafcode": "74.30Z"
+              },
+              {
+                "nafcode": "74.90B"
+              },
+              {
+                "nafcode": "78.10Z"
+              },
+              {
+                "nafcode": "78.30Z"
+              },
+              {
+                "nafcode": "82.30Z"
+              },
+              {
+                "nafcode": "90.04Z"
+              }
+            ]
+          }
+        ],
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+          {
+            "startperiodvalidity": "01/10/2016",
+            "endperiodvalidity": "23/12/2016",
+            "adress": {
+              "street": "44200 Nantes",
+              "zip": "",
+              "locality": "37 Bis Quai de Versailles"
+            },
+            "recruitmentstate": "",
+            "terms": "entrées/sorties à dates fixes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      },
+      {
+        "name": "Titre professionnel développeur(euse) logiciel",
+        "objectives": "Le (la) développeur(se) logiciel peut travailler en tant que salarié(e) d'une entreprise, ou pour un client de la société de services qui l'emploie. Ses activités diffèrent selon la taille de l'entreprise. En PME, il (elle) peut mener seul(e) le développement d'un projet. Dans une grande structure, il (elle) travaille en équipe sous la conduite d'un chef de projet. Il (elle) applique les normes de qualité logicielle de son entreprise ou de son prestataire de services.Il (elle) s'adapte rapidement aux évolutions technologiques du secteur informatique. La réalisation du projet dont il (elle) a la charge nécessite de sa part organisation et gestion du temps.Assurant sa mission dans des entreprises et des contextes professionnels divers, il (elle) est mobile géographiquement et s'adapte aux nouveaux environnements de travail.Il (elle) fait preuve de capacités relationnelles avec des interlocuteurs tels que la maîtrise d'ouvrage, les utilisateurs, le chef de projet, les experts techniques et les autres développeurs",
+        "programme": [
+          "Non renseigne"
+        ],
+        "validation": [
+          "Non renseigne"
+        ],
+        "type": [
+          "Certification"
+        ],
+        "outputlevel": "niveau III (BTS, DUT)",
+        "intendedoccupations": [
+          {
+            "romcode": "M1805",
+            "entitle": "Études et développement informatique"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+          "400 heures en centre"
+        ],
+        "workstudyterms": [
+          "0h en entreprise 400h en centre"
+        ],
+        "publicservicecontract": false,
+        "financers": [
+          "OPACIF",
+          "OPCA",
+          "Bénéficiaire de l'action",
+          "Entreprise"
+        ],
+        "publicaccess": [
+          "Agent de la fonction publique",
+          "Demandeur d'emploi",
+          "Salarié",
+          "Tout public"
+        ],
+        "admissionterm": null,
+        "entrylevel": "niveau IV (BP, BT, baccalauréat professionnel ou technologique)",
+        "prerequisite": [
+          "Profil requisnbsp;: Ecirc;tre du niveau baccalaureacute;at, de preacute;feacute;rencenbsp;scientifique ou technologique",
+          "Pratique courante recommandeacute;e de l'ordinateur, des smartphones et tablettes tactiles ainsi que de leurs outils (outils des systegrave;mes drsquo;exploitation, bureautique et internet)",
+          "Compreacute;hension de l'anglais agrave; lrsquo;eacute;crit (comprendre des textes courts)"
+        ],
+        "location": {
+          "street": "37 Bis Quai de Versailles",
+          "zip": "",
+          "locality": "44200 Nantes",
+          "tel": "",
+          "fax": "",
+          "website": "",
+          "mail": "",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "01 46 06 45 14",
+          "fax": "",
+          "website": "",
+          "mail": "contact@3wa.fr",
+          "name": "Se renseigner aupres de l'organisme"
+        },
+        "eligibilityemployee": [
+          {
+            "name": "",
+            "code": "1942",
+            "startperiodvalidity": "01/01/2015",
+            "endperiodvalidity": "01/01/2018",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "47.51Z"
+              },
+              {
+                "nafcode": "47.53Z"
+              },
+              {
+                "nafcode": "47.71Z"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "code": "17780",
+            "startperiodvalidity": "02/01/2015",
+            "endperiodvalidity": "31/12/2016",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "47.52B"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "code": "2502",
+            "startperiodvalidity": "01/01/2015",
+            "endperiodvalidity": "31/12/2016",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "46.17A"
+              },
+              {
+                "nafcode": "46.17B"
+              },
+              {
+                "nafcode": "46.38B"
+              },
+              {
+                "nafcode": "46.39B"
+              },
+              {
+                "nafcode": "47.11B"
+              },
+              {
+                "nafcode": "47.11C"
+              },
+              {
+                "nafcode": "47.11D"
+              },
+              {
+                "nafcode": "47.11F"
+              },
+              {
+                "nafcode": "47.25Z"
+              },
+              {
+                "nafcode": "70.10Z"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "code": "184935",
+            "startperiodvalidity": "11/08/2016",
+            "endperiodvalidity": "01/01/2019",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "19.20Z"
+              },
+              {
+                "nafcode": "46.71Z"
+              },
+              {
+                "nafcode": "47.30Z"
+              },
+              {
+                "nafcode": "49.50Z"
+              },
+              {
+                "nafcode": "52.10B"
+              },
+              {
+                "nafcode": "52.23Z"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "code": "19487",
+            "startperiodvalidity": "01/01/2015",
+            "endperiodvalidity": "31/12/2016",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "50.10Z"
+              },
+              {
+                "nafcode": "50.20Z"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "code": "138850",
+            "startperiodvalidity": "21/04/2015",
+            "endperiodvalidity": "20/04/2018",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "52.22Z"
+              },
+              {
+                "nafcode": "52.24A"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "code": "15843",
+            "startperiodvalidity": "01/01/2015",
+            "endperiodvalidity": "31/03/2017",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "25.11Z"
+              },
+              {
+                "nafcode": "43.32C"
+              },
+              {
+                "nafcode": "58.12Z"
+              },
+              {
+                "nafcode": "58.21Z"
+              },
+              {
+                "nafcode": "58.29A"
+              },
+              {
+                "nafcode": "58.29B"
+              },
+              {
+                "nafcode": "58.29C"
+              },
+              {
+                "nafcode": "62.01Z"
+              },
+              {
+                "nafcode": "62.02A"
+              },
+              {
+                "nafcode": "62.02B"
+              },
+              {
+                "nafcode": "62.03Z"
+              },
+              {
+                "nafcode": "62.09Z"
+              },
+              {
+                "nafcode": "63.11Z"
+              },
+              {
+                "nafcode": "63.12Z"
+              },
+              {
+                "nafcode": "68.20B"
+              },
+              {
+                "nafcode": "68.32A"
+              },
+              {
+                "nafcode": "70.21Z"
+              },
+              {
+                "nafcode": "70.22Z"
+              },
+              {
+                "nafcode": "71.12B"
+              },
+              {
+                "nafcode": "71.20B"
+              },
+              {
+                "nafcode": "73.20Z"
+              },
+              {
+                "nafcode": "74.30Z"
+              },
+              {
+                "nafcode": "74.90B"
+              },
+              {
+                "nafcode": "78.10Z"
+              },
+              {
+                "nafcode": "78.30Z"
+              },
+              {
+                "nafcode": "82.30Z"
+              },
+              {
+                "nafcode": "90.04Z"
+              }
+            ]
+          }
+        ],
+        "eligibilityjobseeker": [
+          {
+            "name": "",
+            "code": "8938",
+            "startperiodvalidity": "01/01/2015",
+            "endperiodvalidity": "31/12/2016",
+            "region": "Région : Pays de la Loire",
+            "professionalbranch": [
+              {
+                "nafcode": ""
+              }
+            ]
+          }
+        ],
+        "eligibilityall": [
+          {
+            "name": "",
+            "code": "2549",
+            "startperiodvalidity": "01/01/2015",
+            "endperiodvalidity": "31/12/2016",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": ""
+              }
+            ]
+          }
+        ],
+        "sessions": [
+          {
+            "startperiodvalidity": "03/10/2016",
+            "endperiodvalidity": "23/12/2016",
+            "adress": {
+              "street": "44200 Nantes",
+              "zip": "",
+              "locality": "37 Bis Quai de Versailles"
+            },
+            "recruitmentstate": "",
+            "terms": "Dispositif de formation en entrées et sorties permanentes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      },
+      {
+        "name": "Titre professionnel développeur(euse) logiciel",
+        "objectives": "Le (la) développeur(se) logiciel peut travailler en tant que salarié(e) d'une entreprise, ou pour un client de la société de services qui l'emploie. Ses activités diffèrent selon la taille de l'entreprise. En PME, il (elle) peut mener seul(e) le développement d'un projet. Dans une grande structure, il (elle) travaille en équipe sous la conduite d'un chef de projet. Il (elle) applique les normes de qualité logicielle de son entreprise ou de son prestataire de services.Il (elle) s'adapte rapidement aux évolutions technologiques du secteur informatique. La réalisation du projet dont il (elle) a la charge nécessite de sa part organisation et gestion du temps.Assurant sa mission dans des entreprises et des contextes professionnels divers, il (elle) est mobile géographiquement et s'adapte aux nouveaux environnements de travail.Il (elle) fait preuve de capacités relationnelles avec des interlocuteurs tels que la maîtrise d'ouvrage, les utilisateurs, le chef de projet, les experts techniques et les autres développeurs",
+        "programme": [
+          "Non renseigne"
+        ],
+        "validation": [
+          "Non renseigne"
+        ],
+        "type": [
+          "Certification"
+        ],
+        "outputlevel": "niveau III (BTS, DUT)",
+        "intendedoccupations": [
+          {
+            "romcode": "M1805",
+            "entitle": "Études et développement informatique"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+          "400 heures en centre"
+        ],
+        "workstudyterms": [
+          "0h en entreprise 400h en centre"
+        ],
+        "publicservicecontract": false,
+        "financers": [
+          "OPACIF",
+          "OPCA",
+          "Bénéficiaire de l'action",
+          "Entreprise"
+        ],
+        "publicaccess": [
+          "Agent de la fonction publique",
+          "Demandeur d'emploi",
+          "Salarié",
+          "Tout public"
+        ],
+        "admissionterm": null,
+        "entrylevel": "niveau IV (BP, BT, baccalauréat professionnel ou technologique)",
+        "prerequisite": [
+          "Profil requisnbsp;: Ecirc;tre du niveau baccalaureacute;at, de preacute;feacute;rencenbsp;scientifique ou technologique",
+          "Pratique courante recommandeacute;e de l'ordinateur, des smartphones et tablettes tactiles ainsi que de leurs outils (outils des systegrave;mes drsquo;exploitation, bureautique et internet)",
+          "Compreacute;hension de l'anglais agrave; lrsquo;eacute;crit (comprendre des textes courts)"
+        ],
+        "location": {
+          "street": "37 Bis Quai de Versailles",
+          "zip": "",
+          "locality": "44200 Nantes",
+          "tel": "",
+          "fax": "",
+          "website": "",
+          "mail": "",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "01 46 06 45 14",
+          "fax": "",
+          "website": "",
+          "mail": "contact@3wa.fr",
+          "name": "Se renseigner aupres de l'organisme"
+        },
+        "eligibilityemployee": [
+          {
+            "name": "",
+            "code": "1942",
+            "startperiodvalidity": "01/01/2015",
+            "endperiodvalidity": "01/01/2018",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "47.51Z"
+              },
+              {
+                "nafcode": "47.53Z"
+              },
+              {
+                "nafcode": "47.71Z"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "code": "17780",
+            "startperiodvalidity": "02/01/2015",
+            "endperiodvalidity": "31/12/2016",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "47.52B"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "code": "2502",
+            "startperiodvalidity": "01/01/2015",
+            "endperiodvalidity": "31/12/2016",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "46.17A"
+              },
+              {
+                "nafcode": "46.17B"
+              },
+              {
+                "nafcode": "46.38B"
+              },
+              {
+                "nafcode": "46.39B"
+              },
+              {
+                "nafcode": "47.11B"
+              },
+              {
+                "nafcode": "47.11C"
+              },
+              {
+                "nafcode": "47.11D"
+              },
+              {
+                "nafcode": "47.11F"
+              },
+              {
+                "nafcode": "47.25Z"
+              },
+              {
+                "nafcode": "70.10Z"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "code": "184935",
+            "startperiodvalidity": "11/08/2016",
+            "endperiodvalidity": "01/01/2019",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "19.20Z"
+              },
+              {
+                "nafcode": "46.71Z"
+              },
+              {
+                "nafcode": "47.30Z"
+              },
+              {
+                "nafcode": "49.50Z"
+              },
+              {
+                "nafcode": "52.10B"
+              },
+              {
+                "nafcode": "52.23Z"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "code": "19487",
+            "startperiodvalidity": "01/01/2015",
+            "endperiodvalidity": "31/12/2016",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "50.10Z"
+              },
+              {
+                "nafcode": "50.20Z"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "code": "138850",
+            "startperiodvalidity": "21/04/2015",
+            "endperiodvalidity": "20/04/2018",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "52.22Z"
+              },
+              {
+                "nafcode": "52.24A"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "code": "15843",
+            "startperiodvalidity": "01/01/2015",
+            "endperiodvalidity": "31/03/2017",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "25.11Z"
+              },
+              {
+                "nafcode": "43.32C"
+              },
+              {
+                "nafcode": "58.12Z"
+              },
+              {
+                "nafcode": "58.21Z"
+              },
+              {
+                "nafcode": "58.29A"
+              },
+              {
+                "nafcode": "58.29B"
+              },
+              {
+                "nafcode": "58.29C"
+              },
+              {
+                "nafcode": "62.01Z"
+              },
+              {
+                "nafcode": "62.02A"
+              },
+              {
+                "nafcode": "62.02B"
+              },
+              {
+                "nafcode": "62.03Z"
+              },
+              {
+                "nafcode": "62.09Z"
+              },
+              {
+                "nafcode": "63.11Z"
+              },
+              {
+                "nafcode": "63.12Z"
+              },
+              {
+                "nafcode": "68.20B"
+              },
+              {
+                "nafcode": "68.32A"
+              },
+              {
+                "nafcode": "70.21Z"
+              },
+              {
+                "nafcode": "70.22Z"
+              },
+              {
+                "nafcode": "71.12B"
+              },
+              {
+                "nafcode": "71.20B"
+              },
+              {
+                "nafcode": "73.20Z"
+              },
+              {
+                "nafcode": "74.30Z"
+              },
+              {
+                "nafcode": "74.90B"
+              },
+              {
+                "nafcode": "78.10Z"
+              },
+              {
+                "nafcode": "78.30Z"
+              },
+              {
+                "nafcode": "82.30Z"
+              },
+              {
+                "nafcode": "90.04Z"
+              }
+            ]
+          }
+        ],
+        "eligibilityjobseeker": [
+          {
+            "name": "",
+            "code": "8938",
+            "startperiodvalidity": "01/01/2015",
+            "endperiodvalidity": "31/12/2016",
+            "region": "Région : Pays de la Loire",
+            "professionalbranch": [
+              {
+                "nafcode": ""
+              }
+            ]
+          }
+        ],
+        "eligibilityall": [
+          {
+            "name": "",
+            "code": "2549",
+            "startperiodvalidity": "01/01/2015",
+            "endperiodvalidity": "31/12/2016",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": ""
+              }
+            ]
+          }
+        ],
+        "sessions": [
+          {
+            "startperiodvalidity": "29/12/2016",
+            "endperiodvalidity": "24/03/2017",
+            "adress": {
+              "street": "44200 Nantes",
+              "zip": "",
+              "locality": "37 Bis Quai de Versailles"
+            },
+            "recruitmentstate": "",
+            "terms": "Dispositif de formation en entrées et sorties permanentes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      },
+      {
+        "name": "Titre professionnel développeur(euse) logiciel",
+        "objectives": "Le (la) développeur(se) logiciel peut travailler en tant que salarié(e) d'une entreprise, ou pour un client de la société de services qui l'emploie. Ses activités diffèrent selon la taille de l'entreprise. En PME, il (elle) peut mener seul(e) le développement d'un projet. Dans une grande structure, il (elle) travaille en équipe sous la conduite d'un chef de projet. Il (elle) applique les normes de qualité logicielle de son entreprise ou de son prestataire de services.Il (elle) s'adapte rapidement aux évolutions technologiques du secteur informatique. La réalisation du projet dont il (elle) a la charge nécessite de sa part organisation et gestion du temps.Assurant sa mission dans des entreprises et des contextes professionnels divers, il (elle) est mobile géographiquement et s'adapte aux nouveaux environnements de travail.Il (elle) fait preuve de capacités relationnelles avec des interlocuteurs tels que la maîtrise d'ouvrage, les utilisateurs, le chef de projet, les experts techniques et les autres développeurs",
+        "programme": [
+          "Développer une application client-serveur",
+          "Développer une application web"
+        ],
+        "validation": [
+          "Titre Professionnel"
+        ],
+        "type": [
+          "Perfectionnement, élargissement des compétences"
+        ],
+        "outputlevel": "niveau III (BTS, DUT)",
+        "intendedoccupations": [
+          {
+            "romcode": "M1805",
+            "entitle": "Études et développement informatique"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": null,
+        "workstudyterms": null,
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+          "Tout public"
+        ],
+        "admissionterm": [
+          "Sur entretien"
+        ],
+        "entrylevel": "",
+        "prerequisite": null,
+        "location": {
+          "street": "37 rue Guibal",
+          "zip": "13003 Marseille 3e",
+          "locality": "Pôle Média Belle de Mai",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "https://3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "https://3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": "Monsieur  Xavier  Bonte"
+        },
+        "eligibilityemployee": [
+          {
+            "name": "",
+            "code": "1942",
+            "startperiodvalidity": "01/01/2015",
+            "endperiodvalidity": "01/01/2018",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "47.51Z"
+              },
+              {
+                "nafcode": "47.53Z"
+              },
+              {
+                "nafcode": "47.71Z"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "code": "17780",
+            "startperiodvalidity": "02/01/2015",
+            "endperiodvalidity": "31/12/2016",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "47.52B"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "code": "2502",
+            "startperiodvalidity": "01/01/2015",
+            "endperiodvalidity": "31/12/2016",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "46.17A"
+              },
+              {
+                "nafcode": "46.17B"
+              },
+              {
+                "nafcode": "46.38B"
+              },
+              {
+                "nafcode": "46.39B"
+              },
+              {
+                "nafcode": "47.11B"
+              },
+              {
+                "nafcode": "47.11C"
+              },
+              {
+                "nafcode": "47.11D"
+              },
+              {
+                "nafcode": "47.11F"
+              },
+              {
+                "nafcode": "47.25Z"
+              },
+              {
+                "nafcode": "70.10Z"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "code": "184935",
+            "startperiodvalidity": "11/08/2016",
+            "endperiodvalidity": "01/01/2019",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "19.20Z"
+              },
+              {
+                "nafcode": "46.71Z"
+              },
+              {
+                "nafcode": "47.30Z"
+              },
+              {
+                "nafcode": "49.50Z"
+              },
+              {
+                "nafcode": "52.10B"
+              },
+              {
+                "nafcode": "52.23Z"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "code": "19487",
+            "startperiodvalidity": "01/01/2015",
+            "endperiodvalidity": "31/12/2016",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "50.10Z"
+              },
+              {
+                "nafcode": "50.20Z"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "code": "138850",
+            "startperiodvalidity": "21/04/2015",
+            "endperiodvalidity": "20/04/2018",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "52.22Z"
+              },
+              {
+                "nafcode": "52.24A"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "code": "15843",
+            "startperiodvalidity": "01/01/2015",
+            "endperiodvalidity": "31/03/2017",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "25.11Z"
+              },
+              {
+                "nafcode": "43.32C"
+              },
+              {
+                "nafcode": "58.12Z"
+              },
+              {
+                "nafcode": "58.21Z"
+              },
+              {
+                "nafcode": "58.29A"
+              },
+              {
+                "nafcode": "58.29B"
+              },
+              {
+                "nafcode": "58.29C"
+              },
+              {
+                "nafcode": "62.01Z"
+              },
+              {
+                "nafcode": "62.02A"
+              },
+              {
+                "nafcode": "62.02B"
+              },
+              {
+                "nafcode": "62.03Z"
+              },
+              {
+                "nafcode": "62.09Z"
+              },
+              {
+                "nafcode": "63.11Z"
+              },
+              {
+                "nafcode": "63.12Z"
+              },
+              {
+                "nafcode": "68.20B"
+              },
+              {
+                "nafcode": "68.32A"
+              },
+              {
+                "nafcode": "70.21Z"
+              },
+              {
+                "nafcode": "70.22Z"
+              },
+              {
+                "nafcode": "71.12B"
+              },
+              {
+                "nafcode": "71.20B"
+              },
+              {
+                "nafcode": "73.20Z"
+              },
+              {
+                "nafcode": "74.30Z"
+              },
+              {
+                "nafcode": "74.90B"
+              },
+              {
+                "nafcode": "78.10Z"
+              },
+              {
+                "nafcode": "78.30Z"
+              },
+              {
+                "nafcode": "82.30Z"
+              },
+              {
+                "nafcode": "90.04Z"
+              }
+            ]
+          }
+        ],
+        "eligibilityjobseeker": [
+          {
+            "name": "",
+            "code": "15636",
+            "startperiodvalidity": "18/12/2014",
+            "endperiodvalidity": "31/12/2016",
+            "region": "Région : Provence",
+            "professionalbranch": [
+              {
+                "nafcode": ""
+              }
+            ]
+          }
+        ],
+        "eligibilityall": [
+          {
+            "name": "",
+            "code": "2549",
+            "startperiodvalidity": "01/01/2015",
+            "endperiodvalidity": "31/12/2016",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": ""
+              }
+            ]
+          }
+        ],
+        "sessions": [
+          {
+            "startperiodvalidity": "01/01/2017",
+            "endperiodvalidity": "30/03/2017",
+            "adress": {
+              "street": "Pôle Média Belle de Mai",
+              "zip": "13003 Marseille 3e",
+              "locality": "37 rue Guibal"
+            },
+            "recruitmentstate": "",
+            "terms": "entrées/sorties à dates fixes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      },
+      {
+        "name": "Titre professionnel développeur(euse) logiciel - CCP 1 : développer une application client-serveur",
+        "objectives": "Le (la) développeur(se) logiciel peut travailler en tant que salarié(e) d'une entreprise, ou pour un client de la société de services qui l'emploie. Ses activités diffèrent selon la taille de l'entreprise. En PME, il (elle) peut mener seul(e) le développement d'un projet. Dans une grande structure, il (elle) travaille en équipe sous la conduite d'un chef de projet. Il (elle) applique les normes de qualité logicielle de son entreprise ou de son prestataire de services.Il (elle) s'adapte rapidement aux évolutions technologiques du secteur informatique. La réalisation du projet dont il (elle) a la charge nécessite de sa part organisation et gestion du temps.Assurant sa mission dans des entreprises et des contextes professionnels divers, il (elle) est mobile géographiquement et s'adapte aux nouveaux environnements de travail.Il (elle) fait preuve de capacités relationnelles avec des interlocuteurs tels que la maîtrise d'ouvrage, les utilisateurs, le chef de projet, les experts techniques et les autres développeurs",
+        "programme": [
+          "Développer une application client-serveur",
+          "Développer une application web"
+        ],
+        "validation": [
+          "Titre Professionnel"
+        ],
+        "type": [
+          "Perfectionnement, élargissement des compétences"
+        ],
+        "outputlevel": "niveau III (BTS, DUT)",
+        "intendedoccupations": [
+          {
+            "romcode": "M1805",
+            "entitle": "Études et développement informatique"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": null,
+        "workstudyterms": null,
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+          "Tout public"
+        ],
+        "admissionterm": [
+          "Sur entretien"
+        ],
+        "entrylevel": "",
+        "prerequisite": null,
+        "location": {
+          "street": "37 rue Guibal",
+          "zip": "13003 Marseille 3e",
+          "locality": "Pôle Média Belle de Mai",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "https://3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "https://3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": "Monsieur  Xavier  Bonte"
+        },
+        "eligibilityemployee": [
+          {
+            "name": "",
+            "code": "1942",
+            "startperiodvalidity": "01/01/2015",
+            "endperiodvalidity": "01/01/2018",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "47.51Z"
+              },
+              {
+                "nafcode": "47.53Z"
+              },
+              {
+                "nafcode": "47.71Z"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "code": "17780",
+            "startperiodvalidity": "02/01/2015",
+            "endperiodvalidity": "31/12/2016",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "47.52B"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "code": "2502",
+            "startperiodvalidity": "01/01/2015",
+            "endperiodvalidity": "31/12/2016",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "46.17A"
+              },
+              {
+                "nafcode": "46.17B"
+              },
+              {
+                "nafcode": "46.38B"
+              },
+              {
+                "nafcode": "46.39B"
+              },
+              {
+                "nafcode": "47.11B"
+              },
+              {
+                "nafcode": "47.11C"
+              },
+              {
+                "nafcode": "47.11D"
+              },
+              {
+                "nafcode": "47.11F"
+              },
+              {
+                "nafcode": "47.25Z"
+              },
+              {
+                "nafcode": "70.10Z"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "code": "184935",
+            "startperiodvalidity": "11/08/2016",
+            "endperiodvalidity": "01/01/2019",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "19.20Z"
+              },
+              {
+                "nafcode": "46.71Z"
+              },
+              {
+                "nafcode": "47.30Z"
+              },
+              {
+                "nafcode": "49.50Z"
+              },
+              {
+                "nafcode": "52.10B"
+              },
+              {
+                "nafcode": "52.23Z"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "code": "19487",
+            "startperiodvalidity": "01/01/2015",
+            "endperiodvalidity": "31/12/2016",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "50.10Z"
+              },
+              {
+                "nafcode": "50.20Z"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "code": "138850",
+            "startperiodvalidity": "21/04/2015",
+            "endperiodvalidity": "20/04/2018",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "52.22Z"
+              },
+              {
+                "nafcode": "52.24A"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "code": "15843",
+            "startperiodvalidity": "01/01/2015",
+            "endperiodvalidity": "31/03/2017",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "25.11Z"
+              },
+              {
+                "nafcode": "43.32C"
+              },
+              {
+                "nafcode": "58.12Z"
+              },
+              {
+                "nafcode": "58.21Z"
+              },
+              {
+                "nafcode": "58.29A"
+              },
+              {
+                "nafcode": "58.29B"
+              },
+              {
+                "nafcode": "58.29C"
+              },
+              {
+                "nafcode": "62.01Z"
+              },
+              {
+                "nafcode": "62.02A"
+              },
+              {
+                "nafcode": "62.02B"
+              },
+              {
+                "nafcode": "62.03Z"
+              },
+              {
+                "nafcode": "62.09Z"
+              },
+              {
+                "nafcode": "63.11Z"
+              },
+              {
+                "nafcode": "63.12Z"
+              },
+              {
+                "nafcode": "68.20B"
+              },
+              {
+                "nafcode": "68.32A"
+              },
+              {
+                "nafcode": "70.21Z"
+              },
+              {
+                "nafcode": "70.22Z"
+              },
+              {
+                "nafcode": "71.12B"
+              },
+              {
+                "nafcode": "71.20B"
+              },
+              {
+                "nafcode": "73.20Z"
+              },
+              {
+                "nafcode": "74.30Z"
+              },
+              {
+                "nafcode": "74.90B"
+              },
+              {
+                "nafcode": "78.10Z"
+              },
+              {
+                "nafcode": "78.30Z"
+              },
+              {
+                "nafcode": "82.30Z"
+              },
+              {
+                "nafcode": "90.04Z"
+              }
+            ]
+          }
+        ],
+        "eligibilityjobseeker": [
+          {
+            "name": "",
+            "code": "15636",
+            "startperiodvalidity": "18/12/2014",
+            "endperiodvalidity": "31/12/2016",
+            "region": "Région : Provence",
+            "professionalbranch": [
+              {
+                "nafcode": ""
+              }
+            ]
+          }
+        ],
+        "eligibilityall": [
+          {
+            "name": "",
+            "code": "2549",
+            "startperiodvalidity": "01/01/2015",
+            "endperiodvalidity": "31/12/2016",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": ""
+              }
+            ]
+          }
+        ],
+        "sessions": [
+          {
+            "startperiodvalidity": "",
+            "endperiodvalidity": "",
+            "adress": {
+              "street": "Pôle Média Belle de Mai",
+              "zip": "13003 Marseille 3e",
+              "locality": "37 rue Guibal"
+            },
+            "recruitmentstate": "",
+            "terms": "entrées/sorties à dates fixes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      },
+      {
+        "name": "Titre professionnel développeur(euse) logiciel",
+        "objectives": "Le (la) développeur(se) logiciel peut travailler en tant que salarié(e) d'une entreprise, ou pour un client de la société de services qui l'emploie. Ses activités diffèrent selon la taille de l'entreprise. En PME, il (elle) peut mener seul(e) le développement d'un projet. Dans une grande structure, il (elle) travaille en équipe sous la conduite d'un chef de projet. Il (elle) applique les normes de qualité logicielle de son entreprise ou de son prestataire de services.Il (elle) s'adapte rapidement aux évolutions technologiques du secteur informatique. La réalisation du projet dont il (elle) a la charge nécessite de sa part organisation et gestion du temps.Assurant sa mission dans des entreprises et des contextes professionnels divers, il (elle) est mobile géographiquement et s'adapte aux nouveaux environnements de travail.Il (elle) fait preuve de capacités relationnelles avec des interlocuteurs tels que la maîtrise d'ouvrage, les utilisateurs, le chef de projet, les experts techniques et les autres développeurs",
+        "programme": [
+          "Cette certification est composée de : CCP 1. Développer une application client-serveur CCP 2. Développer une application web",
+          "Lien vers une ressource externe"
+        ],
+        "validation": null,
+        "type": [
+          "Certification"
+        ],
+        "outputlevel": "niveau III (BTS, DUT)",
+        "intendedoccupations": [
+          {
+            "romcode": "M1805",
+            "entitle": "Études et développement informatique"
+          }
+        ],
+        "pedagogicalterms": "",
+        "duration": null,
+        "workstudyterms": null,
+        "publicservicecontract": false,
+        "financers": null,
+        "publicaccess": [
+          "Demandeur d'emploi",
+          "Salarié"
+        ],
+        "admissionterm": null,
+        "entrylevel": "",
+        "prerequisite": null,
+        "location": {
+          "street": "3W Academy",
+          "zip": "Pôle Pixel",
+          "locality": "26 rue Emile Decorps",
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "http://3wa.fr/formation-php-lyon",
+          "mail": "djamchid@3wa.fr",
+          "name": ""
+        },
+        "contact": {
+          "street": "",
+          "zip": "",
+          "locality": "",
+          "tel": "",
+          "fax": "",
+          "website": "",
+          "mail": "",
+          "name": ""
+        },
+        "eligibilityemployee": [
+          {
+            "name": "",
+            "code": "1942",
+            "startperiodvalidity": "01/01/2015",
+            "endperiodvalidity": "01/01/2018",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "47.51Z"
+              },
+              {
+                "nafcode": "47.53Z"
+              },
+              {
+                "nafcode": "47.71Z"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "code": "17780",
+            "startperiodvalidity": "02/01/2015",
+            "endperiodvalidity": "31/12/2016",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "47.52B"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "code": "2502",
+            "startperiodvalidity": "01/01/2015",
+            "endperiodvalidity": "31/12/2016",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "46.17A"
+              },
+              {
+                "nafcode": "46.17B"
+              },
+              {
+                "nafcode": "46.38B"
+              },
+              {
+                "nafcode": "46.39B"
+              },
+              {
+                "nafcode": "47.11B"
+              },
+              {
+                "nafcode": "47.11C"
+              },
+              {
+                "nafcode": "47.11D"
+              },
+              {
+                "nafcode": "47.11F"
+              },
+              {
+                "nafcode": "47.25Z"
+              },
+              {
+                "nafcode": "70.10Z"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "code": "184935",
+            "startperiodvalidity": "11/08/2016",
+            "endperiodvalidity": "01/01/2019",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "19.20Z"
+              },
+              {
+                "nafcode": "46.71Z"
+              },
+              {
+                "nafcode": "47.30Z"
+              },
+              {
+                "nafcode": "49.50Z"
+              },
+              {
+                "nafcode": "52.10B"
+              },
+              {
+                "nafcode": "52.23Z"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "code": "19487",
+            "startperiodvalidity": "01/01/2015",
+            "endperiodvalidity": "31/12/2016",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "50.10Z"
+              },
+              {
+                "nafcode": "50.20Z"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "code": "138850",
+            "startperiodvalidity": "21/04/2015",
+            "endperiodvalidity": "20/04/2018",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "52.22Z"
+              },
+              {
+                "nafcode": "52.24A"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "code": "15843",
+            "startperiodvalidity": "01/01/2015",
+            "endperiodvalidity": "31/03/2017",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": "25.11Z"
+              },
+              {
+                "nafcode": "43.32C"
+              },
+              {
+                "nafcode": "58.12Z"
+              },
+              {
+                "nafcode": "58.21Z"
+              },
+              {
+                "nafcode": "58.29A"
+              },
+              {
+                "nafcode": "58.29B"
+              },
+              {
+                "nafcode": "58.29C"
+              },
+              {
+                "nafcode": "62.01Z"
+              },
+              {
+                "nafcode": "62.02A"
+              },
+              {
+                "nafcode": "62.02B"
+              },
+              {
+                "nafcode": "62.03Z"
+              },
+              {
+                "nafcode": "62.09Z"
+              },
+              {
+                "nafcode": "63.11Z"
+              },
+              {
+                "nafcode": "63.12Z"
+              },
+              {
+                "nafcode": "68.20B"
+              },
+              {
+                "nafcode": "68.32A"
+              },
+              {
+                "nafcode": "70.21Z"
+              },
+              {
+                "nafcode": "70.22Z"
+              },
+              {
+                "nafcode": "71.12B"
+              },
+              {
+                "nafcode": "71.20B"
+              },
+              {
+                "nafcode": "73.20Z"
+              },
+              {
+                "nafcode": "74.30Z"
+              },
+              {
+                "nafcode": "74.90B"
+              },
+              {
+                "nafcode": "78.10Z"
+              },
+              {
+                "nafcode": "78.30Z"
+              },
+              {
+                "nafcode": "82.30Z"
+              },
+              {
+                "nafcode": "90.04Z"
+              }
+            ]
+          }
+        ],
+        "eligibilityjobseeker": null,
+        "eligibilityall": [
+          {
+            "name": "",
+            "code": "2549",
+            "startperiodvalidity": "01/01/2015",
+            "endperiodvalidity": "31/12/2016",
+            "region": "Toutes les régions",
+            "professionalbranch": [
+              {
+                "nafcode": ""
+              }
+            ]
+          }
+        ],
+        "sessions": [
+          {
+            "startperiodvalidity": "",
+            "endperiodvalidity": "",
+            "adress": {
+              "street": "26 rue Emile Decorps",
+              "zip": "Pôle Pixel",
+              "locality": "3W Academy"
+            },
+            "recruitmentstate": "",
+            "terms": "entrées/sorties à dates fixes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": ""
+      }
+    ]
+  },
+  {
+    "name": "ABCM performances",
+    "corporatename": "ABCM performances",
+    "contact": {
+      "street": "1 Place Dora d'Istria",
+      "zip": "67000",
+      "locality": "Strasbourg",
+      "tel": " 0983532025",
+      "fax": "",
+      "website": "http://www.abcmperformances.com",
+      "mail": "info@abcmperformances.com",
+      "name": ""
+    },
+    "siret": " 81341035400019",
+    "registrationnumber": "42670564167",
+    "fields": {
+      "Arts": [
+        "Gestion contenu site internet",
+        "Rédaction message électronique",
+        "Réseau social"
+      ],
+      "Formation générale, lettres et langues": [
+        "Expression écrite",
+        "Expression orale",
+        "Français mise à niveau",
+        "Prise notes",
+        "Prise parole"
+      ]
+    },
+    "formations": null
+  },
+  {
+    "name": "ACTECIL",
+    "corporatename": "ACTECIL",
+    "contact": {
+      "street": "37 rue d'Engwiller",
+      "zip": "67350",
+      "locality": "La Walck",
+      "tel": " 09.72.27.22.95",
+      "fax": "",
+      "website": "http://www.actecil.fr/fr/",
+      "mail": "aurelien.bois@actecil.fr",
+      "name": ""
+    },
+    "siret": " 50050930200013",
+    "registrationnumber": "43250260625",
+    "fields": {
+      "Sciences humaines, économie, droit": [
+        "Droit auteur",
+        "Droit propriété intellectuelle"
+      ],
+      "Échange et gestion": [
+        "Administration personnel",
+        "Ressources humaines"
+      ]
+    },
+    "formations": null
+  },
+  {
+    "name": "ADAPEI",
+    "corporatename": "Association de Parents et Amis de Personnes handicapées mentales",
+    "contact": {
+      "street": "24 rue du Château",
+      "zip": "67380",
+      "locality": "Lingolsheim",
+      "tel": " 03.88.77.54.00",
+      "fax": "",
+      "website": "http://www.adapei67.asso.fr",
+      "mail": "disp@adapei67.asso.fr",
+      "name": ""
+    },
+    "siret": " 30333551700171",
+    "registrationnumber": "42670206667",
+    "fields": {
+      "Formation générale, lettres et langues": [
+        "Accompagnement vers emploi",
+        "Orientation professionnelle"
+      ],
+      "Services à la collectivité": [
+        "Bionettoyage",
+        "Entretien sol",
+        "Entretien vitre",
+        "Nettoyage locaux"
+      ]
+    },
+    "formations": null
+  },
+  {
+    "name": "ADECCO Formation",
+    "corporatename": "ADECCO Formation",
+    "contact": {
+      "street": "1 C rue des Frères Lumière",
+      "zip": "67201",
+      "locality": "Eckbolsheim",
+      "tel": " 03.88.10.23.06",
+      "fax": "",
+      "website": "http://www.adeccoformation.fr",
+      "mail": "fatima.martins@adeccoformation.fr",
+      "name": ""
+    },
+    "siret": " 34300986600454",
+    "registrationnumber": "82691197969",
+    "fields": {
+      "Formation générale, lettres et langues": [
+        "Affirmation soi",
+        "Allemand",
+        "Allemand appliqué",
+        "Allemand commercial",
+        "Allemand secrétariat",
+        "Allemand technique",
+        "Allemand tourisme",
+        "Anglais",
+        "Anglais appliqué",
+        "Anglais commercial",
+        "Anglais secrétariat",
+        "Anglais technique",
+        "Anglais tourisme",
+        "Communication professionnelle",
+        "Créativité personnelle",
+        "Développement personnel et professionnel",
+        "Efficacité personnelle",
+        "Espagnol",
+        "Espagnol appliqué",
+        "Espagnol commercial",
+        "Espagnol secrétariat",
+        "Espagnol technique",
+        "Expression corporelle",
+        "Expression écrite",
+        "Expression média",
+        "Expression orale",
+        "Français appliqué",
+        "Français commercial",
+        "Français langue étrangère",
+        "Gestion stress",
+        "Gestion temps",
+        "Italien appliqué",
+        "Italien commercial",
+        "Italien secrétariat",
+        "Italien technique",
+        "Langues",
+        "Méthodologie négociation",
+        "Orientation professionnelle",
+        "PNL",
+        "Portugais",
+        "Préparation VAE",
+        "Prise notes",
+        "Prise parole",
+        "Rapport",
+        "Relation interculturelle",
+        "Relation interpersonnelle",
+        "Synthèse",
+        "Traduction",
+        "Valorisation image de soi"
+      ],
+      "Information, communication": [
+        "Logiciel Outlook",
+        "Logiciel Power Point",
+        "Logiciel Word",
+        "Windows"
+      ],
+      "Services aux personnes": [
+        "Accompagnement formation",
+        "Conception action formation",
+        "Conception formation à distance",
+        "Conseil accompagnement VAE",
+        "Conseil formation",
+        "Enseignement individualisé",
+        "Formation formateur",
+        "Formation formateur occasionnel",
+        "Gestion formation",
+        "Ingénierie formation",
+        "Ingénierie formation pédagogie",
+        "Méthode pédagogique",
+        "Pédagogie alternance",
+        "Pédagogie illettrisme",
+        "Pédagogie interculturelle",
+        "Pédagogie public en difficulté",
+        "Plan formation"
+      ],
+      "Échange et gestion": [
+        "Achat",
+        "Achat international",
+        "Administration ventes",
+        "Assurance export",
+        "Centrale achat",
+        "Chef produit",
+        "Commerce international",
+        "Crédit documentaire",
+        "Crédit export",
+        "Développement sens commercial",
+        "Devis",
+        "Étude marché",
+        "Étude produit",
+        "Exportation",
+        "Facturation",
+        "Financement international",
+        "Gestion commerciale",
+        "Gestion fournisseur",
+        "Gestion relation client",
+        "Gestion risque client",
+        "Implantation étranger",
+        "Import export",
+        "Importation",
+        "Incoterm",
+        "Logistique internationale",
+        "Marketing",
+        "Marketing achat",
+        "Marketing direct",
+        "Marketing électronique",
+        "Marketing éthique",
+        "Marketing industriel",
+        "Marketing international",
+        "Marketing mix",
+        "Marketing sectoriel",
+        "Négociation achat",
+        "Négociation internationale",
+        "Paiement international",
+        "Prix vente",
+        "Publicité",
+        "Publipostage",
+        "Qualité achat",
+        "Réglementation commerce international",
+        "Relance impayé",
+        "Risque change",
+        "Satisfaction client",
+        "Service après-vente",
+        "Stratégie commerciale",
+        "TACE",
+        "Vente par téléphone",
+        "Vente spécialisée"
+      ]
+    },
+    "formations": null
+  },
+  {
+    "name": "ADQual",
+    "corporatename": "ADQual",
+    "contact": {
+      "street": "71 rue de Sélestat",
+      "zip": "67210",
+      "locality": "Obernai",
+      "tel": " 06.70.19.08.46",
+      "fax": "",
+      "website": "http://www.adqual.fr",
+      "mail": "martine.suty@adqual.fr",
+      "name": ""
+    },
+    "siret": " 50326200800017",
+    "registrationnumber": "42670396367",
+    "fields": {
+      "Fonction production": [
+        "Amdec",
+        "Animation qualité",
+        "Assurance qualité",
+        "Audit qualité",
+        "Autocontrôle",
+        "Certification labellisation qualité",
+        "Contrôle qualité",
+        "Gestion qualité",
+        "Manuel qualité",
+        "Qualité",
+        "Spc"
+      ],
+      "Formation générale, lettres et langues": [
+        "Résolution problème"
+      ],
+      "Information, communication": [
+        "Communication entreprise",
+        "Gestion entreprise communication information"
+      ],
+      "Production mécanique": [
+        "Automatisme informatique industrielle",
+        "Robotique"
+      ],
+      "Sciences": [
+        "Statistique"
+      ],
+      "Services à la collectivité": [
+        "Animation environnement",
+        "Conseil environnement"
+      ],
+      "Transformation": [
+        "Conseil énergie",
+        "Gestion énergie"
+      ],
+      "Échange et gestion": [
+        "Animation motivation équipe",
+        "Conduite changement technologique",
+        "Conduite projet",
+        "Management participatif",
+        "Qualité administrative",
+        "Recherche développement",
+        "Ressources humaines",
+        "Stratégie entreprise",
+        "Tableau bord"
+      ]
+    },
+    "formations": null
+  },
+  {
+    "name": "AFOREST",
+    "corporatename": "AFOREST",
+    "contact": {
+      "street": "3 C rue Joseph Marie Jacquard",
+      "zip": "67400",
+      "locality": "Illkirch-Graffenstaden",
+      "tel": " 03.88.81.22.44",
+      "fax": "",
+      "website": "",
+      "mail": "nathalie.perret@aforest.fr",
+      "name": ""
+    },
+    "siret": " 34317059300127",
+    "registrationnumber": "51570051957",
+    "fields": {
+      "Fonction production": [
+        "5S",
+        "Amdec",
+        "Animation qualité",
+        "Approvisionnement",
+        "Assurance qualité",
+        "Audit qualité",
+        "Autocontrôle",
+        "Bureau études",
+        "CAO",
+        "Certification labellisation qualité",
+        "CFAO",
+        "Chariot automoteur",
+        "Conduite installation industrielle",
+        "Conduite projet industriel",
+        "Contrôle destructif",
+        "Contrôle gestion production",
+        "Contrôle non destructif",
+        "Contrôle qualité",
+        "Contrôle statistique",
+        "Cotation fonctionnelle",
+        "Courant Foucault",
+        "DAO",
+        "Dessin industriel",
+        "Documentation maintenance",
+        "Élévateur",
+        "Élingage",
+        "Engin chantier",
+        "Engin manutention levage",
+        "Engin traction",
+        "Entreposage stockage",
+        "Étiquetage",
+        "Examen ultrason",
+        "Expédition",
+        "FAO",
+        "Fiabilité",
+        "Formation formateur qualité",
+        "Génie industriel",
+        "Génie procédés",
+        "Geste posture",
+        "Gestion maintenance",
+        "Gestion production",
+        "Gestion qualité",
+        "Gestion stock",
+        "GPAO",
+        "Groupe progrès",
+        "Grue",
+        "Grue auxiliaire",
+        "Juste à temps",
+        "Kaizen",
+        "Kanban",
+        "Lecture plan",
+        "Magasinage",
+        "Magnétoscopie",
+        "Maintenance corrective",
+        "Maintenance industrielle",
+        "Maintenance préventive",
+        "Maintenance totale",
+        "Manuel qualité",
+        "Manutention",
+        "Manutention matière dangereuse",
+        "Manutention produit chimique",
+        "Mesure temps",
+        "Métallographie",
+        "Méthode Taguchi",
+        "Métrologie",
+        "Métrologie dimensionnelle",
+        "Micrographie",
+        "MRP",
+        "Nacelle élévatrice",
+        "Norme qualité",
+        "Ordonnancement",
+        "Organisation travail",
+        "Outil qualité",
+        "Packaging",
+        "Palettisation",
+        "PERT",
+        "Pièce rechange",
+        "Pont élingage",
+        "Pont roulant",
+        "Productique",
+        "Qualité",
+        "Qualité gestion industrielle",
+        "Qualité hygiène sécurité environnement",
+        "Qualité totale",
+        "Radiographie industrielle",
+        "Ressuage",
+        "Sécurité manutention",
+        "Sécurité travaux en hauteur",
+        "Six sigma",
+        "Smed",
+        "Spc",
+        "Stockage matière dangereuse",
+        "Thermographie",
+        "Transfert technologie",
+        "Travaux neufs"
+      ],
+      "Production mécanique": [
+        "Aciérie",
+        "Affûtage",
+        "Ajustage",
+        "Alésage",
+        "Anodisation",
+        "Automate programmable",
+        "Automatisation",
+        "Automatisme hydraulique",
+        "Automatisme informatique industrielle",
+        "Automatisme pneumatique",
+        "Brasage",
+        "Capteur",
+        "Centre usinage",
+        "Chaudronnerie",
+        "Chaudronnerie aéronautique",
+        "Chaudronnerie inox",
+        "Chaudronnerie plastique",
+        "Collage",
+        "Collage matière plastique",
+        "Commande numérique fraisage",
+        "Commande numérique tournage",
+        "Commande processus",
+        "Construction aéronautique",
+        "Construction aérospatiale",
+        "Construction automobile",
+        "Construction mécanique",
+        "Coupage laser",
+        "Coupage plasma",
+        "Décapage",
+        "Décolletage",
+        "Décoration plastique",
+        "Découpage",
+        "Électroérosion",
+        "Émaillage",
+        "Emboutissage",
+        "Étirage",
+        "Extrusion",
+        "Filetage mécanique",
+        "Fonderie",
+        "Forgeage",
+        "Formage",
+        "Fraisage",
+        "Gemma",
+        "Grafcet",
+        "Laminage",
+        "Logique câblée",
+        "Logique programmée",
+        "Lubrification",
+        "Maintenance distributeur automatique",
+        "Maintenance système automatisé",
+        "Mécatronique",
+        "Métallurgie",
+        "Métallurgie poudres",
+        "MOCN",
+        "Montage assemblage",
+        "Moulage métal",
+        "Moulage plastique",
+        "Peinture industrielle",
+        "Perçage",
+        "Plasturgie",
+        "Pliage",
+        "Pompe",
+        "Programmation informatique industrielle",
+        "Programmation MOCN",
+        "Protection cathodique",
+        "Qualité mécanique construction réparation",
+        "Qualité travail matériau",
+        "Rectification usinage",
+        "Régulation",
+        "Repoussage",
+        "Réseau local industriel",
+        "Robotique",
+        "Sécurité travail matériau",
+        "Sidérurgie",
+        "Soudage",
+        "Soudage arc",
+        "Soudage autre procédé",
+        "Soudage électrode enrobée",
+        "Soudage matière plastique",
+        "Soudage MIG MAG",
+        "Soudage oxyacétylénique",
+        "Soudage par résistance",
+        "Soudage plasma",
+        "Soudage sous flux électroconducteur",
+        "Soudage TIG",
+        "Soudobrasage",
+        "Stratification",
+        "Supervision",
+        "Système asservi",
+        "Thermoformage",
+        "Tôlerie",
+        "Tournage",
+        "Traçage chaudronnerie",
+        "Traitement surface",
+        "Traitement thermique",
+        "Traitement thermochimique",
+        "Travail matériau",
+        "Tréfilage",
+        "Tuyauterie",
+        "Usinage"
+      ],
+      "Échange et gestion": [
+        "Comité entreprise",
+        "Conduite entretien",
+        "Conduite entretien évaluation",
+        "Conduite entretien professionnel",
+        "Contrat travail",
+        "Délégation unique personnel",
+        "Ressources humaines"
+      ],
+      "Électricité - électronique": [
+        "Basse tension",
+        "Circuit électronique",
+        "Composant électronique",
+        "Distribution électricité",
+        "Électricité équipement industriel",
+        "Électromécanique",
+        "Électronique puissance",
+        "Électrotechnique",
+        "Électrotechnique mise à niveau",
+        "Habilitation électrique",
+        "Haute tension",
+        "Machine électrique",
+        "Maintenance électronique",
+        "Maintenance installation électrique",
+        "Mesure électrique",
+        "Montage câblage électrique",
+        "Montage câblage électronique",
+        "Moteur électrique",
+        "Moyenne tension",
+        "Norme électrique",
+        "Onduleur",
+        "Perturbation électrique",
+        "Schéma électrique",
+        "Schéma électronique",
+        "Sécurité électrique",
+        "Transformateur"
+      ]
+    },
+    "formations": null
+  }
+]
+{"name":"3w academy","corporatename":"3w academy","contact":{"adress":{"street":"46 rue René Clair","zip":"75018","locality":"Paris"},"tel":" 01 46 06 45 14","fax":"","website":"https://3wa.fr/","mail":"contact@3wa.fr","name":""},"siret":" 75404770200024","registrationnumber":"11754910875","fields":{"Information, communication":["Informatique"]},"formations":["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]},

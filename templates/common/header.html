@@ -1,0 +1,52 @@
+<!--
+                                                          :::      ::::::::
+     header.html                                        :+:      :+:    :+:
+                                                      +:+ +:+         +:+
+     By: hdezier <hdezier@student.42.fr>            +#+  +:+       +#+
+                                                  +#+#+#+#+#+   +#+
+     Created: 2016/09/18 15:50:42 by hdezier           #+#    #+#
+     Updated: 2016/12/03 17:17:20 by hdezier          ###   ########.fr
+-->
+
+
+ {{define "header"}}
+
+ <div class="ui inverted stackable segment sticky top attached left headerfix">
+ 	<div class="ui inverted stackable secondary menu headercontent">
+ 		<a href="/" title="NotaForma"><img src="/static/img/Nfheader.png" height="45" alt="NotaForma"></a>
+ 		<div class="menu horizontal inverted">
+ 			<div class="ui search item input">
+ 				<div class="ui icon input">
+ 					<form role="search" action="/search" class="ui icon input">
+ 						<input class="prompt" placeholder="Recherche..." name="q" id="q" type="text">
+ 						<i class="search icon link" role="search" type="submit" action="/search" name="q" id="q"></i>
+ 					</form>
+ 				</div>
+ 			</div>
+ 		</div>
+ 		<div class="right menu">
+ 			<a class="item" href="/criteres" title="Criteres">Nos critères d'évaluation</a>
+ 			<a class="item" href="/formations" title="Formations">Formations</a>
+ 			<a class="item" href="/organisms" title="Organismes">Organismes</a>
+ 			{{if .Logged}}
+ 			<div class="ui dropdown item">
+ 				{{.Name}} <i class="dropdown icon"></i>
+ 				<div class="menu">
+	 				{{if ne .OrganismOwner ""}}
+ 					<a class="item" href="/dashboard" title="dashboard">Dashboard</a>
+					{{end}}
+ 					<a class="item" href="/logout" title="logout">Déconnexion</a>
+ 				</div>
+ 			</div>
+ 			{{else}}
+ 			<div class="item">
+ 				<a href="/login" class="ui inverted button">Connexion</a>
+ 			</div>
+ 			{{end}}
+ 		</div>
+ 	</div>
+ </div>
+ {{end}}
+
+
+

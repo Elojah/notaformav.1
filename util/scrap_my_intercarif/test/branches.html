@@ -1,0 +1,175 @@
+
+<!DOCTYPE html>
+
+<html lang="fr">
+
+<head>
+
+  <title>Branches professionnelles de l'éligibilité</title>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1, maximum-scale=1">
+
+<meta name="revisit-after" content="10 days" />
+<meta name="robots" content="index, follow" />
+
+<meta name="keywords" content="formation professionnelle continue France, carif, oref, carif-oref, intercarif, intercariforef, formation, orientation" />
+
+<!-- <link rel="shortcut icon" href="http://www.intercariforef.org/favicon.ico" /> -->
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/general.css?v=" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/structure.css?v=" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/globals.css?v=" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/menus.css?v=" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/table.css?v=" type="text/css" media="screen" />
+
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/boxmasonry.css?v=" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/accordeon.css?v=" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/detail_dp.css?v=" type="text/css" media="screen" />
+
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/print.css?v=" type="text/css" media="print" />
+
+
+<!-- media queries -->
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/md1a.css?v=" type="text/css" media="screen and (max-width: 1150px)" />
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/md1.css?v=" type="text/css" media="screen and (max-width: 940px)" />
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/md1b.css?v=" type="text/css" media="screen and (max-width: 625px)" />
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/md2.css?v=" type="text/css" media="screen and (max-width: 490px)" />
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/md3.css?v=" type="text/css" media="screen and (max-width: 479px)" />
+
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/md1a.css?v=" type="text/css" media="screen and (max-device-width: 1150px)" />
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/md1.css?v=" type="text/css" media="screen and (max-device-width: 940px)" />
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/md1b.css?v=" type="text/css" media="screen and (max-device-width: 625px)" />
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/md2.css?v=" type="text/css" media="screen and (max-device-width: 490px)" />
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/md3.css?v=" type="text/css" media="screen and (max-device-width: 479px)" />
+
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/md1device.css?v=" type="text/css" media="screen and (max-device-width: 940px)" />
+
+<!--[if IE]>
+  <link rel="stylesheet" type="text/css" href="http://www.intercariforef.org/formations/css/ie_gen.css?v=" />
+<![endif]-->
+
+<!--[if IE 6]>
+  <link rel="stylesheet" type="text/css" href="http://www.intercariforef.org/formations/css/ie6.css?v=" />
+<![endif]-->
+
+<!--[if lt IE 7]>
+<style type="text/css">
+#global {
+width: 900px;
+width: expression(document.body.clientWidth <= 750? "749px" : document.body.clientWidth >= 1000? "1001px" : "auto");
+}
+div#menu, div#page, div#menubas{
+overflow: visible;
+height:1%;
+}
+</style>
+<![endif]-->
+
+
+
+
+<script type="text/javascript" src="http://www.intercariforef.org/formations/ajax.js"></script>
+<script type="text/javascript" src="http://www.intercariforef.org/formations/jquery/js/jquery-1.7.1.js"></script>
+
+<script type="text/javascript">
+var J = jQuery.noConflict();
+</script>
+<!-- pour dialogs -->
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.17/jquery-ui.min.js" type="text/javascript"></script>
+<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.17/themes/base/jquery-ui.css" type="text/css" media="all" />
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/dialog.css" type="text/css" media="screen" />
+<script type="text/javascript">
+  J(function() {
+   J( ".popupJquery" ).dialog({
+     autoOpen: false,
+     show: "blind",
+     hide: "explode"
+   });
+	Cpt = 3;
+	var Ech = new Array("20%", "30%", "40%", "50%", "60%", "70%", "80%", "90%", "100%", "110%", "120%", "130%", "140%", "150%", "160%", "170%", "180%");
+	jQuery("#oni_dec-font").click(function(){
+		if(Cpt > -2) {
+			Cpt--;
+			document.getElementById("pageM").style.fontSize = Ech[Cpt+4];
+		}
+		return(false);
+	});
+  J("#oni_inc-font").click(function(){
+		if(Cpt < (Ech.length-1)) {
+			Cpt++;
+			document.getElementById("pageM").style.fontSize = Ech[Cpt+5];
+		}
+		return(false);
+	});
+	Cpt = 3;
+	var Ech = new Array("20%", "30%", "40%", "50%", "60%", "70%", "80%", "90%", "100%", "110%", "120%", "130%", "140%", "150%", "160%", "170%", "180%");
+	jQuery("#oni_dev-acc").click(function(){
+		J(".blocAfficheCache").css( "display", "block");
+		J(".titreBlocDetail").removeClass("titreBlocDetailBackGround");
+		J(".titreBlocDetail").addClass("titreBlocDetailBackGround2");
+		return(false);
+	});
+  J("#oni_red-acc").click(function(){
+		J(".blocAfficheCache").css( "display", "none");
+		J(".titreBlocDetail").removeClass("titreBlocDetailBackGround2");
+		J(".titreBlocDetail").addClass("titreBlocDetailBackGround");
+		return(false);
+	});
+  });
+</script>
+<!-- fin pour dialogs -->
+<!-- pour Google analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-8273590-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<style>
+
+@import url("http://www.intercariforef.org/reseau/modules/system/system.menus.css?ms4zyz");
+</style>
+
+
+<style>@import url("http://www.intercariforef.org/reseau/sites/all/libraries/superfish/css/superfish.css?ms4zyz");
+@import url("http://www.intercariforef.org/reseau/sites/all/libraries/superfish/style/default.css?ms4zyz");</style>
+
+<style media="screen">@import url("http://www.intercariforef.org/reseau/sites/all/themes/adaptivetheme/at_core/css/at.settings.style.headings.css?ms4zyz");
+
+@import url("http://www.intercariforef.org/reseau/sites/all/themes/adaptivetheme/at_core/css/at.layout.css?ms4zyz");</style>
+
+<style>@import url("http://www.intercariforef.org/reseau/sites/all/themes/at-commerce/css/styles.base.css?ms4zyz");
+@import url("http://www.intercariforef.org/reseau/sites/all/themes/at-commerce/css/styles.modules.css?ms4zyz");
+@import url("http://www.intercariforef.org/reseau/sites/default/files/color/intercarif-a30d6795/colors.css?nlppdj");
+@import url("http://www.intercariforef.org/reseau/sites/all/themes/intercarif/css/intercarif.css?ms4zyz");
+</style>
+<link type="text/css" rel="stylesheet" href="http://www.intercariforef.org/reseau/sites/default/files/adaptivetheme/intercarif_files/intercarif.responsive.layout.css?ms4zyz" media="only screen" />
+<style media="screen">@import url("http://www.intercariforef.org/reseau/sites/default/files/adaptivetheme/intercarif_files/intercarif.fonts.css?ms4zyz");
+</style>
+</head>
+
+<body  class="hl-l">
+
+  <div id="ventre">
+
+  <ul id="nav_onglets">
+    <li class="onglet_act">Branches professionnelles de l'éligibilité</li>
+  </ul>
+
+  <div id="content_onglet">
+
+  <ul style="margin-bottom: 0px;"><li>25.11Z : Fabrication de structures métalliques et de parties de structures</li><li>43.32C : Agencement de lieux de vente</li><li>58.12Z : Édition de répertoires et de fichiers d'adresses</li><li>58.21Z : Édition de jeux électroniques</li><li>58.29A : Édition de logiciels système et de réseau</li><li>58.29B : Édition de logiciels outils de développement et de langages</li><li>58.29C : Édition de logiciels applicatifs</li><li>62.01Z : Programmation informatique</li><li>62.02A : Conseil en systèmes et logiciels informatiques</li><li>62.02B : Tierce maintenance de systèmes et d'applications informatiques</li><li>62.03Z : Gestion d'installations informatiques</li><li>62.09Z : Autres activités informatiques</li><li>63.11Z : Traitement de données, hébergement et activités connexes</li><li>63.12Z : Portails Internet</li><li>68.20B : Location de terrains et d'autres biens immobiliers</li><li>68.32A : Administration d'immeubles et autres biens immobiliers</li><li>70.21Z : Conseil en relations publiques et communication</li><li>70.22Z : Conseil pour les affaires et autres conseils de gestion</li><li>71.12B : Ingénierie, études techniques</li><li>71.20B : Analyses, essais et inspections techniques</li><li>73.20Z : Études de marché et sondages</li><li>74.30Z : Traduction et interprétation</li><li>74.90B : Activités spécialisées, scientifiques et techniques diverses</li><li>78.10Z : Activités des agences de placement de main-d' oeuvre</li><li>78.30Z : Autre mise à disposition de ressources humaines</li><li>82.30Z : Organisation de foires, salons professionnels et congrès</li><li>90.04Z : Gestion de salles de spectacles</li></ul>    </div> <!-- content_onglet-->
+  </div> <!--ventre -->
+
+
+
+</body>
+
+</html>

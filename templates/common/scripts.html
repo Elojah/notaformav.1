@@ -1,0 +1,23 @@
+<!--
+                                                          :::      ::::::::
+     scripts.html                                       :+:      :+:    :+:
+                                                      +:+ +:+         +:+
+     By: drabahi <drabahi@student.42.fr>            +#+  +:+       +#+
+                                                  +#+#+#+#+#+   +#+
+     Created: 2016/10/21 20:00:15 by hdezier           #+#    #+#
+     Updated: 2016/11/27 15:18:05 by drabahi          ###   ########.fr
+-->
+
+{{define "scripts"}}
+<script type="text/javascript" src="/static/js/jquery-3.1.1.min.js"></script>
+<script type="text/javascript" src="/static/js/semantic.min.js"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+    $('.ui.rating').rating();
+    $('.ui.rating').rating('setting', 'clearable', true)
+    $('.ui.rating.disable').rating('disable');
+		$('.ui.dropdown').dropdown();
+    $('.menu .item').tab();
+	})
+</script>
+{{end}}

@@ -1,0 +1,153 @@
+<!--
+                                                          :::      ::::::::
+     new-comment.html                                   :+:      :+:    :+:
+                                                      +:+ +:+         +:+
+     By: hdezier <hdezier@student.42.fr>            +#+  +:+       +#+
+                                                  +#+#+#+#+#+   +#+
+     Created: 2016/10/09 10:51:42 by hdezier           #+#    #+#
+     Updated: 2016/10/09 11:10:38 by hdezier          ###   ########.fr
+-->
+
+{{define "newcomment"}}
+<div class="new-com">
+	<div class="col-md-4">
+		<div class="panel panel-primary-click">
+			<div class="panel-heading clickable">
+				<h3 class="panel-title">
+					Laisser votre commentaire</h3>
+					<span class="pull-right "><i class="glyphicon glyphicon-minus"></i></span>
+			</div>
+			<div class="panel-body-plus">
+				<form action="" role="form" method="post" id="post-comment">
+				<div class="form-group">
+					<label for="content">
+						Votre commentaire
+					</label>
+					<textarea class="form-control" form="post-comment" id="content" name = "content" rows="3"></textarea>
+				</div>
+				<table class="table-responsive table">
+					<tbody>
+						<tr>
+							<td label for="rating">
+								Hygiene
+							</td>
+							<td>
+								<input type="text" class="star-rating" name="hygienerating" data-size="xxs">
+							</td>
+						</tr>
+						<tr>
+							<td label for="rating">
+								Taille
+							</td>
+							<td>
+								<input type="text" class="star-rating" name="sizerating" data-size="xxs">
+							</td>
+						</tr>
+						<tr>
+							<td label for="rating">
+								Administration
+							</td>
+							<td>
+								<input type="text" class="star-rating" name="adminrating" data-size="xxs">
+							</td>
+						</tr>
+						<tr>
+							<td label for="rating">
+								Activite extrascolaire
+							</td>
+							<td>
+								<input type="text" class="star-rating" name="extraactivityrating" data-size="xxs">
+							</td>
+						</tr>
+						<tr>
+							<td label for="rating">
+								Facilite d'acces
+							</td>
+							<td>
+								<input type="text" class="star-rating" name="easyaccessrating" data-size="xxs">
+							</td>
+						</tr>
+						<tr>
+							<td label for="rating">
+								Horaire d'ouverture
+							</td>
+							<td>
+								<input type="text" class="star-rating" name="openinghoursrating" data-size="xxs">
+							</td>
+						</tr>
+						<tr>
+							<td label for="rating">
+								Environement
+							</td>
+							<td>
+								<input type="text" class="star-rating" name="environmentalrating" data-size="xxs">
+							</td>
+						</tr>
+						<tr>
+							<td label for="rating">
+								external
+							</td>
+							<td>
+								<input type="text" class="star-rating" name="externalrating" data-size="xxs">
+							</td>
+						</tr>
+					</tbody>
+				</table>
+	<!-- 			<div class="form-group">
+					<label for="rating">
+						Hygiene
+					</label>
+					<input type="text" class="star-rating" name="hygienerating" data-size="xxs">
+				</div>
+				<div class="form-group">
+					<label for="rating">
+						Taille
+					</label>
+					<input type="text" class="star-rating" name="sizerating" data-size="xxs">
+				</div>
+					<div class="form-group">
+						<label for="rating">
+							Admin
+						</label>
+						<input type="text" class="star-rating" name="adminrating" data-size="xxs">
+					</div>
+				<div class="form-group">
+					<label for="rating">
+						Activite extrascolaire
+					</label>
+					<input type="text" class="star-rating" name="extraactivityrating" data-size="xxs">
+				</div>
+				<div class="form-group">
+					<label for="rating">
+						Facilite d'acces
+					</label>
+					<input type="text" class="star-rating" name="easyaccessrating" data-size="xxs">
+				</div>
+				<div class="form-group">
+					<label for="rating">
+						openinghours
+					</label>
+					<input type="text" class="star-rating" name="openinghoursrating" data-size="xxs">
+				</div>
+				<div class="form-group">
+					<label for="rating">
+						Environement
+					</label>
+					<input type="text" class="star-rating" name="environmentalrating" data-size="xxs">
+				</div>
+				<div class="form-group">
+					<label for="rating">
+						external
+					</label>
+					<input type="text" class="star-rating" name="externalrating" data-size="xxs">
+				</div>
+	 -->
+				<button type="submit" class="btn btn-default">
+					Submit
+				</button>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+{{end}}

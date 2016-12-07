@@ -1,0 +1,620 @@
+
+<!DOCTYPE html>
+
+<html lang="fr">
+
+<head>
+
+
+    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=true"></script>
+    <script type="text/javascript">
+
+      var image = new google.maps.MarkerImage("http://www.intercariforef.org/formations/images/epingle.png");
+
+      function load() {
+        var mapDiv = document.getElementById('map');
+        var map = new google.maps.Map(mapDiv, {
+          center: new google.maps.LatLng(48.8917007446289, 2.3510000705719),
+          zoom: 15,
+          mapTypeId: google.maps.MapTypeId.ROADMAP
+        });
+        var latLng = new google.maps.LatLng(48.8917007446289, 2.3510000705719);
+        var marker = new google.maps.Marker({
+          position: latLng,
+          map: map,
+          icon: image
+        });
+      }
+
+    </script>
+
+
+  <script type="text/javascript"><!--
+  // pour initialiser l'accordeon
+  //function initAccordion() {
+  //  var topAccordion = new accordion('vertical_container');
+    //topAccordion.activate($$('#vertical_container .accordion_toggle')[0]); // pour activer le 1er contenu de l'accordeon
+  //}
+  //--></script>
+
+  <!-- 3 scripts necessaires pour l'accordeon : -->
+  <!-- l'accordeon provient de http://www.stickmanlabs.com/accordion/ (base sur prototype) -->
+  <!--
+  <script type="text/javascript" src="http://www.intercariforef.org/formations/accordion/javascript/prototype.js"></script>
+  <script type="text/javascript" src="http://www.intercariforef.org/formations/accordion/javascript/effects.js"></script>
+  <script type="text/javascript" src="http://www.intercariforef.org/formations/accordion/javascript/accordion.js"></script>
+  -->
+
+  <script type="text/javascript" src="http://www.intercariforef.org/formations/fonctionsRaf.js?v=1456226388"></script>
+
+  <title>Organisme : 3w academy (Carif-Oref)</title>
+  <meta name="description" content="Information d&eacute;taill&eacute;e concernant l'organisme de formation : 3w academy." />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1, maximum-scale=1">
+
+<meta name="revisit-after" content="10 days" />
+<meta name="robots" content="index, follow" />
+
+<meta name="keywords" content="formation professionnelle continue France, carif, oref, carif-oref, intercarif, intercariforef, formation, orientation" />
+
+<!-- <link rel="shortcut icon" href="http://www.intercariforef.org/favicon.ico" /> -->
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/general.css?v=" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/structure.css?v=" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/globals.css?v=" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/menus.css?v=" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/table.css?v=" type="text/css" media="screen" />
+
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/boxmasonry.css?v=" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/accordeon.css?v=" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/detail_dp.css?v=" type="text/css" media="screen" />
+
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/print.css?v=" type="text/css" media="print" />
+
+
+<!-- media queries -->
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/md1a.css?v=" type="text/css" media="screen and (max-width: 1150px)" />
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/md1.css?v=" type="text/css" media="screen and (max-width: 940px)" />
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/md1b.css?v=" type="text/css" media="screen and (max-width: 625px)" />
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/md2.css?v=" type="text/css" media="screen and (max-width: 490px)" />
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/md3.css?v=" type="text/css" media="screen and (max-width: 479px)" />
+
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/md1a.css?v=" type="text/css" media="screen and (max-device-width: 1150px)" />
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/md1.css?v=" type="text/css" media="screen and (max-device-width: 940px)" />
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/md1b.css?v=" type="text/css" media="screen and (max-device-width: 625px)" />
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/md2.css?v=" type="text/css" media="screen and (max-device-width: 490px)" />
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/md3.css?v=" type="text/css" media="screen and (max-device-width: 479px)" />
+
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/md1device.css?v=" type="text/css" media="screen and (max-device-width: 940px)" />
+
+<!--[if IE]>
+  <link rel="stylesheet" type="text/css" href="http://www.intercariforef.org/formations/css/ie_gen.css?v=" />
+<![endif]-->
+
+<!--[if IE 6]>
+  <link rel="stylesheet" type="text/css" href="http://www.intercariforef.org/formations/css/ie6.css?v=" />
+<![endif]-->
+
+<!--[if lt IE 7]>
+<style type="text/css">
+#global {
+width: 900px;
+width: expression(document.body.clientWidth <= 750? "749px" : document.body.clientWidth >= 1000? "1001px" : "auto");
+}
+div#menu, div#page, div#menubas{
+overflow: visible;
+height:1%;
+}
+</style>
+<![endif]-->
+
+
+
+
+<script type="text/javascript" src="http://www.intercariforef.org/formations/ajax.js"></script>
+<script type="text/javascript" src="http://www.intercariforef.org/formations/jquery/js/jquery-1.7.1.js"></script>
+
+<script type="text/javascript">
+var J = jQuery.noConflict();
+</script>
+<!-- pour dialogs -->
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.17/jquery-ui.min.js" type="text/javascript"></script>
+<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.17/themes/base/jquery-ui.css" type="text/css" media="all" />
+<link rel="stylesheet" href="http://www.intercariforef.org/formations/css/dialog.css" type="text/css" media="screen" />
+<script type="text/javascript">
+  J(function() {
+   J( ".popupJquery" ).dialog({
+     autoOpen: false,
+     show: "blind",
+     hide: "explode"
+   });
+  Cpt = 3;
+  var Ech = new Array("20%", "30%", "40%", "50%", "60%", "70%", "80%", "90%", "100%", "110%", "120%", "130%", "140%", "150%", "160%", "170%", "180%");
+  jQuery("#oni_dec-font").click(function(){
+    if(Cpt > -2) {
+      Cpt--;
+      document.getElementById("pageM").style.fontSize = Ech[Cpt+4];
+    }
+    return(false);
+  });
+  J("#oni_inc-font").click(function(){
+    if(Cpt < (Ech.length-1)) {
+      Cpt++;
+      document.getElementById("pageM").style.fontSize = Ech[Cpt+5];
+    }
+    return(false);
+  });
+  Cpt = 3;
+  var Ech = new Array("20%", "30%", "40%", "50%", "60%", "70%", "80%", "90%", "100%", "110%", "120%", "130%", "140%", "150%", "160%", "170%", "180%");
+  jQuery("#oni_dev-acc").click(function(){
+    J(".blocAfficheCache").css( "display", "block");
+    J(".titreBlocDetail").removeClass("titreBlocDetailBackGround");
+    J(".titreBlocDetail").addClass("titreBlocDetailBackGround2");
+    return(false);
+  });
+  J("#oni_red-acc").click(function(){
+    J(".blocAfficheCache").css( "display", "none");
+    J(".titreBlocDetail").removeClass("titreBlocDetailBackGround2");
+    J(".titreBlocDetail").addClass("titreBlocDetailBackGround");
+    return(false);
+  });
+  });
+</script>
+<!-- fin pour dialogs -->
+<script type="text/javascript" src="http://www.intercariforef.org/formations/jquery/fancybox/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+<script type="text/javascript" src="http://www.intercariforef.org/formations/jquery/fancybox/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.intercariforef.org/formations/jquery/fancybox/fancybox/jquery.fancybox-1.3.4.css" media="screen" />
+
+
+      <script type="text/javascript">
+  // J(function() {
+  //      J('.LiensAouvrirEnPopup a').lightBox();
+  //  });
+
+      J(document).ready(function() {
+
+        J(".LiensAouvrirEnPopup a").fancybox({
+          'width'     : '75%',
+          'height'      : '75%',
+          'autoScale'     : false,
+          'transitionIn'    : 'none',
+          'transitionOut'   : 'none',
+          'type'        : 'iframe'
+        });
+
+        J(".LiensAouvrirEnPopupReduite a").fancybox({
+          'width'     : '50%',
+          'height'      : '75%',
+          'autoScale'     : false,
+          'transitionIn'    : 'none',
+          'transitionOut'   : 'none',
+          'type'        : 'iframe'
+        });
+
+        // pour afficher /cacher les blocs des pages de detail
+        J('.clickable').click(function(index) {
+          AfficheCacheBlock(J(this).attr("url"));
+        });
+        J('#cookieChoiceDismiss').click(function(index) {
+          J("#cookieChoiceInfo").css( "display", "none");
+          var reponse  = Requete('http://www.intercariforef.org/formations/accept_cookies_ajax.php?ok', 'Text');
+
+        });
+      });
+    </script>
+
+  <script type="text/javascript" src="http://www.intercariforef.org/formations/map/jquery.maphilight.min.js"></script>
+<script type="text/javascript">
+J(function() {
+J(".map").maphilight({fade: false});
+});
+  J.fn.maphilight.defaults = {
+  fill: true,
+  fillColor: '000000',
+  fillOpacity: 0.6,
+  stroke: true,
+  strokeColor: '909193',
+  strokeOpacity: 0.9,
+  strokeWidth: 2,
+  fade: true,
+  alwaysOn: false,
+  neverOn: false,
+  groupBy: false,
+  allMapsEnabled:true,
+
+  wrapClass: true,
+  shadow: false,
+  shadowX: 0,
+  shadowY: 0,
+  shadowRadius: 6,
+  shadowColor: '000000',
+  shadowOpacity: 0.8,
+  shadowPosition: 'outside',
+  shadowFrom: false
+  }
+
+  </script>
+<!-- pour Google analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-8273590-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<style>
+
+@import url("http://www.intercariforef.org/reseau/modules/system/system.menus.css?ms4zyz");
+</style>
+
+
+<style>@import url("http://www.intercariforef.org/reseau/sites/all/libraries/superfish/css/superfish.css?ms4zyz");
+@import url("http://www.intercariforef.org/reseau/sites/all/libraries/superfish/style/default.css?ms4zyz");</style>
+
+<style media="screen">@import url("http://www.intercariforef.org/reseau/sites/all/themes/adaptivetheme/at_core/css/at.settings.style.headings.css?ms4zyz");
+
+@import url("http://www.intercariforef.org/reseau/sites/all/themes/adaptivetheme/at_core/css/at.layout.css?ms4zyz");</style>
+
+<style>@import url("http://www.intercariforef.org/reseau/sites/all/themes/at-commerce/css/styles.base.css?ms4zyz");
+@import url("http://www.intercariforef.org/reseau/sites/all/themes/at-commerce/css/styles.modules.css?ms4zyz");
+@import url("http://www.intercariforef.org/reseau/sites/default/files/color/intercarif-a30d6795/colors.css?nlppdj");
+@import url("http://www.intercariforef.org/reseau/sites/all/themes/intercarif/css/intercarif.css?ms4zyz");
+</style>
+<link type="text/css" rel="stylesheet" href="http://www.intercariforef.org/reseau/sites/default/files/adaptivetheme/intercarif_files/intercarif.responsive.layout.css?ms4zyz" media="only screen" />
+<style media="screen">@import url("http://www.intercariforef.org/reseau/sites/default/files/adaptivetheme/intercarif_files/intercarif.fonts.css?ms4zyz");
+</style>
+
+  <script type="text/javascript">
+
+    (function(a){a.fn.tinyTips=function(h,b){if(h==="null"){h="light"}var d=h+"Tip";var c='<div class="'+d+'"><div class="content"></div><div class="bottom">&nbsp;</div></div>';var e=300;var f;var g;a(this).hover(function(){a("body").append(c);var k="div."+d;f=a(k);f.hide();if(b==="title"){var i=a(this).attr("title")}else{if(b!=="title"){var i=b}}a(k+" .content").html(i);g=a(this).attr("title");a(this).attr("title","");var m=f.height()+2;var j=(f.width()/2)-(a(this).width()/2)-100;var n=a(this).offset();var l=n;l.top=n.top-m;l.left=n.left-j;f.css("position","absolute").css("z-index","1000");f.css(l).fadeIn(e)},function(){a(this).attr("title",g);f.fadeOut(e,function(){a(this).remove()})})}})(jQuery);
+
+
+
+    J(document).ready(function() {
+      J('a.tTip').tinyTips('light', 'title');
+    });
+
+  </script>
+  <style>
+
+    .lightTip           { width: 342px; }
+    .lightTip .content  { width: 310px; padding: 10px; border: 2px solid #E6AF30; -moz-border-radius: 5px; -webkit-border-radius: 5px; background: #ffffff; color: #000000; }
+
+  </style>
+
+</head>
+
+<body  class="hl-l" onload=" load();">
+ <!-- initAccordion();  -->
+
+  <!-- fichier XML : http://www.intercariforef.org/serviceweb/offre-info-organisme/?versionLHEO=2.2&region2016&retourneEligibiliteCpf&formationsNationales&numeroOrganisme=24_1121930 -->
+<div id="cookieChoiceInfo" class="cookie-choices-info singleton-element">
+  <div class="cookie-choices-inner">
+    <span class="cookie-choices-text">Ce site utilise des cookies provenant de Google afin de fournir ses services et analyser le trafic. Les informations relatives à votre utilisation du site sont partagées avec Google. En utilisant ce site, vous acceptez l'utilisation des cookies.</span>
+    <span class="cookie-choices-buttons"><a class="cookie-choices-button" target="_blank" href="https://www.blogger.com/go/blogspot-cookies">En savoir plus</a><a class="cookie-choices-button" href="#" id="cookieChoiceDismiss">OK&nbsp;!</a></span>
+  </div>
+</div>
+
+
+<div id="global">
+        <div id="page-wrapper">
+  <div id="page" class="page snc-n snw-n sna-l sns-n ssc-n ssw-n ssa-l sss-n btc-n btw-b bta-l bts-n ntc-n ntw-b nta-l nts-n ctc-n ctw-b cta-l cts-n ptc-n ptw-b pta-l pts-n">
+
+
+    <div id="header-wrapper">
+        <div id="header-top" ><!--  ajoute a la main par raphael pazdzior -->
+      <div class="container clearfix">
+        <header class="clearfix">
+<div id="lienExtra"><a href="http://www.intercariforef.org/extranet"><img src="http://www.intercariforef.org/formations/images/espace_reserve.gif" alt="Espace r&eacute;serv&eacute;" /></a></div>
+                      <!-- start: Branding -->
+            <div id="branding" class="branding-elements clearfix with-logo with-site-name with-site-slogan">
+
+                              <div id="logo">
+                  <a href="/reseau/" title="Page d&#039;accueil" class="active"><img class="site-logo image-style-none" typeof="foaf:Image" src="http://www.intercariforef.org/reseau/sites/default/files/logo.png" alt="Le portail interr&eacute;gional formation emploi" /></a>                </div>
+
+                              <!-- start: Site name and Slogan hgroup -->
+                <hgroup id="name-and-slogan" id="name-and-slogan">
+
+                                      <h1 id="site-name" id="site-name"><a href="/reseau/" title="Page d&#039;accueil" class="active">Le portail interr&eacute;gional formation emploi</a></h1>
+
+                                      <h2 id="site-slogan" id="site-slogan">Des ressources et des outils au service des acteurs et des professionnels.</h2>
+
+                </hgroup><!-- /end #name-and-slogan -->
+            </div><!-- /end #branding -->
+
+          <div class="region region-header"><div class="region-inner clearfix"><div id="block-search-form" class="block block-search no-title odd first last block-count-2 block-region-header block-form"  role="search"><div class="block-inner clearfix">
+
+  </div></div></div></div>
+<!--maj 150715 -->
+<div id="menu-wrapper">
+<div id="menu-bar" class="nav clearfix">
+<nav id="block-superfish-1" class="block block-superfish no-title menu-wrapper menu-bar-wrapper clearfix odd first last block-count-3 block-region-menu-bar block-1" >
+
+  <ul id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-default sf-total-items-5 sf-parent-items-5 sf-single-items-0">
+<li id="menu-798-1" class="first odd sf-item-1 sf-depth-1 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent">
+<span title="" class="sf-depth-1 menuparent nolink">Le réseau</span>
+<ul>
+<li id="menu-1080-1" class="first odd sf-item-1 sf-depth-2 sf-no-children">
+<a href="/reseau/page/les-missions-des-carif-oref" class="sf-depth-2">Les missions des Carif-Oref</a>
+</li>
+<li id="menu-1050-1" class="middle even sf-item-2 sf-depth-2 sf-no-children">
+<a href="/reseau/thématiques/l’association-du-réseau-des-carif-oref" title="" class="sf-depth-2">L&#039;association</a>
+</li>
+<li id="menu-1081-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children">
+<a href="/reseau/reseau-carif-oref" title="" class="sf-depth-2">La carte des Carif-Oref</a>
+</li>
+<li id="menu-1074-1" class="last even sf-item-4 sf-depth-2 sf-no-children">
+<a href="/reseau/page/les-partenariats-de-lassociation" class="sf-depth-2">Les partenariats de l&#039;association</a>
+</li>
+</ul>
+</li>
+<li id="menu-1082-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-3 sf-parent-children-1 sf-single-children-2 menuparent">
+<span title="" class="sf-depth-1 menuparent nolink">S&#039;informer</span>
+<ul>
+<li id="menu-1302-1" class="first odd sf-item-1 sf-depth-2 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent">
+<a href="/reseau/thématiques/offre-de-formation-professionnelle" title="" class="sf-depth-2 menuparent">Offre de formation</a>
+<ul>
+<li id="menu-778-1" class="first odd sf-item-1 sf-depth-3 sf-no-children">
+<a href="http://www.intercariforef.org/formations/recherche-formations.html" title="" class="sf-depth-3">Formations</a>
+</li>
+<li id="menu-975-1" class="middle even sf-item-2 sf-depth-3 sf-no-children">
+<a href="http://www.intercariforef.org/formations/recherche-organismes.html" title="" class="sf-depth-3">Organismes</a>
+</li>
+<li id="menu-976-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children">
+<a href="http://www.intercariforef.org/formations/recherche-certifications.html" title="" class="sf-depth-3">Titres et diplômes</a>
+</li>
+<li id="menu-977-1" class="last even sf-item-4 sf-depth-3 sf-no-children">
+<a href="http://www.intercariforef.org/formations/recherche-habilitations.html" title="" class="sf-depth-3">Habilitations</a>
+</li>
+</ul>
+</li>
+<li id="menu-1083-1" class="middle even sf-item-2 sf-depth-2 sf-no-children">
+<a href="/reseau/page/les-espaces-ressources" class="sf-depth-2">Espaces ressources</a>
+</li>
+<li id="menu-1079-1" class="last odd sf-item-3 sf-depth-2 sf-no-children">
+<a href="/reseau/thématiques/information-grand-public" title="" class="sf-depth-2">Information grand public</a>
+</li>
+</ul>
+</li>
+<li id="menu-1060-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent">
+<span title="" class="sf-depth-1 menuparent nolink">Observer et Analyser</span>
+<ul>
+<li id="menu-2266-1" class="first odd sf-item-1 sf-depth-2 sf-no-children">
+<a href="/reseau/thématiques/analyse-des-parcours-des-individus" title="" class="sf-depth-2">Analyse des parcours</a>
+</li>
+<li id="menu-2268-1" class="last even sf-item-2 sf-depth-2 sf-no-children">
+<a href="/reseau/thématiques/anticipation-des-mutations-économiques" title="" class="sf-depth-2">Prospective et anticipation</a>
+</li>
+</ul>
+</li>
+<li id="menu-1085-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent">
+<span title="" class="sf-depth-1 menuparent nolink">Professionnaliser</span>
+<ul>
+<li id="menu-2815-1" class="first odd sf-item-1 sf-depth-2 sf-no-children">
+<a href="/reseau/thématiques/professionnalisation-des-acteurs" title="" class="sf-depth-2">Professionnalisation des acteurs</a>
+</li>
+<li id="menu-1086-1" class="middle even sf-item-2 sf-depth-2 sf-no-children">
+<a href="/reseau/thématiques/animation-des-réseaux" title="" class="sf-depth-2">Animation des réseaux</a>
+</li>
+<li id="menu-2269-1" class="last odd sf-item-3 sf-depth-2 sf-no-children">
+<a href="/reseau/thématiques/service-public-régional-de-lorientation" title="" class="sf-depth-2">Service public régional de l&#039;orientation</a>
+</li>
+</ul>
+</li>
+<li id="menu-1088-1" class="last odd sf-item-5 sf-depth-1 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent">
+<span title="" class="sf-depth-1 menuparent nolink">Appui et expertise</span>
+<ul>
+<li id="menu-2270-1" class="first odd sf-item-1 sf-depth-2 sf-no-children">
+<a href="/reseau/thématiques/cprdfp" title="" class="sf-depth-2">CPRDFP</a>
+</li>
+<li id="menu-1089-1" class="last even sf-item-2 sf-depth-2 sf-no-children">
+<a href="/reseau/thématiques/crefop" title="" class="sf-depth-2">CREFOP</a>
+</li>
+</ul>
+</li>
+</ul>
+  </nav>
+</div>
+</div>
+<!--fin maj 150715 -->
+        </header>
+      </div>
+
+    </div>
+    </div>
+    <br /><br /> <!--  ajoute a la main par raphael pazdzior -->
+
+
+
+    <div id="pageM">
+  <div id="ventre">
+
+  <ul id="nav_onglets">
+    <li><a href="http://www.intercariforef.org/formations/lutte-contre-lillettrisme-aplis/3w-academy/formation-14_AF_0000014918_SE_0000069358.html" title="Voir la fiche formation"><span class="cacheDefaut">Voir la fiche de la </span>Formation</a> </li>
+    <li class="onglet_act">Organisme</li>
+      </ul>
+
+  <div id="content_onglet" itemscope itemtype="http://data-vocabulary.org/Organization">
+
+  <div class="EffacePrint" style="float : right; padding-bottom: 20px;">
+    <a href="#" id="oni_inc-font">Agrandir</a> /
+<a href="#" id="oni_dec-font">R&eacute;duire</a>
+  </div>
+  <div class="EffacePrint" style="float : left;">
+    <a href="#" id="oni_dev-acc">D&eacute;velopper</a> /
+<a href="#" id="oni_red-acc">R&eacute;duire</a> les contenus
+  </div>
+  <div class="spacer"></div>
+
+
+
+            <div class="titreFormationContainer">
+        <h1 class="titreFormation" itemprop="name">3w academy</h1>
+      </div>
+
+      <div class="onglet_bloc">
+<div style="padding-right: 20px">
+Raison sociale : 3w academy<br /><br />
+<div itemprop="address" itemscope="itemscope" itemtype="http://data-vocabulary.org/Address">
+<span itemprop="street-address">46 rue René Clair<br /></span>
+<span itemprop="postal-code">75018</span>
+<span itemprop="locality">Paris</span>
+</div><br />
+T&eacute;l : <span itemprop="tel">01 46 06 45 14</span><br />
+<script type="text/javascript">m_a_i_l_trompe_robot("contact", "3wa.fr", "Contacter l'organisme");</script><br />
+<br />
+Site Internet : <a href="https://3wa.fr/" target="_blank"><span itemprop="url">https://3wa.fr/</span></a><br />
+<a href="http://www.espace-competences.org/fr/espace-pro/accueil/offres-de-formation/1121930.aspx" target="_blank">Voir la fiche d&eacute;taill&eacute;e sur le site du Carif</a><br />
+<br /><strong>Informations juridiques :</strong><br />
+<div class="detailDecalage1">
+<span class="titreInfo">Siret : </span>75404770200024<br />
+<span class="titreInfo">Enregistrée sous le numéro : </span>11754910875<br />
+Cet enregistrement ne vaut pas agrément de l'État.<br /></div>
+</div>
+<div>
+  <!-- Affichage de la carte Google map -->
+  <div id="map" style="height: 350px; width: 350px;"></div>
+    <span itemprop="geo" itemscope="itemscope"  itemtype="http://data-vocabulary.org/Geo/">
+      <meta itemprop="latitude" content="48.8917007446289" />
+      <meta itemprop="longitude" content="2.3510000705719" />
+    </span>
+</div>
+<div style="clear: both"></div>
+</div>
+<div id="title_ACB_DomainesFormation" class="titreBlocDetail titreBlocDetailBackGround clickable" url="ACB_DomainesFormation">
+Domaines de formation
+</div>
+<div id="ACB_DomainesFormation" class="blocAfficheCache" >
+<div class="DomaineFormation">Information, communication: </div>
+<div class="SsDomaineFormation">
+Informatique <a class="tTip EffacePrint" href="#" title="Traitement automatique de l'information."><img src="http://www.intercariforef.org/formations/images/info.png" style="vertical-align:middle;" width="20" height="20" alt="Info" /></a></div>
+
+</div>
+<div id="title_ACB_DetailFormations" class="titreBlocDetail titreBlocDetailBackGround clickable" url="ACB_DetailFormations">
+Liste des 32 formations programm&eacute;es
+</div>
+<div id="ACB_DetailFormations" class="blocAfficheCache" >
+<div class="LienFormAF2pdf LiensAouvrirEnPopup">
+</ul>OREF Alsace : <br /><ul><li><a href="http://www.intercariforef.org/formations/fpc-developpeur-integrateur-web/3w-academy/formation-01_10464_23271.html?popup" title="FPC Développeur Intégrateur web">FPC Développeur Intégrateur web</a> (Strasbourg)</li>
+<li><a href="http://www.intercariforef.org/formations/fpc-developpeur-integrateur-web/3w-academy/formation-01_10464_23272.html?popup" title="FPC Développeur Intégrateur web">FPC Développeur Intégrateur web</a> (Strasbourg)</li>
+<li><a href="http://www.intercariforef.org/formations/fpc-developpeur-integrateur-web/3w-academy/formation-01_12380_23276.html?popup" title="FPC Développeur Intégrateur web">FPC Développeur Intégrateur web</a> (Strasbourg)</li>
+</ul>Défi métiers : <br /><ul><li><a href="http://www.intercariforef.org/formations/developpeur-dapplication-mobile-specialisation-ios/3w-academy/formation-14_AF_0000023794_SE_0000088993.html?popup" title="Développeur d'application mobile - spécialisation iOS">Développeur d'application mobile - spécialisation iOS</a> (Paris)</li>
+<li><a href="http://www.intercariforef.org/formations/developpeur-dapplication-mobile-specialisation-ios/3w-academy/formation-14_AF_0000023794_SE_0000088992.html?popup" title="Développeur d'application mobile - spécialisation iOS">Développeur d'application mobile - spécialisation iOS</a> (Paris)</li>
+<li><a href="http://www.intercariforef.org/formations/developpeur-dapplication-mobile-specialisation-ios/3w-academy/formation-14_AF_0000023794_SE_0000088991.html?popup" title="Développeur d'application mobile - spécialisation iOS">Développeur d'application mobile - spécialisation iOS</a> (Paris)</li>
+<li><a href="http://www.intercariforef.org/formations/developpeur-integrateur-en-realisation-dapplications-web/3w-academy/formation-14_AF_0000012534_SE_0000077136.html?popup" title="Développeur intégrateur en réalisation d'applications web">Développeur intégrateur en réalisation d'applications web</a> (Paris)</li>
+<li><a href="http://www.intercariforef.org/formations/developpeur-integrateur-en-realisation-dapplications-web/3w-academy/formation-14_AF_0000012534_SE_0000077135.html?popup" title="Développeur intégrateur en réalisation d'applications web">Développeur intégrateur en réalisation d'applications web</a> (Paris)</li>
+<li><a href="http://www.intercariforef.org/formations/developpeur-integrateur-en-realisation-dapplications-web/3w-academy/formation-14_AF_0000012534_SE_0000069330.html?popup" title="Développeur intégrateur en réalisation d'applications web">Développeur intégrateur en réalisation d'applications web</a> (Paris)</li>
+<li><a href="http://www.intercariforef.org/formations/developpeur-integrateur-en-realisation-dapplications-web/3w-academy/formation-14_AF_0000012534_SE_0000077134.html?popup" title="Développeur intégrateur en réalisation d'applications web">Développeur intégrateur en réalisation d'applications web</a> (Paris)</li>
+<li><a href="http://www.intercariforef.org/formations/developpeur-integrateur-en-realisation-dapplications-web/3w-academy/formation-14_AF_0000012534_SE_0000077137.html?popup" title="Développeur intégrateur en réalisation d'applications web">Développeur intégrateur en réalisation d'applications web</a> (Paris)</li>
+<li><a href="http://www.intercariforef.org/formations/developpeur-integrateur-en-realisation-dapplications-web/3w-academy/formation-14_AF_0000012534_SE_0000077138.html?popup" title="Développeur intégrateur en réalisation d'applications web">Développeur intégrateur en réalisation d'applications web</a> (Paris)</li>
+<li><a href="http://www.intercariforef.org/formations/developpeur-integrateur-en-realisation-dapplications-web/3w-academy/formation-14_AF_0000012534_SE_0000077139.html?popup" title="Développeur intégrateur en réalisation d'applications web">Développeur intégrateur en réalisation d'applications web</a> (Paris)</li>
+<li><a href="http://www.intercariforef.org/formations/developpeur-integrateur-en-realisation-dapplications-web/3w-academy/formation-14_AF_0000012534_SE_0000077141.html?popup" title="Développeur intégrateur en réalisation d'applications web">Développeur intégrateur en réalisation d'applications web</a> (Paris)</li>
+<li><a href="http://www.intercariforef.org/formations/developpeur-integrateur-en-realisation-dapplications-web/3w-academy/formation-14_AF_0000012534_SE_0000077142.html?popup" title="Développeur intégrateur en réalisation d'applications web">Développeur intégrateur en réalisation d'applications web</a> (Paris)</li>
+<li><a href="http://www.intercariforef.org/formations/developpeur-integrateur-en-realisation-dapplications-web/3w-academy/formation-14_AF_0000012534_SE_0000069353.html?popup" title="Développeur intégrateur en réalisation d'applications web">Développeur intégrateur en réalisation d'applications web</a> (Paris)</li>
+<li><a href="http://www.intercariforef.org/formations/developpeur-integrateur-en-realisation-dapplications-web/3w-academy/formation-14_AF_0000012534_SE_0000069321.html?popup" title="Développeur intégrateur en réalisation d'applications web">Développeur intégrateur en réalisation d'applications web</a> (Paris)</li>
+<li><a href="http://www.intercariforef.org/formations/developpeur-integrateur-en-realisation-dapplications-web/3w-academy/formation-14_AF_0000012534_SE_0000069329.html?popup" title="Développeur intégrateur en réalisation d'applications web">Développeur intégrateur en réalisation d'applications web</a> (Paris)</li>
+<li><a href="http://www.intercariforef.org/formations/developpeur-integrateur-en-realisation-dapplications-web/3w-academy/formation-14_AF_0000012534_SE_0000069328.html?popup" title="Développeur intégrateur en réalisation d'applications web">Développeur intégrateur en réalisation d'applications web</a> (Paris)</li>
+<li><a href="http://www.intercariforef.org/formations/developpeur-integrateur-en-realisation-dapplications-web/3w-academy/formation-14_AF_0000012534_SE_0000069327.html?popup" title="Développeur intégrateur en réalisation d'applications web">Développeur intégrateur en réalisation d'applications web</a> (Paris)</li>
+<li><a href="http://www.intercariforef.org/formations/developpeur-integrateur-en-realisation-dapplications-web/3w-academy/formation-14_AF_0000012534_SE_0000069326.html?popup" title="Développeur intégrateur en réalisation d'applications web">Développeur intégrateur en réalisation d'applications web</a> (Paris)</li>
+<li><a href="http://www.intercariforef.org/formations/developpeur-integrateur-en-realisation-dapplications-web/3w-academy/formation-14_AF_0000012534_SE_0000069318.html?popup" title="Développeur intégrateur en réalisation d'applications web">Développeur intégrateur en réalisation d'applications web</a> (Paris)</li>
+<li><a href="http://www.intercariforef.org/formations/developpeur-integrateur-en-realisation-dapplications-web/3w-academy/formation-14_AF_0000012534_SE_0000069320.html?popup" title="Développeur intégrateur en réalisation d'applications web">Développeur intégrateur en réalisation d'applications web</a> (Paris)</li>
+<li><a href="http://www.intercariforef.org/formations/developpeur-integrateur-en-realisation-dapplications-web/3w-academy/formation-14_AF_0000012534_SE_0000069319.html?popup" title="Développeur intégrateur en réalisation d'applications web">Développeur intégrateur en réalisation d'applications web</a> (Paris)</li>
+<li><a href="http://www.intercariforef.org/formations/developpeur-web-specialisation-symfony/3w-academy/formation-14_AF_0000014918_SE_0000069358.html?popup" title="Développeur Web - spécialisation Symfony">Développeur Web - spécialisation Symfony</a> (Paris)</li>
+<li><a href="http://www.intercariforef.org/formations/developpeur-web-specialisation-symfony/3w-academy/formation-14_AF_0000014918_SE_0000069357.html?popup" title="Développeur Web - spécialisation Symfony">Développeur Web - spécialisation Symfony</a> (Paris)</li>
+</ul>CARIF OREF Pays de la Loire : <br /><ul><li><a href="http://www.intercariforef.org/formations/developpeur-integrateur-en-realisation-dapplications-web/3w-academy/formation-21_4566_4566.html?popup" title="Développeur intégrateur en réalisation d'applications web">Développeur intégrateur en réalisation d'applications web</a> (Nantes)</li>
+<li><a href="http://www.intercariforef.org/formations/titre-professionnel-developpeureuse-logiciel/3w-academy/formation-21_41241_41241.html?popup" title="Titre professionnel développeur(euse) logiciel">Titre professionnel développeur(euse) logiciel</a> (Nantes)</li>
+<li><a href="http://www.intercariforef.org/formations/titre-professionnel-developpeureuse-logiciel/3w-academy/formation-21_43497_43497.html?popup" title="Titre professionnel développeur(euse) logiciel">Titre professionnel développeur(euse) logiciel</a> (Nantes)</li>
+</ul>GIP Espace Compétences - CARIF PACA : <br /><ul><li><a href="http://www.intercariforef.org/formations/titre-professionnel-developpeureuse-logiciel/3w-academy/formation-24_137336_1346709.html?popup" title="Titre professionnel développeur(euse) logiciel">Titre professionnel développeur(euse) logiciel</a> (Marseille 3e)</li>
+<li><a href="http://www.intercariforef.org/formations/titre-professionnel-developpeureuse-logiciel-ccp-1-developper-une-application-client-serveur/3w-academy/formation-24_137335_1346706.html?popup" title="Titre professionnel développeur(euse) logiciel - CCP 1 : développer une application client-serveur">Titre professionnel développeur(euse) logiciel - CCP 1 : développer une application client-serveur</a> (Marseille 3e)</li>
+</ul>Pôle Rhône-Alpes de l'Orientation (PRAO) : <br /><ul><li><a href="http://www.intercariforef.org/formations/titre-professionnel-developpeureuse-logiciel/3w-academy/formation-26_83380_112952_5795.html?popup" title="Titre professionnel développeur(euse) logiciel">Titre professionnel développeur(euse) logiciel</a> (Villeurbanne)</li>
+</ul>
+</div>
+
+</div>
+    </div> <!-- content_onglet-->
+
+
+  </div> <!--ventre -->
+
+  <div id="colonneChoix" class="EffacePrint">
+
+    <div class="annexeAction">
+    <ul>
+                <li><a href="http://www.intercariforef.org/formations/recherche-organismes.html" title="Effectuer une nouvelle recherche"><img src="http://www.intercariforef.org/formations/images/icon_rechercher.png" alt="Effectuer une nouvelle recherche" />Nouvelle recherche</a></li>
+    </ul>
+  </div>
+
+    <div class="annexeAction">
+    <ul>
+      <li>
+       <a href="javascript:window.print()" title="Imprimer cette page"><img src="http://www.intercariforef.org/formations/images/icon_imprimer.png" alt="Imprimer" />Imprimer</a>
+      </li>
+
+            <li><a href="http://www.intercariforef.org/formations/envoi-mail.html?urlOrg=/formations/3w-academy/organisme-24_1121930.html" title="Envoyer cette fiche par e-mail"><img src="http://www.intercariforef.org/formations/images/icon_mail.png" alt="Envoyer cette fiche par e-mail" />Envoyer cette fiche par e-mail</a></li>
+
+
+      <li><a href="http://www.intercariforef.org/formations/pdf/detail_html2pdf.php?IdOrg=24_1121930" title="T&eacute;l&eacute;charger une version PDF"><img src="http://www.intercariforef.org/formations/images/icon_excel.png" alt="T&eacute;l&eacute;charger une version PDF" />Exporter au format PDF</a></li>
+
+    </ul>
+  </div>
+
+  <div class="annexeAction">
+    <ul>
+      <li>
+        <input type="checkbox" id="panier" onclick="PanierAjax('panierOF', '24_1121930', 'http://www.intercariforef.org/formations/')" />
+<label for="panier">Ajouter au panier</label>
+      </li>
+      <li><a href="http://www.intercariforef.org/formations/panier.html" title="Consulter votre panier"><img src="http://www.intercariforef.org/formations/images/icon_voir_panier.png" alt="Afficher les fiches s&eacute;lectionn&eacute;es" />Consulter votre panier</a></li>
+    </ul>
+  </div>
+
+  <div class="annexeAction" style="padding-top: 5px;">
+<ul>
+<li>
+Information fournie par :<br /><a href="http://www.espace-competences.org" target="_blank">GIP Espace Compétences - CARIF PACA</a></li>
+<li style="text-align: center">
+<img style="max-width: 200px;" src="http://www.intercariforef.org/images/photos/0004/img_1230111308986.gif" alt="logo carif" />
+</li>
+<li>
+T&eacute;l&eacute;phone : 04 42 82 43 20</li>
+<li>
+<script type="text/javascript">m_a_i_l_trompe_robot("contact", "espace-competences.org", "Contacter le Carif");</script><br />
+</li>
+</ul>
+<p>&nbsp;</p><!-- pour ie7 sinon ca pose probleme pour les li qui font plus d'une ligne -->
+</div>
+
+  </div>
+
+
+
+
+
+      <div style="clear : both"></div>
+
+  </div>
+
+  <div id="dialog" class="popupJquery" title="Cr&eacute;dits et aspects l&eacute;gaux">
+    <p>Cr&eacute;dits 2015 &copy; R&eacute;seau Carif-Oref - Tous droits r&eacute;serv&eacute;s.</p>
+  </div>
+
+    <div class="menubas">
+    <div class="menubas-container">
+      <div><a href="http://www.intercariforef.org/formations/annuaire-formation.html">Annuaire des formations</a></div>
+      <div><a href="http://www.intercariforef.org/formations/annuaire-certification.html">Annuaire des certifications</a></div>
+      <div class="LiensAouvrirEnPopupReduite"><a href="http://www.intercariforef.org/formations/formulaire_contact.html" style="font-size: 1em !important;" title="Contacts">Vos Remarques</a></div>
+      <div><a href="#credit" id="credit" onclick="J('#dialog').dialog('open'); return false;">Cr&eacute;dits et aspects l&eacute;gaux</a></div>
+    </div>
+  </div>
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,12 @@
+Authentication as service to cpa api...
+Authentication as service to cpa api...DONE
+7b9dc37963f164ac33c34e45be1ba2b24cb9242eedabe016768b7f0163dc61f81fe5e6686584b2e0bd6ffb2de08c66b9
+map[FormAdvisor:0f805b84d520296f9954316e6f0b360b7a9bad5811d46d5788b2223b0e33469036262b7742357c4ae04e78559b5079b7]
+map[Establishments:092f8b552acf81da88c39c0a11bfb863 Formations:15b2be05ad279183ab6b8a0763dd834c]
+Start post csv data...
+Csv data parsed
+JSON data parsed
+Post request at  http://api-cpa.herokuapp.com/api/v1/services/0f805b84d520296f9954316e6f0b360b7a9bad5811d46d5788b2223b0e33469036262b7742357c4ae04e78559b5079b7/relationships/collections/092f8b552acf81da88c39c0a11bfb863/relationships/donnees/
+Post request DONE
+Post to collections failed:  map[Access-Control-Allow-Credentials:[true] Cache-Control:[private, must-revalidate, max-age=0] Expires:[Thu, 01 Jan 1970 00:00:00] Content-Length:[351] Vary:[Origin] Access-Control-Expose-Headers:[Range,Content-Range,X-Content-Range] Access-Control-Allow-Origin:[*] Access-Control-Allow-Methods:[GET, POST, PATCH, DELETE, OPTIONS] Access-Control-Allow-Headers:[] Etag:[W/"15f-bqFQdB8l3npHQmYiIbvNuA"] Server:[Cowboy] Set-Cookie:[connect.sid=s%3ArKdq_SBgqEWkM7tblqhVtJU0YJ54Qm9p.S4WhErc3619%2B4LtCtq2fnhvLsCV%2FRgdUZMJYChUc6Zs; Path=/; Expires=Wed, 14 Sep 2016 19:27:42 GMT; HttpOnly] Connection:[keep-alive] Date:[Wed, 14 Sep 2016 19:22:42 GMT] Via:[1.1 vegur] Content-Type:[application/vnd.api+json; charset=utf-8]] &{0xc20802b500 {0 0} false <nil> 0xa6c40 0xa6bd0} &{POST http://api-cpa.herokuapp.com/api/v1/services/0f805b84d520296f9954316e6f0b360b7a9bad5811d46d5788b2223b0e33469036262b7742357c4ae04e78559b5079b7/relationships/collections/092f8b552acf81da88c39c0a11bfb863/relationships/donnees/ HTTP/1.1 1 1 map[Content-Type:[application/x-www-form-urlencoded]] {0xc208198450} 286 [] false api-cpa.herokuapp.com map[] map[] <nil> map[]   <nil>}
+Server listening on port: 8080

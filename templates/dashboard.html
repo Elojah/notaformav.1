@@ -1,0 +1,308 @@
+<!--
+                                                          :::      ::::::::
+     dashboard.html                                     :+:      :+:    :+:
+                                                      +:+ +:+         +:+
+     By: hdezier <hdezier@student.42.fr>            +#+  +:+       +#+
+                                                  +#+#+#+#+#+   +#+
+     Created: 2016/11/26 16:16:22 by hdezier           #+#    #+#
+     Updated: 2016/12/07 20:50:55 by hdezier          ###   ########.fr
+-->
+   <!DOCTYPE html>
+   <html lang="fr">
+   <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content=""/> <!-- A check pour le referencement -->
+    <title>Dashboard</title>
+    <link rel="stylesheet" type="text/css" href="static/css/home.css">
+    <link href="/static/css/common.css" rel="stylesheet">
+    <link href="/static/css/semantic.min.css" rel="stylesheet">
+    <link rel="icon" type="image/png" href="static/img/NF.png">
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  </head>
+  <body class="body-bottom">
+    {{template "header" .UserInfo}}
+    <!-- Page Contents -->
+    <div class="pusher">
+     <div class="ui container">
+      <h1 class="ui dividing header">
+       <img class="ui image" src="/static/img/dashboard.png">
+       <div class="content">
+        Dashboard
+      </div>
+    </h1>
+    <div class="ui top attached tabular menu">
+     <a class="active item" data-tab="stats">Statistiques</a>
+     <a class="item" data-tab="edit-organism">Éditer la page organisme</a>
+     <a class="item" data-tab="edit-formations">Éditer les pages formations</a>
+     <a class="item" data-tab="certif">Certifier des utilisateurs</a>
+     <a class="item" data-tab="edit-criteria">Gérer les critères utilisateurs</a>
+   </div>
+   <div class="ui bottom attached active tab segments" data-tab="stats">
+     <h3 class="ui header">
+      <img class="ui image" src="/static/img/stats.png">
+      <div class="content">
+       Statistiques
+     </div>
+   </h3>
+   <div class="ui segment centered padded grid fluid">
+    <div class="row fluid" style="min-height: 240px;">
+     <div class="ui four wide column">
+      <h4>Votre organisme a été évalué par {{.Data.OrganismModel.NComments}} personnes</h4>
+      <h4 class="colorgrey">{{.Data.OrganismModel.NComments}} avis publics déposés</h4>
+      <h4 class="colorturquoise">0 avis certifiés déposés</h4>
+    </div>
+    <div class="ui twelve wide column" id="chart_div_rating"></div>
+  </div>
+</div>
+<div class="ui segment" id="chart_div_ncom"></div>
+<div class="ui segment two column centered padded grid">
+  <div class="ui column">
+   <h4 class="ui dividing header">Formations les plus appreciées</h4>
+   <a href="formation/id" class="ui segment floated left colorturquoise">
+    Technicien électrique
+    <div class="ui rating disable three column" data-rating="4" data-max-rating="5"></div>
+  </a>
+  <a href="formation/id" class="ui segment floated left colorturquoise">
+    Préparation au TOSA
+    <div class="ui rating disable three column" data-rating="4" data-max-rating="5"></div>
+  </a>
+</div>
+<div class="ui column">
+ <h4 class="ui dividing header">Formations les moins appreciées</h4>
+ <a href="formation/id" class="ui segment floated left colorturquoise">
+  Développeur PHP
+  <div class="ui rating disable three column" data-rating="1" data-max-rating="5"></div>
+</a>
+<a href="formation/id" class="ui segment floated left colorturquoise">
+  BP esthétique, cosmétique, parfumerie
+  <div class="ui rating disable three column" data-rating="2" data-max-rating="5"></div>
+</a>
+</div>
+</div>
+</div>
+<div class="ui bottom attached tab segment" data-tab="edit-organism">
+ <h3 class="ui dividing header">
+  <img class="ui image" src="/static/img/organism.png">
+  <div class="content">
+   Éditer la page organisme
+ </div>
+</h3>
+<div class="ui segment padded grid fluid" id="response-info"></div>
+<div class="ui segment padded grid fluid">
+  <div class="row fluid">
+   <button class="ui teal button" id="showScrollImages">
+    Modifier les images
+    <i class="right dropdown icon"></i>
+  </button>
+  <div class="ui four cards transition hidden" id="image-editor">
+    <div class="card">
+     <div class="image">
+      <img class="ui image" src="/static/img/demo/42example.jpg">
+    </div>
+    <div class="extra">
+      <h4>
+       Locaux
+     </h4>
+     <i class="edit icon"></i><i class="remove icon"></i>
+   </div>
+ </div>
+ <div class="card">
+   <div class="image">
+    <img class="ui image" src="/static/img/demo/42example.jpg">
+  </div>
+  <div class="extra">
+    <h4>
+     Enseignants
+   </h4>
+   <i class="edit icon"></i><i class="remove icon"></i>
+ </div>
+</div>
+<div class="card">
+ <div class="image">
+  <img class="ui image" src="/static/img/demo/42example.jpg">
+</div>
+<div class="extra">
+  <h4>
+   Postes
+ </h4>
+ <i class="edit icon"></i><i class="remove icon"></i>
+</div>
+</div>
+<div class="card">
+ <div class="image">
+  <img class="ui image" src="/static/img/demo/42example.jpg">
+</div>
+<div class="extra">
+  <h4>
+   Salle de conférence
+ </h4>
+ <i class="edit icon"></i><i class="remove icon"></i>
+</div>
+</div>
+<div class="card">
+ <div class="image">
+  <img class="ui image" src="/static/img/demo/42example.jpg">
+</div>
+<div class="extra">
+  <h4>
+   Cantine
+ </h4>
+ <i class="edit icon"></i><i class="remove icon"></i>
+</div>
+</div>
+<h4> Ajouter une image <i class="add icon"></i></h4>
+</div>
+</div>
+<div class="row fluid">
+ <h4 class="ui dividing header">
+  <img class="ui image" src="/static/img/text-edit.png">
+  <div class="content">
+   Éditer le contenu
+ </div>
+</h4>
+</div>
+<div class="rows ui form ten wide column">
+ <div class="field">
+  <label>Nom de l'organisme</label>
+  <div class="ui action input">
+   <input value="{{.Data.OrganismModel.Name}}" type="text" id="edit-field-name">
+   <button class="ui teal right labeled icon button" onclick="EditInfo('name')">
+    <i class="edit icon"></i>
+    Modifier
+  </button>
+</div>
+</div>
+<div class="field">
+ <label>Raison sociale</label>
+ <div class="ui action input">
+   <input value="{{.Data.OrganismModel.CorporateName}}" type="text" id="edit-field-corporatename">
+   <button class="ui teal right labeled icon button" onclick="EditInfo('corporatename')">
+    <i class="edit icon"></i>
+    Modifier
+  </button>
+</div>
+</div>
+<div class="field">
+  <label>Numéro SIRET</label>
+  <div class="ui action input">
+    <input value="{{.Data.OrganismModel.Siret}}" type="text" id="edit-field-siret">
+    <button class="ui teal right labeled icon button" onclick="EditInfo('siret')">
+      <i class="edit icon"></i>
+      Modifier
+    </button>
+  </div>
+</div>
+<div class="field">
+  <label>Adresse</label>
+  <div class="ui action input">
+    <input value="{{.Data.OrganismModel.Contact.Adress.Street}}" type="text" id="edit-field-street">
+    <button class="ui teal right labeled icon button" onclick="EditInfo('street')">
+      <i class="edit icon"></i>
+      Modifier
+    </button>
+  </div>
+</div>
+<div class="field">
+  <label>Code postal</label>
+  <div class="ui action input">
+    <input value="{{.Data.OrganismModel.Contact.Adress.Zip}}" type="text" id="edit-field-zip">
+    <button class="ui teal right labeled icon button" onclick="EditInfo('zip')">
+      <i class="edit icon"></i>
+      Modifier
+    </button>
+  </div>
+</div>
+<div class="field">
+  <label>Ville</label>
+  <div class="ui action input">
+    <input value="{{.Data.OrganismModel.Contact.Adress.Locality}}" type="text" id="edit-field-locality">
+    <button class="ui teal right labeled icon button" onclick="EditInfo('locality')">
+      <i class="edit icon"></i>
+      Modifier
+    </button>
+  </div>
+</div>
+<div class="field">
+  <label>Telephone</label>
+  <div class="ui action input">
+    <input value="{{.Data.OrganismModel.Contact.Tel}}" type="text" id="edit-field-tel">
+    <button class="ui teal right labeled icon button" onclick="EditInfo('tel')">
+      <i class="edit icon"></i>
+      Modifier
+    </button>
+  </div>
+</div>
+<div class="field">
+  <label>Fax</label>
+  <div class="ui action input">
+    <input value="{{.Data.OrganismModel.Contact.Fax}}" type="text" id="edit-field-fax">
+    <button class="ui teal right labeled icon button" onclick="EditInfo('fax')">
+      <i class="edit icon"></i>
+      Modifier
+    </button>
+  </div>
+</div>
+<div class="field">
+  <label>Website</label>
+  <div class="ui action input">
+    <input value="{{.Data.OrganismModel.Contact.Website}}" type="text" id="edit-field-website">
+    <button class="ui teal right labeled icon button" onclick="EditInfo('website')">
+      <i class="edit icon"></i>
+      Modifier
+    </button>
+  </div>
+</div>
+</div>
+</div>
+</div>
+<div class="ui bottom attached tab segment" data-tab="edit-formations">
+  <h3 class="ui dividing header">
+    <img class="ui image" src="/static/img/formation.png">
+    <div class="content">
+      Éditer les pages formations
+    </div>
+  </h3>
+  <div class="ui segment centered padded grid fluid">
+    <div class="ui fluid search selection dropdown" id="formation-selection">
+      <i class="dropdown icon"></i>
+      <div class="default text">Choisissez une formation à éditer</div>
+      <div class="menu">
+        {{ range $i, $value := .Data.FormationsInfo }}
+        <div class="item" data-value="{{ $value.Id }}">{{ $value.Name }}</div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+  <div class="ui segment padded grid fluid" id="response-info-formation"></div>
+  <div class="ui segment centered padded grid fluid" id="formation-edit">
+  </div>
+</div>
+<div class="ui bottom attached tab segment" data-tab="certif">
+  Certifier des utilisateurs
+</div>
+<div class="ui bottom attached tab segment" data-tab="edit-criteria">
+  Gérer les critères utilisateurs
+</div>
+</div>
+<div>
+ {{template "footer"}}
+</div>
+{{template "scripts"}}
+
+<script type="text/javascript" src="/static/js/render.js"></script>
+<script type="text/javascript" src="/static/js/url.js"></script>
+<script type="text/javascript" src="/static/js/formation-select.js"></script>
+<script type="text/javascript" src="/static/js/list.js"></script>
+<script type="text/javascript" src="/static/js/charts.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() {
+    showFormationEdition()
+    $('#showScrollImages').click(function () {
+     ShowHideAndScroll('image-editor', 'image-editor')
+   })
+  })
+</script>
+</body>
+</html>

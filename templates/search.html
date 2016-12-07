@@ -1,0 +1,39 @@
+<!--
+                                                          :::      ::::::::
+     search.html                                        :+:      :+:    :+:
+                                                      +:+ +:+         +:+
+     By: hdezier <hdezier@student.42.fr>            +#+  +:+       +#+
+                                                  +#+#+#+#+#+   +#+
+     Created: 2016/10/08 10:54:09 by hdezier           #+#    #+#
+     Updated: 2016/12/07 17:29:40 by hdezier          ###   ########.fr
+-->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Search</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <link href="/static/css/semantic.min.css" rel="stylesheet">
+  <link href="/static/css/common.css" rel="stylesheet">
+  <link rel="icon" type="image/png" href="static/img/NF.png">
+</head>
+<body class="body-bottom">
+  {{template "header" .}}
+  <div class="pusher">
+    <div class="ui segment">{{template "list-formations"}}</div>
+    {{template "footer"}}
+  </div>
+</body>
+{{template "scripts"}}
+<script type="text/javascript" src="/static/js/url.js"></script>
+<script type="text/javascript" src="/static/js/render.js"></script>
+<script type="text/javascript" src="/static/js/list.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() {
+    init_dropdown_nelem('list-formations');
+    init_list("list-formations", "/api/search/formation", renderFormation, renderSearchFormationPagination)
+    refresh("list-formations", {page: 1, limit:25, sortOrder:null, q:$.urlParam("q")})
+  });
+</script>
+</html>

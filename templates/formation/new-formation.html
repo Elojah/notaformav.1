@@ -1,0 +1,43 @@
+<!--
+                                                          :::      ::::::::
+     new-formation.html                                 :+:      :+:    :+:
+                                                      +:+ +:+         +:+
+     By: hdezier <hdezier@student.42.fr>            +#+  +:+       +#+
+                                                  +#+#+#+#+#+   +#+
+     Created: 2016/09/21 19:17:11 by hdezier           #+#    #+#
+     Updated: 2016/10/09 11:43:21 by hdezier          ###   ########.fr
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Ajouter une formation</title>
+	<link href="/static/css/bootstrap.min.css" rel="stylesheet">
+	<link href="/static/css/common.css" rel="stylesheet">
+	<link rel="icon" type="image/png" href="static/img/favicon.png">
+</head>
+<body>
+	{{template "header"}}
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-md-4">
+				<form action="/formations/new" role="form" method="post">
+					<div class="form-group">
+						<label for="name">
+							Nom de formation
+						</label>
+						<input type="text" class="form-control" id="name" name="name">
+					</div>
+				<input type="submit" class="btn btn-success btn-send" value="Submit">
+				</form>
+			</div>
+			<div class="col-md-4">
+			</div>
+			<div class="col-md-4">
+			</div>
+		</div>
+	</div>
+
+{{template "footer"}}
+</body>
+</html>

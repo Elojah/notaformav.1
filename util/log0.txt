@@ -1,0 +1,234 @@
+{
+  "meta": {
+    "total": 0,
+    "total_pages": 1,
+    "offset": 0,
+    "limit": 25,
+    "count": 0
+  },
+  "data": [
+    {
+      "id": "",
+      "type": "",
+      "attributes": {
+        "name": "FPC DÃ©veloppeur IntÃ©grateur web",
+        "objectives": "La 3W Academy forme des dÃ©veloppeurs-intÃ©grateurs web pour un accÃ¨s direct Ã  l'emploi. A lissue des 3 mois, les Ã©tudiants doivent Ãªtre en mesure de travailler en Ã©quipe avec des webdesigners et des chefs de projet afin de rÃ©aliser des sites Internet modernes, fonctionnels et solides",
+        "programme": [
+          "IntÃ©gration web (112 heures), crÃ©er des sites responsive, crÃ©ation de 7 sites en partant de maquettes, HTML5, CSS",
+          "DÃ©veloppement web (288 heures), crÃ©er des sites dynamiques, crÃ©ation de 10 applications web, Javascript, PHP"
+        ],
+        "validation": [
+          "Titre ou diplÃ´me homologuÃ©"
+        ],
+        "type": [],
+        "outputlevel": "niveau III (BTS, DUT)",
+        "romecode": [
+          ""
+        ],
+        "pedagogicalterms": "",
+        "duration": [
+          "400 heures en centre"
+        ],
+        "workstudyterms": [
+          "La formation ne se dÃ©roule pas en alternance"
+        ],
+        "publicservicecontract": false,
+        "financers": [
+          ""
+        ],
+        "publicaccess": [
+          "Tout public"
+        ],
+        "admissionterm": [
+          ""
+        ],
+        "entrylevel": "niveau IV (BP, BT, baccalaurÃ©at professionnel ou technologique)",
+        "prerequisite": [
+          "Aucune connaissance prÃ©alable de la programmation n'est requise mais une mise Ã  niveau prÃ©alable peut Ãªtre requise aprÃ¨s entretien avec le candidat"
+        ],
+        "location": {
+          "adress": {
+            "street": "",
+            "zip": "",
+            "locality": ""
+          },
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "http://3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": ""
+        },
+        "contact": {
+          "adress": {
+            "street": "",
+            "zip": "",
+            "locality": ""
+          },
+          "tel": "01 40 58 19 72",
+          "fax": "",
+          "website": "http://3wa.fr",
+          "mail": "contact@3wa.fr",
+          "name": "Claire Viguier"
+        },
+        "eligibilityemployee": [
+          {
+            "name": "",
+            "code": "180564",
+            "startperiodvalidity": "13/06/2016",
+            "endperiodvalidity": "31/03/2017",
+            "region": "Toutes les rÃ©gions",
+            "professionalbranch": [
+              {
+                "nafcode": "25.11Z"
+              },
+              {
+                "nafcode": "43.32C"
+              },
+              {
+                "nafcode": "58.12Z"
+              },
+              {
+                "nafcode": "58.21Z"
+              },
+              {
+                "nafcode": "58.29A"
+              },
+              {
+                "nafcode": "58.29B"
+              },
+              {
+                "nafcode": "58.29C"
+              },
+              {
+                "nafcode": "62.01Z"
+              },
+              {
+                "nafcode": "62.02A"
+              },
+              {
+                "nafcode": "62.02B"
+              },
+              {
+                "nafcode": "62.03Z"
+              },
+              {
+                "nafcode": "62.09Z"
+              },
+              {
+                "nafcode": "63.11Z"
+              },
+              {
+                "nafcode": "63.12Z"
+              },
+              {
+                "nafcode": "68.20B"
+              },
+              {
+                "nafcode": "68.32A"
+              },
+              {
+                "nafcode": "70.21Z"
+              },
+              {
+                "nafcode": "70.22Z"
+              },
+              {
+                "nafcode": "71.12B"
+              },
+              {
+                "nafcode": "71.20B"
+              },
+              {
+                "nafcode": "73.20Z"
+              },
+              {
+                "nafcode": "74.30Z"
+              },
+              {
+                "nafcode": "74.90B"
+              },
+              {
+                "nafcode": "78.10Z"
+              },
+              {
+                "nafcode": "78.30Z"
+              },
+              {
+                "nafcode": "82.30Z"
+              },
+              {
+                "nafcode": "90.04Z"
+              }
+            ]
+          },
+          {
+            "name": "TEST",
+            "code": "180564",
+            "startperiodvalidity": "13/06/2016",
+            "endperiodvalidity": "31/03/2017",
+            "region": "2442",
+            "professionalbranch": [
+              {
+                "nafcode": "25.11Z"
+              },
+              {
+                "nafcode": "43.32C"
+              }
+            ]
+          }
+        ],
+        "eligibilityjobseeker": null,
+        "eligibilityall": null,
+        "sessions": [
+          {
+            "startperiodvalidity": "03/10/2016",
+            "endperiodvalidity": "30/12/2016",
+            "adress": {
+              "street": "67000 Strasbourg",
+              "zip": "",
+              "locality": "3 Quai KlÃ©ber c/o Regus, Tour SÃ©bastopol"
+            },
+            "recruitmentstate": "",
+            "terms": "Dispositif de formation en entrÃ©es et sorties permanentes"
+          },
+          {
+            "startperiodvalidity": "03/10/2014",
+            "endperiodvalidity": "30/12/2014",
+            "adress": {
+              "street": "67000 Strasbourgasdfs",
+              "zip": "",
+              "locality": "3 Quai SÃ©bastopol"
+            },
+            "recruitmentstate": "",
+            "terms": "Dispositif den entrÃ©es et sorties permanentes"
+          }
+        ],
+        "lastupdate": "",
+        "ref": "",
+        "qualityrating": 0,
+        "teachersrating": 0,
+        "affordabilityrating": 0,
+        "headcountrating": 0,
+        "monitoringrating": 0,
+        "equipmentrating": 0,
+        "externalrating": 0,
+        "professionalisationrating": 0,
+        "salaryrating": 0,
+        "recognitionrating": 0,
+        "ambiancerating": 0,
+        "extraactivityrating": 0,
+        "globalrating": 0,
+        "ncomments": 0
+      },
+      "links": {
+        "self": "",
+        "first": ""
+      },
+      "Meta": {
+        "creation": "",
+        "modification": "",
+        "version": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+<!--
+                                                          :::      ::::::::
+     new-comment-formation.html                         :+:      :+:    :+:
+                                                      +:+ +:+         +:+
+     By: hdezier <hdezier@student.42.fr>            +#+  +:+       +#+
+                                                  +#+#+#+#+#+   +#+
+     Created: 2016/10/09 10:51:42 by hdezier           #+#    #+#
+     Updated: 2016/11/30 12:35:58 by hdezier          ###   ########.fr
+-->
+
+
+
+
+
+
+
+ {{define "newcommentformation"}}
+ <button class="ui fluid button" id="showScroll">
+ 	Laissez un avis
+ 	<i class="right dropdown icon"></i>
+ </button>
+ <div class="ui form segments transition hidden" id="post-comment">
+ 	<div class="field item">
+ 		<label>Quelle est votre position vis à vis de la formation ?</label>
+ 		<div class="ui fluid selection dropdown">
+ 			<input name="role" type="hidden">
+ 			<i class="dropdown icon"></i>
+ 			<div class="default text">Rôle</div>
+ 			<div class="menu">
+ 				<div class="item" data-value="student"><img class="ui mini image left floated" src="/static/img/student.png">Étudiant/Stagiaire</div>
+ 				<div class="item" data-value="graduated"><img class="ui mini image left floated" src="/static/img/graduate.png">Ancien étudiant/Diplômé</div>
+ 				<div class="item" data-value="teacher"><img class="ui mini image left floated" src="/static/img/teacher.png">Professeur/Enseignant</div>
+ 				<div class="item" data-value="employee"><img class="ui mini image left floated" src="/static/img/employee.png">Employé/Dirigeant</div>
+ 				<div class="item" data-value="external"><img class="ui mini image left floated" src="/static/img/confspeaker.png">Intervenant extérieur</div>
+ 				<div class="item" data-value="none"><img class="ui mini image left floated" src="/static/img/usergroup.png">Aucun</div>
+ 			</div>
+ 		</div>
+ 	</div>
+ 	<div class="field item">
+ 		<table class="ui celled padded table">
+ 			<thead><tr>
+ 				<th class="single line center">Critere</th>
+ 				<th class="single line center">Votre avis</th>
+ 			</tr></thead>
+ 			<tbody>
+ 				<tr>
+ 					<td>
+ 						<h5 class="ui aligned">
+ 							Note globale
+ 						</h5>
+ 					</td>
+ 					<td class="single line">
+ 						<div class="ui rating" data-max-rating="5" id="globalrating"></div>
+ 					</td>
+ 				</tr>
+ 				<tr>
+ 					<td>
+ 						<h5 class="ui aligned">
+ 							Quelle note vous semble le mieux représenter la qualité de l'enseignement transmis ? (sujets abordés, cohérence des matières, etc.)
+ 						</h5>
+ 					</td>
+ 					<td class="single line">
+ 						<div class="ui rating" data-max-rating="5" id="qualityrating"></div>
+ 					</td>
+ 				</tr>
+ 				<tr>
+ 					<td>
+ 						<h5 class="ui aligned">
+ 							Estimez vous les professeurs compétents et pédagogues ?
+ 						</h5>
+ 					</td>
+ 					<td class="single line">
+ 						<div class="ui rating" data-max-rating="5" id="teachersrating"></div>
+ 					</td>
+ 				</tr>
+ 				<tr>
+ 					<td>
+ 						<h5 class="ui aligned">
+ 							Le prix de la formation est il justifié ?
+ 						</h5>
+ 					</td>
+ 					<td class="single line">
+ 						<div class="ui rating" data-max-rating="5" id="affordabilityrating"></div>
+ 					</td>
+ 				</tr>
+ 				<tr>
+ 					<td>
+ 						<h5 class="ui aligned">
+ 							Les effectifs de classe sont ils corrects ?
+ 						</h5>
+ 					</td>
+ 					<td class="single line">
+ 						<div class="ui rating" data-max-rating="5" id="headcountrating"></div>
+ 					</td>
+ 				</tr>
+ 				<tr>
+ 					<td>
+ 						<h5 class="ui aligned">
+ 							Le suivi d'évaluation est il respecté et vous a t'il permis de progresser ?
+ 						</h5>
+ 					</td>
+ 					<td class="single line">
+ 						<div class="ui rating" data-max-rating="5" id="monitoringrating"></div>
+ 					</td>
+ 				</tr>
+ 				<tr>
+ 					<td>
+ 						<h5 class="ui aligned">
+ 							Les équipements et outils mis à votre disposition étaient ils adaptés a la formation ?
+ 						</h5>
+ 					</td>
+ 					<td class="single line">
+ 						<div class="ui rating" data-max-rating="5" id="equipmentrating"></div>
+ 					</td>
+ 				</tr>
+ 				<tr>
+ 					<td>
+ 						<h5 class="ui aligned">
+ 							La formation vous a t'elle permis de rencontrer des personnes extérieures ? (intervenants, professionels, etc.)
+ 						</h5>
+ 					</td>
+ 					<td class="single line">
+ 						<div class="ui rating" data-max-rating="5" id="externalrating"></div>
+ 					</td>
+ 				</tr>
+ 				<tr>
+ 					<td>
+ 						<h5 class="ui aligned">
+ 							Suite à la formation, vous considérez vous prêt à intégrer le milieu professionel ?
+ 						</h5>
+ 					</td>
+ 					<td class="single line">
+ 						<div class="ui rating" data-max-rating="5" id="professionalisationrating"></div>
+ 					</td>
+ 				</tr>
+ 				<tr>
+ 					<td>
+ 						<h5 class="ui aligned">
+ 							Les salaires de sortie proposés sont ils en accord avec ceux énoncés par l'école ?
+ 						</h5>
+ 					</td>
+ 					<td class="single line">
+ 						<div class="ui rating" data-max-rating="5" id="salaryrating"></div>
+ 					</td>
+ 				</tr>
+ 				<tr>
+ 					<td>
+ 						<h5 class="ui aligned">
+ 							La formation est elle reconnue dans le milieu professionnel ?
+ 						</h5>
+ 					</td>
+ 					<td class="single line">
+ 						<div class="ui rating" data-max-rating="5" id="recognitionrating"></div>
+ 					</td>
+ 				</tr>
+ 				<tr>
+ 					<td>
+ 						<h5 class="ui aligned">
+ 							Comment jugez vous l'ambiance pendant la formation ?
+ 						</h5>
+ 					</td>
+ 					<td class="single line">
+ 						<div class="ui rating" data-max-rating="5" id="ambiancerating"></div>
+ 					</td>
+ 				</tr>
+ 				<tr>
+ 					<td>
+ 						<h5 class="ui aligned">
+ 							La formation béneficie t'elle d'activités extra scolaires ?
+ 						</h5>
+ 					</td>
+ 					<td class="single line">
+ 						<div class="ui rating" data-max-rating="5" id="extraactivityrating"></div>
+ 					</td>
+ 				</tr>
+ 			</tbody>
+ 		</table>
+ 	</div>
+ 	<div class="field item">
+ 		<label>&nbsp;&nbsp;&nbsp;Commentaire</label>
+ 		<textarea rows="2" id="comment-content"></textarea>
+ 	</div>
+ 	<button class="ui primary submit button" type="submit" onclick="submitCommentFormation();">Valider</button>
+ </div>
+ {{end}}

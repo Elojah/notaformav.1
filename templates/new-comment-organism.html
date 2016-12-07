@@ -1,0 +1,123 @@
+<!--
+                                                          :::      ::::::::
+     new-comment-organism.html                          :+:      :+:    :+:
+                                                      +:+ +:+         +:+
+     By: hdezier <hdezier@student.42.fr>            +#+  +:+       +#+
+                                                  +#+#+#+#+#+   +#+
+     Created: 2016/10/09 10:51:42 by hdezier           #+#    #+#
+     Updated: 2016/11/30 12:35:52 by hdezier          ###   ########.fr
+-->
+
+
+
+
+
+ {{define "newcommentorganism"}}
+ <button class="ui fluid button" id="showScroll">
+ 	Laissez un avis
+ 	<i class="right dropdown icon"></i>
+ </button>
+ <div class="ui form segments transition hidden" id="post-comment">
+ 	<div class="field item">
+ 		<label>Quelle est votre position vis à vis de l'organisme ?</label>
+ 		<div class="ui fluid selection dropdown">
+ 			<input name="role" type="hidden">
+ 			<i class="dropdown icon"></i>
+ 			<div class="default text">Rôle</div>
+ 			<div class="menu">
+ 				<div class="item" data-value="student"><img class="ui mini image left floated" src="/static/img/student.png">Étudiant/Stagiaire</div>
+ 				<div class="item" data-value="graduated"><img class="ui mini image left floated" src="/static/img/graduate.png">Ancien étudiant/Diplômé</div>
+ 				<div class="item" data-value="teacher"><img class="ui mini image left floated" src="/static/img/teacher.png">Professeur/Enseignant</div>
+ 				<div class="item" data-value="employee"><img class="ui mini image left floated" src="/static/img/employee.png">Employé/Dirigeant</div>
+ 				<div class="item" data-value="external"><img class="ui mini image left floated" src="/static/img/confspeaker.png">Intervenant extérieur</div>
+ 				<div class="item" data-value="none"><img class="ui mini image left floated" src="/static/img/usergroup.png">Aucun</div>
+ 			</div>
+ 		</div>
+ 	</div>
+ 	<div class="field item">
+ 		<table class="ui celled padded table">
+ 			<thead><tr>
+ 				<th class="single line center">Critere</th>
+ 				<th class="single line center">Votre avis</th>
+ 			</tr></thead>
+ 			<tbody>
+ 				<tr>
+ 					<td>
+ 						<h5 class="ui aligned">
+ 							Note globale
+ 						</h5>
+ 					</td>
+ 					<td class="single line">
+ 					<div class="ui rating" data-max-rating="5" id="globalrating"></div>
+ 					</td>
+ 				</tr>
+ 				<tr>
+ 					<td>
+ 						<h5 class="ui aligned">
+ 							Les locaux proposés sont ils entretenus correctement ?
+ 						</h5>
+ 					</td>
+ 					<td class="single line">
+ 						<div class="ui rating" data-max-rating="5" id="hygienerating"></div>
+ 					</td>
+ 				</tr>
+ 				<tr>
+ 					<td>
+ 						<h5 class="ui aligned">
+ 							La superficie des locaux proposés est elle convenable ?
+ 						</h5>
+ 					</td>
+ 					<td class="single line">
+ 						<div class="ui rating" data-max-rating="5" id="sizerating"></div>
+ 					</td>
+ 				</tr>
+ 				<tr>
+ 					<td>
+ 						<h5 class="ui aligned">
+ 							Les démarches administratives sont elles facilitées par l'organisme ?
+ 						</h5>
+ 					</td>
+ 					<td class="single line">
+ 						<div class="ui rating" data-max-rating="5" id="adminrating"></div>
+ 					</td>
+ 				</tr>
+ 				<tr>
+ 					<td>
+ 						<h5 class="ui aligned">
+ 							Les locaux sont ils faciles d'accès ? (transports communs, parking, etc.)
+ 						</h5>
+ 					</td>
+ 					<td class="single line">
+ 						<div class="ui rating" data-max-rating="5" id="accessibilityrating"></div>
+ 					</td>
+ 				</tr>
+ 				<tr>
+ 					<td>
+ 						<h5 class="ui aligned">
+ 							Le cadre environnemental autour de l'école est il agréable ?
+ 						</h5>
+ 					</td>
+ 					<td class="single line">
+ 						<div class="ui rating" data-max-rating="5" id="environmentalrating"></div>
+ 					</td>
+ 				</tr>
+ 				<tr>
+ 					<td>
+ 						<h5 class="ui aligned">
+ 							Les équipement proposés sont ils de qualité ? (machine a café, équipement sportifs, etc.)
+ 						</h5>
+ 					</td>
+ 					<td class="single line">
+ 						<div class="ui rating" data-max-rating="5" id="stuffrating"></div>
+ 					</td>
+ 				</tr>
+ 			</tbody>
+ 		</table>
+ 	</div>
+ 	<div class="field">
+ 		<label>&nbsp;&nbsp;&nbsp;Commentaire</label>
+ 		<textarea rows="2" id="comment-content"></textarea>
+ 	</div>
+ 	<button class="ui primary submit button" type="submit" onclick="submitCommentOrganism();">Valider</button>
+ </div>
+ {{end}}

@@ -1,0 +1,571 @@
+<!--
+                                                          :::      ::::::::
+     criteria.html                                      :+:      :+:    :+:
+                                                      +:+ +:+         +:+
+     By: hdezier <hdezier@student.42.fr>            +#+  +:+       +#+
+                                                  +#+#+#+#+#+   +#+
+     Created: 2016/11/27 16:13:09 by hdezier           #+#    #+#
+     Updated: 2016/11/27 17:27:51 by hdezier          ###   ########.fr
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <!DOCTYPE html>
+ <html lang="fr">
+ <head>
+ 	<meta charset="utf-8">
+ 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+ 	<meta name="viewport" content="width=device-width, initial-scale=1">
+ 	<meta name="robots" content=""/> <!-- A check pour le referencement -->
+ 	<title>Critères d'évaluation</title>
+ 	<link rel="stylesheet" type="text/css" href="static/css/home.css">
+ 	<link href="/static/css/common.css" rel="stylesheet">
+ 	<link href="/static/css/semantic.min.css" rel="stylesheet">
+ 	<link rel="icon" type="image/png" href="static/img/NF.png">
+ 	<link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"> <!-- Google font -->
+ </head>
+ <body class="body-bottom">
+ 	{{template "header" .}}
+ 	<!-- Page Contents -->
+ 	<div class="pusher">
+ 		<div class="ui container">
+ 			<h1 class="ui dividing header">
+ 				<img class="ui image" src="/static/img/criteria.png">
+ 				<div class="content">
+ 					Nos critères d'évaluation
+ 				</div>
+ 			</h1>
+ 			<div class="ui list">
+ 				<div class="item">
+ 					<i class="bullseye icon"></i>
+ 					<div class="content">
+ 						<div class="header">Objectifs</div>
+ 						<div class="description">L’identification précise des objectifs de la formation et son adaptation au public formé</div>
+ 						<div class="list">
+ 							<div class="item">
+ 								<i class="book icon"></i>
+ 								<div class="content">
+ 									<div class="header">Contenu</div>
+ 									<div class="list">
+ 										<div class="item">
+ 											<i class="circle icon"></i>
+ 											<div class="content">
+ 												<div class="description">Le contenu de la formation est il adapté aux attentes et objectifs poursuivis ?</div>
+ 											</div>
+ 										</div>
+ 										<div class="item">
+ 											<i class="circle icon"></i>
+ 											<div class="content">
+ 												<div class="description">Difficulté</div>
+ 											</div>
+ 										</div>
+ 										<div class="item">
+ 											<i class="circle icon"></i>
+ 											<div class="content">
+ 												<div class="description">Intérêt des objectifs, utilité de cette formation</div>
+ 											</div>
+ 										</div>
+ 										<div class="item">
+ 											<i class="circle icon"></i>
+ 											<div class="content">
+ 												<div class="description">Les différents thèmes abordés sont ils cohérents entre eux ?</div>
+ 											</div>
+ 										</div>
+ 										<div class="item">
+ 											<i class="circle icon"></i>
+ 											<div class="content">
+ 												<div class="description">Vos objectifs vis à vis de la formation ont ils été atteints ?</div>
+ 											</div>
+ 										</div>
+ 										<div class="item">
+ 											<i class="circle icon"></i>
+ 											<div class="content">
+ 												<div class="description">Décrivez comment est équilibré votre programme entre théorie, cours pratiques et réflexion</div>
+ 											</div>
+ 										</div>
+ 										<div class="item">
+ 											<i class="circle icon"></i>
+ 											<div class="content">
+ 												<div class="description">Les apprentissages sont ils transposables sur le lieu de travail post formation ou au contraire nécessitent des formations complémentaires ? (auquel cas la formation n’a pas répondu aux besoins)</div>
+ 											</div>
+ 										</div>
+ 										<div class="item">
+ 											<i class="circle icon"></i>
+ 											<div class="content">
+ 												<div class="description">La formation m’a t'elle apporté de nouvelles connaissances ?</div>
+ 											</div>
+ 										</div>
+ 									</div>
+ 								</div>
+ 							</div>
+ 						</div>
+ 					</div>
+ 				</div>
+ 				<div class="item">
+ 					<i class="home icon"></i>
+ 					<div class="content">
+ 						<div class="header">Accueil et suivi</div>
+ 						<div class="description">L’adaptation des dispositifs d’accueil, de suivi pédagogique et d’évaluation aux publics de stagiaires</div>
+ 						<div class="list">
+ 							<div class="item">
+ 								<i class="wait icon"></i>
+ 								<div class="content">
+ 									<div class="header">Horaires</div>
+ 									<div class="list">
+ 										<div class="item">
+ 											<i class="circle icon"></i>
+ 											<div class="content">
+ 												<div class="description">Le volume horaire est il adéquat par rapport aux objectifs poursuivis (formation ni trop longue, ni trop courte)</div>
+ 											</div>
+ 										</div>
+ 									</div>
+ 								</div>
+ 							</div>
+ 							<div class="item">
+ 								<i class="building outline icon"></i>
+ 								<div class="content">
+ 									<div class="header">Locaux</div>
+ 									<div class="list">
+ 										<div class="item">
+ 											<i class="circle icon"></i>
+ 											<div class="content">
+ 												<div class="description">La taille des groupes est elle adéquate ? (ni trop grand ni trop petit selon le type de formation)</div>
+ 											</div>
+ 										</div>
+ 										<div class="item">
+ 											<i class="circle icon"></i>
+ 											<div class="content">
+ 												<div class="description">État global des locaux</div>
+ 											</div>
+ 										</div>
+ 										<div class="item">
+ 											<i class="circle icon"></i>
+ 											<div class="content">
+ 												<div class="description">Surface disponible pour chacun</div>
+ 											</div>
+ 										</div>
+ 										<div class="item">
+ 											<i class="circle icon"></i>
+ 											<div class="content">
+ 												<div class="description">Isolation phonique, température, éclairage</div>
+ 											</div>
+ 										</div>
+ 										<div class="item">
+ 											<i class="circle icon"></i>
+ 											<div class="content">
+ 												<div class="description">Accessibilité (de la salle, de la restauration ...)</div>
+ 											</div>
+ 										</div>
+ 									</div>
+ 								</div>
+ 							</div>
+ 							<div class="item">
+ 								<i class="file text outline icon"></i>
+ 								<div class="content">
+ 									<div class="header">Évaluation</div>
+ 									<div class="list">
+ 										<div class="item">
+ 											<i class="circle icon"></i>
+ 											<div class="content">
+ 												<div class="description">Les critères de notation sont précis et diffusés ?</div>
+ 											</div>
+ 										</div>
+ 										<div class="item">
+ 											<i class="circle icon"></i>
+ 											<div class="content">
+ 												<div class="description">Les critères de notation sont systématiquement respectés.</div>
+ 											</div>
+ 										</div>
+ 										<div class="item">
+ 											<i class="circle icon"></i>
+ 											<div class="content">
+ 												<div class="description">Les connaissances et les compétences acquises sont périodiquement évaluées</div>
+ 											</div>
+ 										</div>
+ 									</div>
+ 								</div>
+ 							</div>
+ 						</div>
+ 					</div>
+ 				</div>
+ 				<div class="item">
+ 					<i class="object group icon"></i>
+ 					<div class="content">
+ 						<div class="header">Moyens mis en oeuvre</div>
+ 						<div class="description">L’adéquation des moyens pédagogiques, techniques et d’encadrement à l’offre de formation</div>
+ 						<div class="list">
+ 							<div class="item">
+ 								<i class="circle icon"></i>
+ 								<div class="content">
+ 									<div class="description">La pédagogie employée est elle adaptée aux objectifs visés et au contenu ?</div>
+ 								</div>
+ 							</div>
+ 							<div class="item list">
+ 								<div class="item">
+ 									<i class="lab icon"></i>
+ 									<div class="content">
+ 										<div class="header">Matériel pédagogique</div>
+ 										<div class="list">
+ 											<div class="item">
+ 												<i class="circle icon"></i>
+ 												<div class="content">
+ 													<div class="description">Adaptation au contenu de la formation</div>
+ 												</div>
+ 											</div>
+ 											<div class="item">
+ 												<i class="circle icon"></i>
+ 												<div class="content">
+ 													<div class="description">Accessibilité, état</div>
+ 												</div>
+ 											</div>
+ 											<div class="item">
+ 												<i class="circle icon"></i>
+ 												<div class="content">
+ 													<div class="description">Le matériel est conforme au matériel utilisé dans le monde professionnel</div>
+ 												</div>
+ 											</div>
+ 											<div class="item">
+ 												<i class="circle icon"></i>
+ 												<div class="content">
+ 													<div class="description">Possibilité d'utilisation</div>
+ 												</div>
+ 											</div>
+ 										</div>
+ 									</div>
+ 								</div>
+ 								<div class="item">
+ 									<i class="users icon"></i>
+ 									<div class="content">
+ 										<div class="header">Participants</div>
+ 										<div class="list">
+ 											<div class="item">
+ 												<i class="circle icon"></i>
+ 												<div class="content">
+ 													<div class="description">Ambiance générale</div>
+ 												</div>
+ 											</div>
+ 											<div class="item">
+ 												<i class="circle icon"></i>
+ 												<div class="content">
+ 													<div class="description">Nombre, présence, motivation</div>
+ 												</div>
+ 											</div>
+ 											<div class="item">
+ 												<i class="circle icon"></i>
+ 												<div class="content">
+ 													<div class="description">Hétérogénéité</div>
+ 												</div>
+ 											</div>
+ 											<div class="item">
+ 												<i class="circle icon"></i>
+ 												<div class="content">
+ 													<div class="description">Attention, participation</div>
+ 												</div>
+ 											</div>
+ 										</div>
+ 									</div>
+ 								</div>
+ 								<div class="item">
+ 									<i class="cubes icon"></i>
+ 									<div class="content">
+ 										<div class="header">Organisation</div>
+ 										<div class="list">
+ 											<div class="item">
+ 												<i class="circle icon"></i>
+ 												<div class="content">
+ 													<div class="description">Durée des formations, durée des pauses, équilibre entre les séquences, temps de réflexion personnelle</div>
+ 												</div>
+ 											</div>
+ 										</div>
+ 									</div>
+ 								</div>
+ 								<div class="item">
+ 									<i class="thumbs up icon"></i>
+ 									<div class="content">
+ 										<div class="header">Respect des engagements</div>
+ 										<div class="list">
+ 											<div class="item">
+ 												<i class="circle icon"></i>
+ 												<div class="content">
+ 													<div class="description">Objectifs, dates</div>
+ 												</div>
+ 											</div>
+ 											<div class="item">
+ 												<i class="circle icon"></i>
+ 												<div class="content">
+ 													<div class="description">Liens avec la profession et avec l'extérieur</div>
+ 												</div>
+ 											</div>
+ 										</div>
+ 									</div>
+ 								</div>
+ 								<div class="item">
+ 									<i class="circle icon"></i>
+ 									<div class="content">
+ 										<div class="description">Les supports pédagogiques et la documentation sont disponibles et fonctionnels.</div>
+ 									</div>
+ 								</div>
+ 								<div class="item">
+ 									<i class="circle icon"></i>
+ 									<div class="content">
+ 										<div class="description">Décrivez l’impulsion pour le développement/l’amélioration des programmes au cours des dernières années (par exemple: actualisation des activités par le biais de nouveaux cours).</div>
+ 									</div>
+ 								</div>
+ 								<div class="item">
+ 									<i class="circle icon"></i>
+ 									<div class="content">
+ 										<div class="description">Prendre appui sur l’expérience des participants, favoriser leur créativité</div>
+ 									</div>
+ 								</div>
+ 							</div>
+ 						</div>
+ 					</div>
+ 				</div>
+ 				<div class="item">
+ 					<i class="trophy icon"></i>
+ 					<div class="content">
+ 						<div class="header">Qualification des formateurs</div>
+ 						<div class="description">La qualification professionnelle et la formation continue des personnels chargés des formations</div>
+ 						<div class="list">
+ 							<div class="item">
+ 								<i class="student icon"></i>
+ 								<div class="content">
+ 									<div class="header">Formateur</div>
+ 									<div class="list">
+ 										<div class="item">
+ 											<i class="circle icon"></i>
+ 											<div class="content">
+ 												<div class="header">Aptitudes</div>
+ 												<div class="list">
+ 													<div class="item">
+ 														<i class="circle icon"></i>
+ 														<div class="content">
+ 															<div class="description">Élocution, postures, tenue</div>
+ 														</div>
+ 													</div>
+ 													<div class="item">
+ 														<i class="circle icon"></i>
+ 														<div class="content">
+ 															<div class="description">Utilisation de différentes méthodes pédagogiques ?</div>
+ 														</div>
+ 													</div>
+ 													<div class="item">
+ 														<i class="circle icon"></i>
+ 														<div class="content">
+ 															<div class="description">Utilisation de méthodes interactives ?</div>
+ 														</div>
+ 													</div>
+ 													<div class="item">
+ 														<i class="circle icon"></i>
+ 														<div class="content">
+ 															<div class="description">Le formateur met en place des outils favorisant l’acquisition des connaissances/compétences</div>
+ 														</div>
+ 													</div>
+ 												</div>
+ 											</div>
+ 										</div>
+ 										<div class="item">
+ 											<i class="circle icon"></i>
+ 											<div class="content">
+ 												<div class="header">Compétences</div>
+ 												<div class="list">
+ 													<div class="item">
+ 														<i class="circle icon"></i>
+ 														<div class="content">
+ 															<div class="description">Maîtrise de la matière pratique ? théorique ?</div>
+ 														</div>
+ 													</div>
+ 													<div class="item">
+ 														<i class="circle icon"></i>
+ 														<div class="content">
+ 															<div class="description">Qualité des exemples</div>
+ 														</div>
+ 													</div>
+ 													<div class="item">
+ 														<i class="circle icon"></i>
+ 														<div class="content">
+ 															<div class="description">Les problèmes soulevés sont ils concrets ?</div>
+ 														</div>
+ 													</div>
+ 												</div>
+ 											</div>
+ 										</div>
+ 										<div class="item">
+ 											<i class="circle icon"></i>
+ 											<div class="content">
+ 												<div class="header">Motivation</div>
+ 												<div class="list">
+ 													<div class="item">
+ 														<i class="circle icon"></i>
+ 														<div class="content">
+ 															<div class="description">Favorisation des interactions dans le groupe</div>
+ 														</div>
+ 													</div>
+ 													<div class="item">
+ 														<i class="circle icon"></i>
+ 														<div class="content">
+ 															<div class="description">Adaptation au groupe</div>
+ 														</div>
+ 													</div>
+ 													<div class="item">
+ 														<i class="circle icon"></i>
+ 														<div class="content">
+ 															<div class="description">Prise en compte de l'hétérogénéité des participants</div>
+ 														</div>
+ 													</div>
+ 												</div>
+ 											</div>
+ 										</div>
+ 										<div class="item">
+ 											<i class="circle icon"></i>
+ 											<div class="content">
+ 												<div class="header">Disponibilité</div>
+ 												<div class="list">
+ 													<div class="item">
+ 														<i class="circle icon"></i>
+ 														<div class="content">
+ 															<div class="description">Disponibilité hors cadre</div>
+ 														</div>
+ 													</div>
+ 													<div class="item">
+ 														<i class="circle icon"></i>
+ 														<div class="content">
+ 															<div class="description">Adaptation du rythme, du contenu</div>
+ 														</div>
+ 													</div>
+ 												</div>
+ 											</div>
+ 										</div>
+ 									</div>
+ 								</div>
+ 							</div>
+ 							<div class="item">
+ 								<i class="male icon"></i>
+ 								<div class="content">
+ 									<div class="header">Intervenants extérieurs</div>
+ 									<div class="list">
+ 										<div class="item">
+ 											<i class="circle icon"></i>
+ 											<div class="content">
+ 												<div class="description">Fréquence</div>
+ 											</div>
+ 										</div>
+ 										<div class="item">
+ 											<i class="circle icon"></i>
+ 											<div class="content">
+ 												<div class="description">Pertinence</div>
+ 											</div>
+ 										</div>
+ 									</div>
+ 								</div>
+ 							</div>
+ 						</div>
+ 					</div>
+ 				</div>
+ 				<div class="item">
+ 					<i class="unhide icon"></i>
+ 					<div class="content">
+ 						<div class="header">Transparence</div>
+ 						<div class="description">Les conditions d’information du public sur l’offre de formation, ses délais d’accès et les résultats obtenus</div>
+ 						<div class="list">
+ 							<div class="item">
+ 								<i class="circle icon"></i>
+ 								<div class="content">
+ 									<div class="description">Les objectifs visés par la formation sont ils clairement énoncés ?</div>
+ 								</div>
+ 							</div>
+ 							<div class="item">
+ 								<i class="circle icon"></i>
+ 								<div class="content">
+ 									<div class="description">Les «pré-requis» des bénéficiaires sont ils clairs et vérifiés ?</div>
+ 								</div>
+ 							</div>
+ 							<div class="item">
+ 								<i class="circle icon"></i>
+ 								<div class="content">
+ 									<div class="description">Existe t'il un accès public à un programme écrit et détaillé, précisant notamment les moyens pédagogiques et d’encadrement mobilisés</div>
+ 								</div>
+ 							</div>
+ 							<div class="item">
+ 								<i class="circle icon"></i>
+ 								<div class="content">
+ 									<div class="description">Description des actions mises en œuvre</div>
+ 								</div>
+ 							</div>
+ 							<div class="item">
+ 								<i class="circle icon"></i>
+ 								<div class="content">
+ 									<div class="description">Plaquettes, catalogue, site Web, explication des moyens de commercialisation</div>
+ 								</div>
+ 							</div>
+ 							<div class="item">
+ 								<i class="circle icon"></i>
+ 								<div class="content">
+ 									<div class="description">Accessibilité et fiabilité du site internet Clarté et intelligibilité de l’offre pédagogique</div>
+ 								</div>
+ 							</div>
+ 						</div>
+ 					</div>
+ 				</div>
+ 				<div class="item">
+ 					<i class="external share icon"></i>
+ 					<div class="content">
+ 						<div class="header">Considération des appréciations</div>
+ 						<div class="description">La prise en compte des appréciations rendues par les stagiaires</div>
+ 						<div class="list">
+ 							<div class="item">
+ 								<i class="circle icon"></i>
+ 								<div class="content">
+ 									<div class="description">L'organisme a t'il consideré vos remarques/avis avant, pendant et après la formation ?</div>
+ 								</div>
+ 							</div>
+ 						</div>
+ 					</div>
+ 				</div>
+ 			</div>
+ 		</div>
+ 		<div>
+ 			{{template "footer"}}
+ 		</div>
+ 	</body>
+ 	{{template "scripts"}}
+ 	</html>

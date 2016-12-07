@@ -1,0 +1,39 @@
+Re Fx,
+
+Apres reflexion voici comment j'envisage la chose:
+
+En plus de toute la partie publique envisagée avec dorenavant des connexions + communes (google, fb)
+- Creation d'un avis certifie comportant plus de details
+- Il y aura 2 notes globales independantes pour chaque formation/organisme. La note utilisateur et la note certifiee
+- L'avis certifie peut etre provoque:
+	* Soit par l'organisme qui nous enverra une liste de mail/noms
+	* Soit par un utilisateur courant qui demande a donner un avis certifie. Dans ce cas l'utilisateur initiera une demande aupres de l'organisme qui pourra accepter ou non
+- Une fois l'avis complete, l'organisme aura droit de regard et pourra decider de l'accepter ou non. Une justification sera demandée en cas de refus et sera renvoyée à l'utilisateur
+- L'avis est validé, il participe à la note certifiee. Peut etre laisser la possibilité de le publier ?
+
+3 points importants:
+
+- Nous proposerons les démarches côté organisme via un dashboard, le succés du système est donc fortement dépendant de l'activité des organismes sur la plateforme.
+Un partenariat avec la FFP peut etre decisif pour faire connaitre la plateforme, lui donner du poids et inciter les organismes a l'utiliser
+
+- J'ai rassemble ~900 critères venant de docs officiels/études, etc. Il y a des grandes lignes qui en ressortent et des questions recurrentes.
+Cependant beaucoup ne se basent pas sur un retour utilisateur mais grossierement sur des documents que l'organisme doit fournir
+exemples au hasard:
+```
+	Programmes détaillés (catalogue des programmes détaillés)
+	Existence de contrats signés avec des financeurs (Etat, Région, Pôle Emploi)
+	Attestation annuelle du niveau d’investissement en formation pour ses formateurs et du % formé
+	Rapport d’audit interne
+```
+Je pense que certains de ces criteres sont importants dans l'evaluation d'une formation et passer outre biaiserait fortement les resultats.
+Cependant nous ne sommes aucunement qualifiés pour exiger ces documents, averer leur veracité et surtout pouvoir tous les verifier.
+Je n'ai pas de solution pour l'instant.
+
+- La charge de travail requise est BEAUCOUP plus importante, notamment en terme de temps
+(dashboard complet, lisser les criteres, verification des organismes, partenariats a obtenir, + de donnees a traiter donc scaling a gerer, etc.)
+Si nous sommes dans les temps pour un proto presentable de type FormAdvisor "v1" fin novembre et un appli fonctionnelle au 1er janvier, nous ne sommes pas en avance non plus et cette "v2" est intenable.
+En dehors de toute obligation personnelle il nous faudra soit + de temps, soit + de dev (sachant qu'il est tres difficile de trouver des devs impliques pour peu ou pas de $, meme a 42).
+Ceci explique nos mines deconfites lorsqu'on a echange tout a l'heure :)
+
+Donc dis moi ce que tu en penses, est ce que ca correspond a l'idée que tu t'en fais, et sinon pourquoi.
+Rien de ce qui n'est presente au dessus ne sera implemente pour la presentation, on en parlera et on aura peut etre quelques slides mais c'est tout.

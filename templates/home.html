@@ -1,0 +1,89 @@
+<!--
+                                                          :::      ::::::::
+     home.html                                          :+:      :+:    :+:
+                                                      +:+ +:+         +:+
+     By: drabahi <drabahi@student.42.fr>            +#+  +:+       +#+
+                                                  +#+#+#+#+#+   +#+
+     Created: 2016/10/12 17:50:40 by hdezier           #+#    #+#
+     Updated: 2016/11/25 20:01:46 by drabahi          ###   ########.fr
+-->
+
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content=""/> <!-- A check pour le referencement -->
+	<title>NotaForma</title>
+	<link rel="stylesheet" type="text/css" href="static/css/home.css">
+	<link href="/static/css/common.css" rel="stylesheet">
+	<link href="/static/css/semantic.min.css" rel="stylesheet">
+  <link rel="icon" type="image/png" href="static/img/NF.png">
+  <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"> <!-- Google font -->
+</head>
+<body class="body-bottom">
+	{{template "header" .}}
+<!-- Page Contents -->
+<div class="pusher">
+  <div class="ui inverted vertical masthead center aligned segment" style="background-image:url('/static/img/imghome.png');background-size: cover;min-height: 442px; background-repeat: no-repeat;">
+      <div class="ui text container">
+      </div>
+  </div>
+  <div class="ui vertical stripe quote segment">
+    <div class="ui small image floated">
+      <img src="/static/img/fournitures.png">
+    </div>
+    <h1>Qu'est ce que NotaForma ?</h1>
+    <p>NotaForma est un outil de recherche de formations, de notation et d'accompagnement aux organismes.</p>
+  </div>
+
+  <div class="ui vertical stripe quote segment">
+    <div class="ui equal width stackable internally celled grid">
+      <div class="center aligned row">
+        <div class="column">
+        <img src="/static/img/picto_certif.png">
+          <h3 class="ui header colorvertbleu">Certification</h3>
+          <p>
+          Nous travaillons directement avec les organismes afin de garantir la véracité et la pertinence des avis déposés chez NotaForma.
+          </p>
+        </div>
+        <div class="column">
+        <img src="/static/img/picto_team.png">
+          <h3 class="ui header colorvertbleu">Communauté</h3>
+          <p>
+          Au delà d'un simple outil de notation, NotaForma regroupe une communauté de plusieurs milliers de personnes investies pour le progrès de la formation et de l'éducation en France.
+          </p>
+        </div>
+        <div class="column">
+        <img src="/static/img/picto_book.png">
+          <h3 class="ui header colorvertbleu">Annuaire</h3>
+          <p>
+          Notre annuaire regroupe plusieurs milliers d'organismes et de formations reconnues par domaine. Cherchez et trouvez la formation qui vous correspond !
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="ui vertical stripe segment">
+<!--     <div class="ui text container">
+      <h3 class="ui header">La formation la plus notee</h3>
+      <p></p>
+      <a class="ui large button">voir la fiche formation</a>
+      <h4 class="ui horizontal header divider">
+      </h4>
+      <h3 class="ui header">L'organisme le plus notee</h3>
+      <p></p>
+      <a class="ui large button">voir la fiche organisme</a>
+    </div>
+ -->
+  </div>
+  </div>
+<div>
+	{{template "footer"}}
+</div>
+</body>
+{{template "scripts"}}
+</html>

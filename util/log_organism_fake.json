@@ -1,0 +1,68 @@
+[
+    {
+        "id": "org42idsupergener",
+        "name": "42",
+        "corporatename": "Association 42",
+        "contact": {
+            "adress": {
+                "street": "96 boulevard Bessières",
+                "zip": "75017",
+                "locality": "Paris"
+            },
+            "tel": " 06 76 59 02 79",
+            "fax": "",
+            "website": "http://www.42.fr",
+            "mail": "adm@42.fr",
+            "name": ""
+        },
+        "siret": " 79119919300016",
+        "registrationnumber": "11755023475",
+        "fields": {
+            "Information, communication": [
+                "Architecture",
+                "système information",
+                "Informatique Info",
+                "Programmation Info",
+                "Programmation orientée objet Info",
+                "Programmation web"
+            ],
+            "Sciences": [
+                "Algorithme"
+            ]
+        },
+        "formations": [
+            "form1de42",
+            ""
+        ]
+    },
+    {
+        "id": "orgifsiidsupergener",
+        "name": "AP-HP - IFSI BICHAT CLAUDE BERNARD",
+        "corporatename": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS - ECOLE D'INFIRMIERES - AP-HP",
+        "contact": {
+            "adress": {
+                "street": "133 BOULEVARD NEY",
+                "zip": "75018",
+                "locality": "Paris"
+            },
+            "tel": "01 44 85 28 00",
+            "fax": "",
+            "website": "http://formation.aphp.fr/ecoles/index.php?ide=16",
+            "mail": "ifsi1.bichat@bch.ap-hop-paris.fr",
+            "name": ""
+        },
+        "siret": " 26750045200037",
+        "registrationnumber": "1175P015675",
+        "fields": {
+            "Services aux personnes": [
+                "Aide-soignant Info",
+                "Auxiliaire vie sociale Info",
+                "Enfance",
+                "Infirmier",
+                "Petite enfance"
+            ]
+        },
+        "formations": [
+        ]
+    }
+]

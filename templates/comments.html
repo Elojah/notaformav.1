@@ -1,0 +1,27 @@
+<!--
+                                                          :::      ::::::::
+     comments.html                                      :+:      :+:    :+:
+                                                      +:+ +:+         +:+
+     By: hdezier <hdezier@student.42.fr>            +#+  +:+       +#+
+                                                  +#+#+#+#+#+   +#+
+     Created: 2016/10/26 19:48:07 by drabahi           #+#    #+#
+     Updated: 2016/12/04 16:32:59 by hdezier          ###   ########.fr
+-->
+
+
+   {{define "comments"}}
+   <div class="ui stackable two column centered grid">
+    <div class="ui column comments">
+     <h3 class="ui dividing header">Avis positif le plus pertinent</h3>
+     <div class="ui" id="list-comments"></div>
+   </div>
+   <div class="ui column comments" style="margin-top: 0;">
+    <h3 class="ui dividing header">Avis négatif le plus pertinent</h3>
+    <div class="ui" id="list-comments">
+    </div>
+  </div>
+</div>
+</div>
+<div class="ui pagination menu" id="list-comments-pagination"></div>
+
+{{end}}
